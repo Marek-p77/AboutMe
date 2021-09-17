@@ -8,3 +8,4 @@
 ✉️Můj e-mail: marek.mnp@seznam.cz
 
 🔭Měl jsem 6 let svůj Minecraft server Mineverse RPG. Možná chystám něco velkého.🤔
+Kdo ví? Třeba tu na GitHubu budu i něco mít :D
