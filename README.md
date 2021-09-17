@@ -7,4 +7,4 @@
 🔊Můj discord: 🔥𝕄𝕒𝕣𝕖𝕜_𝕡🔥#4775
 ✉️Můj e-mail: marek.mnp@seznam.cz
 
-🔭Měl jsem 6 let svůj Minecraft server Mineverse RPG. Možná v chystám něco velkého.🤔
+🔭Měl jsem 6 let svůj Minecraft server Mineverse RPG. Možná chystám něco velkého.🤔
