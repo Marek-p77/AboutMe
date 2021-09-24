@@ -1,4 +1,4 @@
-# aboutme
+# AboutMe
 📜Menší info o mě a mých projektech.
 
 👋Ahoj, jmenuji se Marek. Je mi 16 let a jsem začínající developer webových aplikací. 
