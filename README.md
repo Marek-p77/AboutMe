@@ -6,6 +6,7 @@
 
 🔊Můj discord: 🔥𝕄𝕒𝕣𝕖𝕜_𝕡🔥#4775
 ✉️Můj e-mail: marek.mnp@seznam.cz
+Můj discord server: https://dsc.gg/galaxycode
 
 🔭Měl jsem 6 let svůj Minecraft server Mineverse RPG. Možná chystám něco velkého.🤔
 Kdo ví? Třeba tu na GitHubu budu i něco mít :D
