@@ -6,7 +6,7 @@
 
 🔊Můj discord: 🔥𝕄𝕒𝕣𝕖𝕜_𝕡🔥#4775
 ✉️Můj e-mail: marek.mnp@seznam.cz
-Můj discord server: https://dsc.gg/galaxycode
+Můj discord server pro podporu a učení v programování: https://dsc.gg/galaxycode
+Jsem Hl.Developer na Minecraft serveru FallenKingdoms a Developer na serveru IridiumCraft. Pomáhám na amatérském free hostingu ZipedHost.eu a rád programuji :)
 
 🔭Měl jsem 6 let svůj Minecraft server Mineverse RPG. Možná chystám něco velkého.🤔
-Kdo ví? Třeba tu na GitHubu budu i něco mít :D
