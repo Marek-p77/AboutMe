@@ -9,4 +9,4 @@
 Můj discord server pro podporu a učení v programování: https://dsc.gg/galaxycode
 Jsem Hl.Developer na Minecraft serveru FallenKingdoms a Developer na serveru IridiumCraft. Pomáhám na amatérském free hostingu ZipedHost.eu a rád programuji :)
 
-🔭Měl jsem 6 let svůj Minecraft server Mineverse RPG. Možná chystám něco velkého.🤔
+🔭Měl jsem 6 let svůj Minecraft server Mineverse RPG, kdo ví? Třeba se někdy vrátí... Možná chystám něco velkého.🤔
