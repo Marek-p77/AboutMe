@@ -5,7 +5,7 @@
 🎓Umím v HTML, CSS a v PHP. Učím se Python a JavaScript.
 
 🔊Můj discord: 🔥𝕄𝕒𝕣𝕖𝕜_𝕡🔥#4775
-✉️Můj e-mail: marek.mnp@seznam.cz
+✉️Můj e-mail: marek.mnp@seznam.cz 
 Můj discord server pro podporu a učení v programování: https://dsc.gg/galaxycode
 Jsem Hl.Developer na Minecraft serveru FallenKingdoms a Developer na serveru IridiumCraft. Pomáhám na amatérském free hostingu ZipedHost.eu a rád programuji :)
 
