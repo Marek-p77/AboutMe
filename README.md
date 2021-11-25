@@ -7,6 +7,13 @@
 🔊Můj discord: 🔥𝕄𝕒𝕣𝕖𝕜_𝕡🔥#4775 
 ✉️Můj e-mail: marek.mnp@seznam.cz 
 Můj discord server pro podporu a učení v programování: https://dsc.gg/galaxycode
-Jsem Hl.Developer na Minecraft serveru FallenKingdoms a Hl.Developer na serveru IridiumCraft a rád programuji :)
 
-🔭Měl jsem 6 let svůj Minecraft server Mineverse RPG, půl roku server s minihrami AmpedLand kdo ví? Třeba se někdy vrátí... Možná chystám něco velkého?🤔
+Projekty na kterých jsem působil / působím:
+- Minecraft server Mineverse RPG -> Majitel 6 let
+- Minecraft server AmpedLand -> Majitel 4 měsíce
+- Minecraft server IridiumCraft -> Aktuálně Hl.Developer
+- Minecraft server FallenKingdoms -> Aktuálně Hl.Developer
+- Minecraft server TrikoPick.eu -> Developer 2 týdny
+- Bytové družstvo Miroslav -> Aktuálně Správce webu
+- Kapela Lindens -> Aktuálně Správce webu
+- Programátorská komunita GalaxyCode -> Zakladatel / Admin
