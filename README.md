@@ -1,14 +1,23 @@
 
 # 📜Menší info o mně a mých projektech
 
-👋Ahoj, jmenuji se Marek. Je mi 16 let a jsem začínající developer webových aplikací. 
-🎓Umím v jazycích HTML, CSS a v PHP. Učím se JavaScript.
+### 📄 Informace
+Jmenuji se Marek, je mi 16 let. Jsem začínající developer webových aplikací. Chodím na střední školu.
 
-🔊Můj discord: 🔥𝕄𝕒𝕣𝕖𝕜_𝕡🔥#4775 
-✉️Můj e-mail: marek.mnp@seznam.cz 
-Můj discord server pro podporu a učení v programování: https://dsc.gg/galaxycode
+### ✉️ Kontakt
+- Discord: 🔥𝕄𝕒𝕣𝕖𝕜_𝕡🔥#4775
+- GalaxyCode: https://dsc.gg/galaxycode
+- Email: marek.mnp@seznam.cz
 
-### ⚒️Projekty na kterých jsem působil / působím:
+### 🎓 Dovednosti
+Programování:
+- HTML5 [80%]
+- CSS, SCSS [65%]
+- PHP [50%]
+- Python [20%]
+- SQL [20%]
+
+### ⚒️ Projekty na kterých jsem působil / působím:
 - Minecraft server Mineverse RPG -> Majitel 6 let (2015 - 2021)
 - Minecraft server AmpedLand -> Majitel 4 měsíce (únor - květen 2021)
 - Minecraft server IridiumCraft -> Aktuálně Hl.Developer (od října 2021)
