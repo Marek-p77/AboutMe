@@ -2,7 +2,7 @@
 # 📜Menší info o mně a mých projektech
 
 ### 📄 Informace
-Jmenuji se Marek, je mi 16 let. Jsem začínající developer webových aplikací. Chodím na střední školu.
+Jmenuji se Marek, je mi 16 let. Jsem začínající developer webových aplikací. Chodím na střední školu ekonomickou.
 
 ### ✉️ Kontakt
 - Discord: 🔥𝕄𝕒𝕣𝕖𝕜_𝕡🔥#4775
@@ -14,8 +14,16 @@ Programování:
 - HTML5 [80%]
 - CSS, SCSS [65%]
 - PHP [50%]
+- SQL [35%]
 - Python [20%]
-- SQL [20%]
+- JavaScript [15%]
+Obecné:
+- Základní grafika (převážně loga)
+- Editace videí (Camtasia Studio)
+- Správa Linux VPS
+- Začátečník ve Virtualizaci (zejména Docker)
+- Umím dobře pracovat s lidmi (team management -> učím se ve škole)
+- Amatérský ekonom (učím se ve škole)
 
 ### ⚒️ Projekty na kterých jsem působil / působím:
 - Minecraft server Mineverse RPG -> Majitel 6 let (2015 - 2021)
