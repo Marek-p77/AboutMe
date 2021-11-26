@@ -1,5 +1,5 @@
-# AboutMe
-📜Menší info o mě a mých projektech.
+
+# 📜Menší info o mně a mých projektech
 
 👋Ahoj, jmenuji se Marek. Je mi 16 let a jsem začínající developer webových aplikací. 
 🎓Umím v jazycích HTML, CSS a v PHP. Učím se JavaScript.
