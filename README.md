@@ -145,35 +145,35 @@ Obecné:
 ### 👦 Významní lidé v mém životě (hlavně v tom virtuálním)
 Předem říkám, že mi nejde o to někoho poškodit, nebo urazit. Moc to neprožívejte prosím :D (pořadí je tak jak mě napadlo)
 
-AdamBcz - super kámoš, nikdy mě nezradil, vždy pomohl. Cením si na něm zájem o programování. Poznali jsme se na Mineverse. Jeden z top 3 mých nejlepších kamarádů, díky :)
+𝗔𝗱𝗮𝗺𝗕𝗰𝘇 - super kámoš, nikdy mě nezradil, vždy pomohl. Cením si na něm zájem o programování. Poznali jsme se na Mineverse. Jeden z top 3 mých nejlepších kamarádů, díky :)
 
-Marekio - super kámoš, vždy byl ke mně ohleduplný a na mé straně, toho si moc vážím. Hodně mi pomohl s mým největším projektem, díky :)
+𝗠𝗮𝗿𝗲𝗸𝗶𝗼 - super kámoš, vždy byl ke mně ohleduplný a na mé straně, toho si moc vážím. Hodně mi pomohl s mým největším projektem, díky :)
 
-TominoKubino - velmi dobrý developer, na MV-Hostingu jsi byl můj vzor co se týče programování, hodně jsi nám tam pomohl. Je mi líto, že to nebylo vždycky mezi námi v pohodě...
+𝗧𝗼𝗺𝗶𝗻𝗼𝗞𝘂𝗯𝗶𝗻𝗼 - velmi dobrý developer, na MV-Hostingu jsi byl můj vzor co se týče programování, hodně jsi nám tam pomohl. Je mi líto, že to nebylo vždycky mezi námi v pohodě...
 
-FireMike - je s ním sranda, měli jsme spolu server AmpedLand, přátelský, škoda, že se už nebavíme, ale hodně jsi mi pomohl na mé cestě, díky moc :)
+𝗙𝗶𝗿𝗲𝗠𝗶𝗸𝗲 - je s ním sranda, měli jsme spolu server AmpedLand, přátelský, škoda, že se už nebavíme, ale hodně jsi mi pomohl na mé cestě, díky moc :)
 
-V3ervee / Mo0nSw0rth - nejlepší Java developer, kterého znám. Bez tebe by MV-Craft nebyl co byl. Sice jsme si moc nerozumněli, ale děkuji moc za vše :)
+𝗩𝟯𝗲𝗿𝘃𝗲𝗲 / 𝗠𝗼𝟬𝗻𝗦𝘄𝟬𝗿𝘁𝗵 - nejlepší Java developer, kterého znám. Bez tebe by MV-Craft nebyl co byl. Sice jsme si moc nerozumněli, ale děkuji moc za vše :)
 
-Deaderik - i když jsme se nikdy moc nebavily a náš vztah byl jen profesionální, jsi můj vzor a bez tebe by nikdy nemohl vzniknout můj největší projekt :)
+𝗗𝗲𝗮𝗱𝗲𝗿𝗶𝗸 - i když jsme se nikdy moc nebavily a náš vztah byl jen profesionální, jsi můj vzor a bez tebe by nikdy nemohl vzniknout můj největší projekt :)
 
-ZuzkaCz - spoluzakladatelka Mineverse, známe se od dětství, vždy jsme spolu vycházeli perfektně, natáčeli jsme spolu na YT, má nejlepší kamarádka, ačkoliv se spolu už moc nebavíme, tak tebe si z nich všech nejvíce vážím :)
+𝗭𝘂𝘇𝗸𝗮𝗖𝘇 - spoluzakladatelka Mineverse, známe se od dětství, vždy jsme spolu vycházeli perfektně, natáčeli jsme spolu na YT, má nejlepší kamarádka, ačkoliv se spolu už moc nebavíme, tak tebe si z nich všech nejvíce vážím :)
 
-RiverHornet - nejslušnější člověk co znám, na jeho serveru IridiumCraftu jsem si našel své místečko Hl.Developera, děkuji za možnost účastnit se :)
+𝗥𝗶𝘃𝗲𝗿𝗛𝗼𝗿𝗻𝗲𝘁 - nejslušnější člověk co znám, na jeho serveru IridiumCraftu jsem si našel své místečko Hl.Developera, děkuji za možnost účastnit se :)
 
-Majkel - machr přes PHP, super týpek i když ho moc neznám. Děkuji moc za ochotu učit mě :)
+𝗠𝗮𝗷𝗸𝗲𝗹 - machr přes PHP, super týpek i když ho moc neznám. Děkuji moc za ochotu učit mě :)
 
-VasikB - tehdejší nejlepší kámoš ze třídy, bez tebe by Mineverse nemohlo původně vzniknout, škoda, že nás cesta životem rozdělila, rád bych své chyby vzal zpátky...
+𝗩𝗮𝘀𝗶𝗸𝗕 - tehdejší nejlepší kámoš ze třídy, bez tebe by Mineverse nemohlo původně vzniknout, škoda, že nás cesta životem rozdělila, rád bych své chyby vzal zpátky...
 
-Vortex77 - ani nevíš, jak moc jsi mi pomohl na mé cestě o které ví jen málo lidí, děkuji za podporu, snad ti to jednou budu moct vrátit :)
+𝗩𝗼𝗿𝘁𝗲𝘅𝟳𝟳 - ani nevíš, jak moc jsi mi pomohl na mé cestě o které ví jen málo lidí, děkuji za podporu, snad ti to jednou budu moct vrátit :)
 
-duo OnDrak a Positted - bez vás by nebylo Mineverse takové jaké bylo, děkuji za ochotu :)
+duo 𝗢𝗻𝗗𝗿𝗮𝗸 a 𝗣𝗼𝘀𝗶𝘁𝘁𝗲𝗱 - bez vás by nebylo Mineverse takové jaké bylo, děkuji za ochotu :)
 
-duo Talin333 a Wax / Suprik222 - jedni z nejlepších kamarádů, legendy Mineverse, děkuji moc :)
+duo 𝗧𝗮𝗹𝗶𝗻𝟯𝟯𝟯 a 𝗪𝗮𝘅 / 𝗦𝘂𝗽𝗿𝗶𝗸𝟮𝟮𝟮 - jedni z nejlepších kamarádů, legendy Mineverse, děkuji moc :)
 
-duo Steve2004 a AlexandraCZ - super páreček, snad se zase někdy uvidíme. Bez vás by to nebylo Mineverse, děkuji za vyvrcholení historie Mineverse :)
+duo 𝗦𝘁𝗲𝘃𝗲𝟮𝟬𝟬𝟰 a 𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗿𝗮𝗖𝗭 - super páreček, snad se zase někdy uvidíme. Bez vás by to nebylo Mineverse, děkuji za vyvrcholení historie Mineverse :)
 
-duo kubastr7 a Jirkovec159 - supr chábři ze základky, děkuji za účast u zrození Mineverse, hodně štěstí na prumce :)
+duo 𝗸𝘂𝗯𝗮𝘀𝘁𝗿𝟳 a 𝗝𝗶𝗿𝗸𝗼𝘃𝗲𝗰𝟭𝟱𝟵 - supr chábři ze základky, děkuji za účast u zrození Mineverse, hodně štěstí na prumce :)
 
 
 
