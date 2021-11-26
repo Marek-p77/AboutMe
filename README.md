@@ -8,7 +8,7 @@
 ✉️Můj e-mail: marek.mnp@seznam.cz 
 Můj discord server pro podporu a učení v programování: https://dsc.gg/galaxycode
 
-Projekty na kterých jsem působil / působím:
+### ⚒️Projekty na kterých jsem působil / působím:
 - Minecraft server Mineverse RPG -> Majitel 6 let (2015 - 2021)
 - Minecraft server AmpedLand -> Majitel 4 měsíce (únor - květen 2021)
 - Minecraft server IridiumCraft -> Aktuálně Hl.Developer (od října 2021)
