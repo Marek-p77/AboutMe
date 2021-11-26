@@ -22,7 +22,7 @@ Obecné:
 
 - Základní grafika (převážně loga)
 - Editace videí (Camtasia Studio)
-- Správa Linux VPS
+- Správa Linux VPS, VDS, DS
 - Začátečník ve Virtualizaci (zejména Docker)
 - Umím dobře pracovat s lidmi (team management -> učím se ve škole)
 - Amatérský ekonom (učím se ve škole)
