@@ -49,6 +49,7 @@ Obecné:
 - Marvel filmy
 
 ### 📚 Ostatní Blbosti
+- Žiju na severu Moravy
 - Discord účet od roku 2018
 - Origo Minecraft účet od roku 2016
 - Optifine Cape od roku 2020
@@ -88,3 +89,5 @@ Obecné:
 - Redux je sus, asi na tom něco je když to říká tolik lidí
 - RiverHornet je nejslušnější člověk, kterého znám
 - Maty je machr
+- Jsem fanda Elona Muska
+- Oblíbené přísloví: "Kdyby si každý hleděl svého, na světě by bylo lépe" :)
