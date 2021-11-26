@@ -142,7 +142,7 @@ Obecné:
 - Na půdě mám tajnou základnu kam nechodím :D
 - Když píšu kód, tak tam dělám milion poznámek, protože se nudím (občas)
 
-### 👦 Významní lidé v mém životě (virtuálním)
+### 👦 Významní lidé v mém životě (hlavně v tom virtuálním)
 Předem říkám, že mi nejde o to někoho poškodit, nebo urazit. Moc to neprožívejte prosím :D (pořadí je tak jak mě napadlo)
 
 AdamBcz - super kámoš, nikdy mě nezradil, vždy pomohl. Cením si na něm zájem o programování. Poznali jsme se na Mineverse. Jeden z top 3 mých nejlepších kamarádů, díky :)
