@@ -17,7 +17,9 @@ Programování:
 - SQL [35%]
 - Python [20%]
 - JavaScript [15%]
+
 Obecné:
+
 - Základní grafika (převážně loga)
 - Editace videí (Camtasia Studio)
 - Správa Linux VPS
