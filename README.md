@@ -89,5 +89,55 @@ Obecné:
 - Redux je sus, asi na tom něco je když to říká tolik lidí
 - RiverHornet je nejslušnější člověk, kterého znám
 - Maty je machr
+- Mám zkušenosti s Fakahedou, Hicorií, Multiminem, Hostify, Contabem a Batcorem přesně v tomto pořadí
 - Jsem fanda Elona Muska
+- Mám internet od O2
+- Můj operátor je T-Mobile
 - Oblíbené přísloví: "Kdyby si každý hleděl svého, na světě by bylo lépe" :)
+- Mám rozvedené rodiče
+- Mám 2 PC + Raspberry Pi 4 Model B
+- Mám 2 další monitory, projektor a 10m HDMI <3
+- O víkendu spím do oběda a jdu spát ve 3 ráno (jsem noční můra) :D
+- Do školy to mám 15 minut pěšky a přes 4 přechody
+- Marek_p <- to P je první písmeno mého přijmení
+- Mám 2 křestní jména
+- Byl jsem v Itálii, Řecku, Chorvatsku, Bulharku a v Irsku a to bez PC
+- Doma máme 5 notebooků, 2 stolní PC a stále je to pro některé z nás málo...
+- Jsem napůl řek, rodina má kořeny v Řecku (z matčiny strany)
+- Mám tetu, strejdu a sestřenici v Řecku a další tetu a 2 bratrance v Irsku
+- Táta je učitel a má psa
+- U mámy bydlíme v paneláku v 10. patře a u táty v hezkém domečku vedle hřbitova
+- Jsem částečně osvobozen z tělocviku
+- Mám brýle od roku 2018
+- Rád nosím černé oblečení
+- Mám narozeniny v lednu
+- Můj nejlepší kámoš utekl na jinou školu ._.
+- Mám rád filmy od Marvelu, DC, dále StarWars, Pána prstenů, Hobbita, Mission impossible
+- Jedniný kroužek do kterého jsem kdy chodil byl programování lego Mindstrom :D
+- Mám rád šachy, ale nikdo je se mnou nechce hrát ._.
+- V pokoji mám bambus aby se neřeklo že jsem tam jak krysa v kanále
+- Jako jediný v domě mám v pokoji koberec
+- Mám moc rád sýr, kofolu a lentilky
+- Mám alergii na pyl a je to otravné
+- Přátelé dosvědčí, že mně nikdy neslyšeli říct sprosté slovo :)
+- Moc rád si dělám věci podle sebe, ale nejsem moc tvrdohlavý
+- Jsem pečlivý na detaily (po mamce) viz můj GitHub účet :D
+- Když se nudím tak vymýšlím blbosti jako je tento seznam...
+- Jsem zásadně proti LGBT, ale nikomu to neberu
+- Nemám rád lidi, kteří flexí tím, že kouří, nebo pijí energiťáky...
+- Mám 6 fidget spinnerů na parapetu z doby kdy to byl trend :D
+- Když jsem byl malý, tak jsem sbíral Pokemon kartičky
+- Když jsem byl malý, tak jsem si rád hrál s legem a mám toho tuny na půdě :D
+- Vždy jsem chtěl umět hrát na klavír, ale jsem moc líný a hlavně nemám čas ._.
+- Třídím odpad i když je to asi zbytečný?
+- Můj první web byl na Webnode a stále tam někde je
+- Nejlepší free webhosting je podle mně HostNow.cz
+- Nikdy jsem nejel sám MHD, protože to nebylo třeba
+- Letěl jsem 2x letadlem (1x tam a 1x zpátky) :D
+- 5 minut jsem řídil 30 metrů dlouhou loď
+- Jel jsem v pravém tanku
+- Nikdy jsem nejel metrem
+- Používám Edge a je mi to jedno, ramek relativně dost
+- Jsem VIP člen kapely Lindens, které spravuji web
+- Na půdě mám tajnou základnu kam nechodím :D
+- Když píšu kód, tak tam dělám milion poznámek, protože se nudím (občas)
