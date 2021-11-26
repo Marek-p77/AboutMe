@@ -1,5 +1,5 @@
 
-# 📜Menší info o mně a mých projektech
+# 📜 Kdo že to jsem? 🤔
 
 ### 📄 Informace
 Jmenuji se Marek, je mi 16 let. Jsem začínající developer webových aplikací. Chodím na střední školu ekonomickou.
@@ -37,3 +37,11 @@ Obecné:
 - Kapela Lindens -> Aktuálně Správce webu (od července 2021)
 - Programátorská komunita GalaxyCode -> Zakladatel / Admin (od září 2021)
 - Kdo ví, třeba chystám něco velkého? 🤔
+
+### ⭐ Co mně baví?
+- Zejména programování webových aplikací
+- Web design a grafika
+- Práce s lidmi v týmu
+- Nastavování Minecraft serverů
+- Ekonomika, Administrativa provozu, Obchodní provoz (předměty ve škole)
+- Marvel filmy
