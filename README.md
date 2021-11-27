@@ -155,7 +155,7 @@ Předem říkám, že mi nejde o to někoho poškodit, nebo urazit. Moc to nepro
 
 𝗩𝟯𝗲𝗿𝘃𝗲𝗲 / 𝗠𝗼𝟬𝗻𝗦𝘄𝟬𝗿𝘁𝗵 - nejlepší Java developer, kterého znám. Bez tebe by MV-Craft nebyl co byl. Sice jsme si moc nerozumněli, ale děkuji moc za vše :)
 
-𝗗𝗲𝗮𝗱𝗲𝗿𝗶𝗸 - i když jsme se nikdy moc nebavily a náš vztah byl jen profesionální, jsi můj vzor a bez tebe by nikdy nemohl vzniknout můj největší projekt :)
+𝗗𝗲𝗮𝗱𝗲𝗿𝗶𝗸 - i když jsme se nikdy moc nebavili a náš vztah byl jen profesionální, jsi můj vzor a bez tebe by nikdy nemohl vzniknout můj největší projekt :)
 
 𝗭𝘂𝘇𝗸𝗮𝗖𝘇 - spoluzakladatelka Mineverse, známe se od dětství, vždy jsme spolu vycházeli perfektně, natáčeli jsme spolu na YT, má nejlepší kamarádka, ačkoliv se spolu už moc nebavíme, tak tebe si z nich všech nejvíce vážím :)
 
