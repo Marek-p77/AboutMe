@@ -9,7 +9,7 @@ Jmenuji se Marek, je mi 16 let. Jsem začínající developer webových aplikac�
 - GalaxyCode: https://dsc.gg/galaxycode
 - Email: marek.mnp@seznam.cz
 
-### 🎓 Dovednosti 
+### 🎓 Dovednosti
 Programování:
 - HTML5 [80%]
 - CSS, SCSS [65%]
