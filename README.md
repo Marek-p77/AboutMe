@@ -26,7 +26,7 @@ Obecné:
 - Milovník Virtualizace (zejména Docker)
 - Umím dobře pracovat s lidmi (team management -> učím se ve škole)
 - Amatérský ekonom (učím se ve škole)
-
+ 
 ### ⚒️ Projekty na kterých jsem působil / působím:
 - Minecraft server Mineverse RPG -> Majitel 6 let (2015 - 2021)
 - Minecraft server AmpedLand -> Majitel 4 měsíce (únor - květen 2021)
