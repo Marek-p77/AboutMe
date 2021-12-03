@@ -18,7 +18,7 @@ Programování:
 - 𝗣𝘆𝘁𝗵𝗼𝗻 ➔ [20%]
 - 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 ➔ [15%]
 
-#### Nejpoužívanější Jazyky
+#### Nejpoužívanější Programovací Jazyky
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marek-p77)
 
