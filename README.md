@@ -22,7 +22,7 @@ Programování:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marek-p77)
 
-Obecné:
+Obecné Dovednosti:
 
 - 🎨 Základní grafika (převážně loga)
 - 🎬 Editace videí (Camtasia Studio)
