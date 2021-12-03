@@ -45,12 +45,12 @@ Obecné:
 - 🔎 Kdo ví, třeba chystám něco velkého? 🤔
 
 ### ⭐ Co mně baví?
-- Zejména programování webových aplikací
-- Web design a grafika
-- Práce s lidmi v týmu
-- Nastavování Minecraft serverů
-- Ekonomika, Administrativa provozu, Obchodní provoz (předměty ve škole)
-- Marvel filmy
+- 💻 Zejména programování webových aplikací
+- 🎨 Web design a grafika
+- ⚒️ Práce s lidmi v týmu
+- ⚙️ Nastavování Minecraft serverů
+- 📊 Ekonomika, Administrativa provozu, Obchodní provoz (předměty ve škole)
+- 📺 Marvel filmy
 
 ### 📚 Ostatní Blbosti
 - Žiju na severu Moravy
