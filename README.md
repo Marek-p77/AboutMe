@@ -32,7 +32,7 @@ Obecné Dovednosti:
 - 📊 Amatérský ekonom (učím se ve škole)
 
 ### 🧰️ Nástroje které používám
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+<img align="left" alt="Visual Studio Code" width="40px" src="https://media.discordapp.net/attachments/865982224607871006/916373942267166780/visualstudiocode.png"/>
 <img align="left" alt="PhpStrom" width="40px" src="https://media.discordapp.net/attachments/865982224607871006/916373608278937650/phpstorm.png"/>
 <img align="left" alt="MySQL&PHPMyAdmin" width="40px" src="https://media.discordapp.net/attachments/865982224607871006/916376655637921862/OIP-removebg-preview_4.png"/>
 <img align="left" alt="GitHub" width="40px" src="https://media.discordapp.net/attachments/865982224607871006/916377633271459860/OIP-removebg-preview_5.png"/>
