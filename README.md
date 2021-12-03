@@ -45,13 +45,13 @@ Obecné Dovednosti:
 <br>
 
 ### ⚒️ Projekty na kterých jsem působil / působím:
-- 🧱 Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 6 let (2015 - 2021)
-- 🧱 Minecraft server 【𝗔𝗺𝗽𝗲𝗱𝗟𝗮𝗻𝗱】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 4 měsíce (únor - květen 2021)
-- 🧱 Minecraft server 【𝗜𝗿𝗶𝗱𝗶𝘂𝗺𝗖𝗿𝗮𝗳𝘁】 ➔ Aktuálně 𝙃𝙡.𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 (od října 2021)
-- 🧱 Minecraft server 【𝗙𝗮𝗹𝗹𝗲𝗻𝗞𝗶𝗻𝗴𝗱𝗼𝗺𝘀】 ➔ Aktuálně 𝙃𝙡.𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 (od května 2021)
-- 🧱 Minecraft server 【𝗧𝗿𝗶𝗸𝗼𝗣𝗶𝗰𝗸】 ➔ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 2 týdny (říjen 2021)
-- 🧱 Minecraft server 【𝗔𝗹𝗮𝗿𝘄𝗮𝗡𝗶𝗹𝗱𝗼𝗿】 ➔ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 5 měsíců (září - leden 2020)
-- 🧱 Minecraft server 【𝗩𝗶𝗿𝘁𝘂𝘀 𝗨𝗻𝗶𝘁𝗮 𝗙𝗼𝗿𝘁𝗶𝗼𝗿】 ➔ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 2 měsíce (červen - červenec 2020)
+- <img align="left" alt="JavaScript" width="15px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 6 let (2015 - 2021)
+- <img align="left" alt="JavaScript" width="15px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗔𝗺𝗽𝗲𝗱𝗟𝗮𝗻𝗱】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 4 měsíce (únor - květen 2021)
+- <img align="left" alt="JavaScript" width="15px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗜𝗿𝗶𝗱𝗶𝘂𝗺𝗖𝗿𝗮𝗳𝘁】 ➔ Aktuálně 𝙃𝙡.𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 (od října 2021)
+- <img align="left" alt="JavaScript" width="15px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗙𝗮𝗹𝗹𝗲𝗻𝗞𝗶𝗻𝗴𝗱𝗼𝗺𝘀】 ➔ Aktuálně 𝙃𝙡.𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 (od května 2021)
+- <img align="left" alt="JavaScript" width="15px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗧𝗿𝗶𝗸𝗼𝗣𝗶𝗰𝗸】 ➔ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 2 týdny (říjen 2021)
+- <img align="left" alt="JavaScript" width="15px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗔𝗹𝗮𝗿𝘄𝗮𝗡𝗶𝗹𝗱𝗼𝗿】 ➔ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 5 měsíců (září - leden 2020)
+- <img align="left" alt="JavaScript" width="15px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗩𝗶𝗿𝘁𝘂𝘀 𝗨𝗻𝗶𝘁𝗮 𝗙𝗼𝗿𝘁𝗶𝗼𝗿】 ➔ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 2 měsíce (červen - červenec 2020)
 - 🌐 Bytové družstvo Miroslav ➔ Aktuálně 𝙒𝙚𝙗 𝙈𝙖𝙣𝙖𝙜𝙚𝙧 (od srpna 2021)
 - 🌐 Kapela Lindens ➔ Aktuálně 𝙒𝙚𝙗 𝙈𝙖𝙣𝙖𝙜𝙚𝙧 (od července 2021)
 - 💻 Programátorská komunita 𝗚𝗮𝗹𝗮𝘅𝘆𝗖𝗼𝗱𝗲 ➔ 𝙕𝙖𝙠𝙡𝙖𝙙𝙖𝙩𝙚𝙡 / 𝘼𝙙𝙢𝙞𝙣 (od září 2021)
