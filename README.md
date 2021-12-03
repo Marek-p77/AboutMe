@@ -1,6 +1,8 @@
 
 # 📜 Kdo že to jsem? 🤔
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marek-p77)]
+
 ### 📄 Informace
 Jmenuji se Marek, je mi 16 let. Jsem začínající developer webových aplikací. Chodím na střední školu ekonomickou.
 
