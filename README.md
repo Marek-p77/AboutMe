@@ -11,12 +11,12 @@ Jmenuji se Marek, je mi 16 let. Jsem začínající developer webových aplikac�
 
 ### 🎓 Dovednosti
 Programování:
-- HTML5 [80%]
-- CSS, SCSS [65%]
-- PHP [50%]
-- SQL [35%]
-- Python [20%]
-- JavaScript [15%]
+- 𝗛𝗧𝗠𝗟𝟱 [80%]
+- 𝗖𝗦𝗦, 𝗦𝗖𝗦𝗦 [65%]
+- 𝗣𝗛𝗣 [50%]
+- 𝗦𝗤𝗟 [35%]
+- 𝗣𝘆𝘁𝗵𝗼𝗻 [20%]
+- 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 [15%]
 
 #### Nejpoužívanější Jazyky
 
