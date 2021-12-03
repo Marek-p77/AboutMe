@@ -16,7 +16,7 @@ Programování:
 - <img align="left" alt="Moje Láska <3" width="28px" src="https://media.discordapp.net/attachments/865982224607871006/916373941784838174/php.png"/>𝗣𝗛𝗣 ➔ [50%]
 - <img align="left" alt="SQL" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916375287267217429/sql.png"/>𝗦𝗤𝗟 ➔ [35%]
 - <img align="left" alt="Python" width="20px" src="https://media.discordapp.net/attachments/865982224607871006/916373941969379368/python.png"/>𝗣𝘆𝘁𝗵𝗼𝗻 ➔ [20%]
-- 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 ➔ [15%]
+- <img align="left" alt="JavaScript" width="15px" src="https://media.discordapp.net/attachments/865982224607871006/916373941558317126/js.png"/>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 ➔ [15%]
 
 #### Nejpoužívanější Programovací Jazyky
 
