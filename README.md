@@ -14,7 +14,7 @@ Programování:
 - <img align="left" alt="HTML" width="15px" src="https://media.discordapp.net/attachments/865982224607871006/916373941373784114/html.png"/>𝗛𝗧𝗠𝗟𝟱 ➔ [80%]
 - <img align="left" alt="CSS&SCSS" width="15px" src="https://media.discordapp.net/attachments/865982224607871006/916373942493642762/css.png"/>𝗖𝗦𝗦, 𝗦𝗖𝗦𝗦 ➔ [65%]
 - <img align="left" alt="Moje Láska <3" width="28px" src="https://media.discordapp.net/attachments/865982224607871006/916373941784838174/php.png"/>𝗣𝗛𝗣 ➔ [50%]
-- <img align="left" alt="SQL" width="28px" src="https://media.discordapp.net/attachments/865982224607871006/916375287267217429/sql.png"/>𝗦𝗤𝗟 ➔ [35%]
+- <img align="left" alt="SQL" width="20px" src="https://media.discordapp.net/attachments/865982224607871006/916375287267217429/sql.png"/>𝗦𝗤𝗟 ➔ [35%]
 - 𝗣𝘆𝘁𝗵𝗼𝗻 ➔ [20%]
 - 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 ➔ [15%]
 
