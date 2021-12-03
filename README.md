@@ -24,12 +24,12 @@ Programování:
 
 Obecné:
 
-- Základní grafika (převážně loga)
-- Editace videí (Camtasia Studio)
-- Správa Linux VPS, VDS, DS
-- Milovník Virtualizace (zejména Docker)
-- Umím dobře pracovat s lidmi (team management -> učím se ve škole)
-- Amatérský ekonom (učím se ve škole)
+- 🎨 Základní grafika (převážně loga)
+- 🎬 Editace videí (Camtasia Studio)
+- 💻 Správa Linux VPS, VDS, DS
+- 💠 Milovník Virtualizace (zejména Docker)
+- 👑 Umím dobře pracovat s lidmi (team management -> učím se ve škole)
+- 📊 Amatérský ekonom (učím se ve škole)
 
 ### ⚒️ Projekty na kterých jsem působil / působím:
 - 🧱 Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 6 let (2015 - 2021)
