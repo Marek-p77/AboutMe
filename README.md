@@ -35,9 +35,9 @@ Obecné Dovednosti:
 <img align="left" alt="Visual Studio Code" width="40px" src="https://media.discordapp.net/attachments/865982224607871006/916373942267166780/visualstudiocode.png"/>
 <img align="left" alt="PhpStrom" width="40px" src="https://media.discordapp.net/attachments/865982224607871006/916373608278937650/phpstorm.png"/>
 <img align="left" alt="MySQL&PHPMyAdmin" width="40px" src="https://media.discordapp.net/attachments/865982224607871006/916376655637921862/OIP-removebg-preview_4.png"/>
-<img align="left" alt="GitHub" width="40px" src="https://media.discordapp.net/attachments/865982224607871006/916377633271459860/OIP-removebg-preview_5.png"/>
 <img align="left" alt="Canva" width="40px" src="https://media.discordapp.net/attachments/865982224607871006/916378161455956029/canva-logo-transparent-8.png?width=485&height=485"/>
 <img align="left" alt="Pterodactyl Panel" width="28px" src="https://media.discordapp.net/attachments/865982224607871006/916379231301296228/pterodactyl_logo_transparent.png?width=296&height=484"/>
+<img align="left" alt="GitHub" width="40px" src="https://media.discordapp.net/attachments/865982224607871006/916377633271459860/OIP-removebg-preview_5.png"/>
 <br>
 
 ### ⚒️ Projekty na kterých jsem působil / působím:
