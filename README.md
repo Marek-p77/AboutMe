@@ -32,16 +32,16 @@ Obecné:
 - Amatérský ekonom (učím se ve škole)
 
 ### ⚒️ Projekty na kterých jsem působil / působím:
-- 🧱 Minecraft server 𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 -> Majitel 6 let (2015 - 2021)
-- 🧱 Minecraft server 𝗔𝗺𝗽𝗲𝗱𝗟𝗮𝗻𝗱 -> Majitel 4 měsíce (únor - květen 2021)
-- 🧱 Minecraft server 𝗜𝗿𝗶𝗱𝗶𝘂𝗺𝗖𝗿𝗮𝗳𝘁 -> Aktuálně Hl.Developer (od října 2021)
-- 🧱 Minecraft server 𝗙𝗮𝗹𝗹𝗲𝗻𝗞𝗶𝗻𝗴𝗱𝗼𝗺𝘀 -> Aktuálně Hl.Developer (od května 2021)
-- 🧱 Minecraft server 𝗧𝗿𝗶𝗸𝗼𝗣𝗶𝗰𝗸 -> Developer 2 týdny (říjen 2021)
-- 🧱 Minecraft server 𝗔𝗹𝗮𝗿𝘄𝗮𝗡𝗶𝗹𝗱𝗼𝗿 -> Developer 5 měsíců (září - leden 2020)
-- 🧱 Minecraft server 𝗩𝗶𝗿𝘁𝘂𝘀 𝗨𝗻𝗶𝘁𝗮 𝗙𝗼𝗿𝘁𝗶𝗼𝗿 -> Developer 2 měsíce (červen - červenec 2020)
-- 🌐 Bytové družstvo Miroslav -> Aktuálně Správce webu (od srpna 2021)
-- 🌐 Kapela Lindens -> Aktuálně Správce webu (od července 2021)
-- 💻 Programátorská komunita GalaxyCode -> Zakladatel / Admin (od září 2021)
+- 🧱 Minecraft server 𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 ➔ Majitel 6 let (2015 - 2021)
+- 🧱 Minecraft server 𝗔𝗺𝗽𝗲𝗱𝗟𝗮𝗻𝗱 ➔ Majitel 4 měsíce (únor - květen 2021)
+- 🧱 Minecraft server 𝗜𝗿𝗶𝗱𝗶𝘂𝗺𝗖𝗿𝗮𝗳𝘁 ➔ Aktuálně Hl.Developer (od října 2021)
+- 🧱 Minecraft server 𝗙𝗮𝗹𝗹𝗲𝗻𝗞𝗶𝗻𝗴𝗱𝗼𝗺𝘀 ➔ Aktuálně Hl.Developer (od května 2021)
+- 🧱 Minecraft server 𝗧𝗿𝗶𝗸𝗼𝗣𝗶𝗰𝗸 ➔ Developer 2 týdny (říjen 2021)
+- 🧱 Minecraft server 𝗔𝗹𝗮𝗿𝘄𝗮𝗡𝗶𝗹𝗱𝗼𝗿 ➔ Developer 5 měsíců (září - leden 2020)
+- 🧱 Minecraft server 𝗩𝗶𝗿𝘁𝘂𝘀 𝗨𝗻𝗶𝘁𝗮 𝗙𝗼𝗿𝘁𝗶𝗼𝗿 ➔ Developer 2 měsíce (červen - červenec 2020)
+- 🌐 Bytové družstvo Miroslav ➔ Aktuálně Správce webu (od srpna 2021)
+- 🌐 Kapela Lindens ➔ Aktuálně Správce webu (od července 2021)
+- 💻 Programátorská komunita GalaxyCode ➔ Zakladatel / Admin (od září 2021)
 - 🔎 Kdo ví, třeba chystám něco velkého? 🤔
 
 ### ⭐ Co mně baví?
