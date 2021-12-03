@@ -31,6 +31,9 @@ Obecné Dovednosti:
 - 👑 Umím dobře pracovat s lidmi (team management -> učím se ve škole)
 - 📊 Amatérský ekonom (učím se ve škole)
 
+### ⚒️ Nástroje, které používám
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
+
 ### ⚒️ Projekty na kterých jsem působil / působím:
 - 🧱 Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 6 let (2015 - 2021)
 - 🧱 Minecraft server 【𝗔𝗺𝗽𝗲𝗱𝗟𝗮𝗻𝗱】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 4 měsíce (únor - květen 2021)
