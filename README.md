@@ -11,7 +11,7 @@ Jmenuji se Marek, je mi 16 let. Jsem začínající developer webových aplikac�
 
 ### 🎓 Dovednosti
 Programování:
-- 𝗛𝗧𝗠𝗟𝟱 ➔ [80%]
+- <img align="left" alt="HTML" width="26px" src="https://media.discordapp.net/attachments/865982224607871006/916373941373784114/html.png"/> 𝗛𝗧𝗠𝗟𝟱 ➔ [80%]
 - 𝗖𝗦𝗦, 𝗦𝗖𝗦𝗦 ➔ [65%]
 - 𝗣𝗛𝗣 ➔ [50%]
 - 𝗦𝗤𝗟 ➔ [35%]
@@ -33,7 +33,7 @@ Obecné Dovednosti:
 
 ### 🧰️ Nástroje které používám
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://media.discordapp.net/attachments/865982224607871006/916373608278937650/phpstorm.png"/>
+<img align="left" alt="PhpStrom" width="26px" src="https://media.discordapp.net/attachments/865982224607871006/916373608278937650/phpstorm.png"/>
 <br>
 
 ### ⚒️ Projekty na kterých jsem působil / působím:
