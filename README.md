@@ -54,6 +54,7 @@ Obecné Dovednosti:
 - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗩𝗶𝗿𝘁𝘂𝘀 𝗨𝗻𝗶𝘁𝗮 𝗙𝗼𝗿𝘁𝗶𝗼𝗿】 ➔ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 2 měsíce (červen - červenec 2020)
 - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916399704235995226/website.png?width=485&height=485"/>Bytové družstvo Miroslav ➔ Aktuálně 𝙒𝙚𝙗 𝙈𝙖𝙣𝙖𝙜𝙚𝙧 (od srpna 2021)
 - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916399704235995226/website.png?width=485&height=485"/>Kapela Lindens ➔ Aktuálně 𝙒𝙚𝙗 𝙈𝙖𝙣𝙖𝙜𝙚𝙧 (od července 2021)
+- - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916399704235995226/website.png?width=485&height=485"/> AquaHost ➔ Aktuálně 𝙒𝙚𝙗 𝙈𝙖𝙣𝙖𝙜𝙚𝙧 (od prosince 2021)
 - 💻 Programátorská komunita 𝗚𝗮𝗹𝗮𝘅𝘆𝗖𝗼𝗱𝗲 ➔ 𝙕𝙖𝙠𝙡𝙖𝙙𝙖𝙩𝙚𝙡 / 𝘼𝙙𝙢𝙞𝙣 (od září 2021)
 - 🔎 Kdo ví, třeba chystám něco velkého? 🤔
 
