@@ -8,6 +8,7 @@ Jmenuji se Marek, je mi 16 let. Jsem začínající vývojář webových aplikac
 - <img align="left" alt="Discord" width="20px" src="https://media.discordapp.net/attachments/865982224607871006/916381481725751356/discord.png"/> Discord: 🔥𝕄𝕒𝕣𝕖𝕜_𝕡🔥#4775
 - <img align="left" alt="GalaxyCode" width="20px" src="https://images-ext-2.discordapp.net/external/-1KBDo9YgT6w6sl7ZtWVbIo8qidPcbGtHMutxI11JJU/%3Fsize%3D4096/https/cdn.discordapp.com/icons/877555483597234196/7ebff5bb7306cdac6f401e92a711fb3f.png?width=485&height=485"/> GalaxyCode: https://dsc.gg/galaxycode
 - <img align="left" alt="Seznam" width="20px" src="https://media.discordapp.net/attachments/865982224607871006/916381390424137768/OIP-removebg-preview_7.png"/> Email: marek.mnp@seznam.cz
+- <img align="left" alt="Seznam" width="20px" src="https://media.discordapp.net/attachments/865982224607871006/916381390424137768/OIP-removebg-preview_7.png"/> Email: admin@galaxycode.eu
 
 ### 🎓 Dovednosti
 Programování:
