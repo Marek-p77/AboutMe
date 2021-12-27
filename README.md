@@ -103,7 +103,6 @@ Obecné Dovednosti:
 - Ve škole sedím v druhé lavici a mám brýle (šprt?)
 - Nějak moc často používám slovo "zajímavý"
 - WinSCP & PuTTY & XAMPP & Anydesk user
-- Gaming on Intel Core i-3 ??
 - Deaderik je mega nice člověk, pokud proti němu něco máš, tak se nad sebou zamysli :)
 - Prejvi není zlý, pochopte ho prosím
 - Redux je sus, asi na tom něco je když to říká tolik lidí
