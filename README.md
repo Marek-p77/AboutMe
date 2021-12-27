@@ -83,6 +83,7 @@ Obecné Dovednosti:
 - Nemám rád TikTok
 - Ananas na pizzu nepatří
 - Mám rád kočky
+- Gaming on AMD Ryzen 5
 - Oblíbený hosting samozřejmě Batcore.eu :)
 - Oblíbená barva asi světle zelená 
 - Dark mode je best, všude ho musím mít
