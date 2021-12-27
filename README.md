@@ -114,7 +114,7 @@ Obecné Dovednosti:
 - Můj operátor je T-Mobile
 - Oblíbené přísloví: "Kdyby si každý hleděl svého, na světě by bylo lépe" :)
 - Mám rozvedené rodiče
-- Mám 2 PC + Raspberry Pi 4 Model B
+- Mám 2 Notebooky, stolní PC a Raspberry Pi 4 Model B
 - Mám 2 další monitory, projektor a 10m HDMI <3
 - O víkendu spím do oběda a jdu spát ve 3 ráno (jsem noční můra) :D
 - Do školy to mám 15 minut pěšky a přes 4 přechody
