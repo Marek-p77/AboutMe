@@ -19,7 +19,7 @@ Programování:
 - <img align="left" alt="Python" width="20px" src="https://media.discordapp.net/attachments/865982224607871006/916373941969379368/python.png"/>𝗣𝘆𝘁𝗵𝗼𝗻 ➔ [20%]
 - <img align="left" alt="JavaScript" width="15px" src="https://media.discordapp.net/attachments/865982224607871006/916373941558317126/js.png"/>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 ➔ [15%]
 
-#### Nejpoužívanější Programovací Jazyky
+#### Programovací jazaky, které nejvíce používám
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marek-p77)
 
