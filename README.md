@@ -72,7 +72,7 @@ Obecné Dovednosti:
 - 𝗖𝗣𝗨 ➔ AMD Ryzen 5 5600H 6 Jader 3.3 až 4.2 Ghz
 - 𝗥𝗔𝗠 ➔ 8 GB DDR4 3200 MHz
 - 𝗦𝗦𝗗 ➔ 512 GB Samsung MZALQ512HBLU-00BL2
-- 𝗚𝗣𝗨 0 ➔ NVIDIA geForce GTX 1650 4 GB (dedikovaná)
+- 𝗚𝗣𝗨 0 ➔ NVIDIA GeForce GTX 1650 4 GB (dedikovaná)
 - 𝗚𝗣𝗨 1 ➔ AMD Radeon Graphics 2 GB (integrovaná)
 #### Starý Notebook
 - 𝗖𝗣𝗨 ➔ Intel Core i3-3220 2 Jádra 3.3 GHz
