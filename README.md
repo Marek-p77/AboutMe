@@ -25,7 +25,7 @@ Programování:
 
 Obecné Dovednosti:
 
-- 🎨 Základní grafika (převážně loga)
+- 🎨 Základní grafika (převážně loga a ikony)
 - 🎬 Editace videí (Camtasia Studio)
 - 💻 Správa Linux Serverů, zejména Ubuntu Server 20.04
 - 💠 Milovník Virtualizace (zejména Docker a Proxmox VE)
