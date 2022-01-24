@@ -68,35 +68,35 @@ Obecné Dovednosti:
 - 📺 Marvel filmy
 
 ### 💻 Můj PC Setup
-Hlavní Notebook
+#### Hlavní Notebook
 - 𝗖𝗣𝗨 ➔ AMD Ryzen 5 5600H 6 Jader 3.3 až 4.2 Ghz
 - 𝗥𝗔𝗠 ➔ 8 GB DDR4 3200 MHz
 - 𝗦𝗦𝗗 ➔ 512 GB Samsung MZALQ512HBLU-00BL2
 - 𝗚𝗣𝗨 0 ➔ NVIDIA geForce GTX 1650 4 GB (dedikovaná)
 - 𝗚𝗣𝗨 1 ➔ AMD Radeon Graphics 2 GB (integrovaná)
-Starý Notebook
+#### Starý Notebook
 - 𝗖𝗣𝗨 ➔ Intel Core i3-3220 2 Jádra 3.3 GHz
 - 𝗥𝗔𝗠 ➔ 16 GB DDR3 1600 MHz
 - 𝗦𝗦𝗗 ➔ 512 GB SSD (brzy doplním detaily)
 - 𝗚𝗣𝗨 ➔ NVIDIA Integrovaná 2 GB (brzy doplním detaily)
-Server PC
+#### Server PC
 - 𝗖𝗣𝗨 ➔ Intel Xeon 6 Jader 3.4 GHz (brzy doplním detaily)
 - 𝗥𝗔𝗠 ➔ 12 GB DDR3 (brzy doplním detaily)
 - 𝗦𝗦𝗗 ➔ 600 GB HDD (brzy doplním detaily)
 - 𝗚𝗣𝗨 ➔ NVIDIA Integrovaná 2 GB (brzy doplním detaily)
-Raspberry Pi 4 Model B (Mini PC)
+#### Raspberry Pi 4 Model B (Mini PC)
 - 𝗖𝗣𝗨 ➔ ARM Cortex-A72 4 Jádra 1.5 Ghz
 - 𝗥𝗔𝗠 ➔ 4 GB LPDDR4
 - 𝗠𝗶𝗰𝗿𝗼 𝗦𝗗 𝗞𝗮𝗿𝘁𝗮 ➔ 32 GB (jako disk)
-Hlavní Myš
+#### Hlavní Myš
 - https://www.yenkee.eu/gaming-mouse-ambush/yms-3017
-Druhá Myš
+#### Druhá Myš
 - (brzy doplním detaily)
-Náhradní Myš
+#### Náhradní Myš
 - (brzy doplním detaily)
-Sluchátka
+#### Sluchátka
 - https://www.yenkee.eu/gaming-headphones-ambush/yhp-3020
-Klávesnice 2x
+#### Klávesnice 2x
 - Microsoft All-in-One cordless Media Keyboard
 
 ### 📚 Ostatní Blbosti
