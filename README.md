@@ -28,7 +28,7 @@ Obecné Dovednosti:
 - 🎨 Základní grafika (převážně loga)
 - 🎬 Editace videí (Camtasia Studio)
 - 💻 Správa Linux VPS, VDS, DS
-- 💠 Milovník Virtualizace (zejména Docker)
+- 💠 Milovník Virtualizace (zejména Docker a Proxmox VE)
 - 👑 Umím dobře pracovat s lidmi (team management -> učím se ve škole)
 - 📊 Amatérský ekonom (učím se ve škole)
 
