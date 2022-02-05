@@ -80,7 +80,7 @@ Obecné Dovednosti:
 - 𝗦𝗦𝗗 ➔ 512 GB SSD (brzy doplním detaily)
 - 𝗚𝗣𝗨 ➔ NVIDIA Integrovaná 2 GB (brzy doplním detaily)
 #### Server PC
-- 𝗖𝗣𝗨 ➔ Intel Xeon W3690 6 Jader 3.46 GHz (brzy doplním detaily)
+- 𝗖𝗣𝗨 ➔ Intel Xeon W3690 6 Jader 3.46 až 3.73 GHz
 - 𝗥𝗔𝗠 ➔ 12 GB DDR3 1333 MHz
 - 𝗦𝗦𝗗 ➔ 600 GB HDD
 - 𝗚𝗣𝗨 ➔ NVIDIA Quadro K2000 8 GB
