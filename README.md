@@ -60,7 +60,7 @@ Obecné Dovednosti:
 - 🔎 Kdo ví, třeba chystám něco velkého? 🤔
 
 ### ⭐ Co mně baví?
-- 💻 Zejména programování webových aplikací
+- 💻 Zejména programování webových aplikací v PHP
 - 🎨 Web design a grafika
 - ⚒️ Práce s lidmi v týmu
 - ⚙️ Nastavování Minecraft serverů a Linux serverů
