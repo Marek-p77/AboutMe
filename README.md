@@ -63,7 +63,7 @@ Obecné Dovednosti:
 - 💻 Zejména programování webových aplikací
 - 🎨 Web design a grafika
 - ⚒️ Práce s lidmi v týmu
-- ⚙️ Nastavování Minecraft serverů
+- ⚙️ Nastavování Minecraft serverů a Linux serverů
 - 📊 Ekonomika, Administrativa provozu, Obchodní provoz (předměty ve škole)
 - 📺 Marvel filmy
 
