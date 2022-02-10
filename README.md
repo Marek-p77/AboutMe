@@ -110,7 +110,7 @@ Obecné Dovednosti:
 - Mám stále stejný Minecraft skin od kámošky už asi 5 let
 - Na Discordu mám stále stejnou profilovku jako když jsem si ho založil
 - Někdo mi v roce 2020 daroval Nitro a já o tom 2 týdny nevěděl...
-- Minecraft hraji už od verze 1.6
+- Minecraft hraji už od verze 1.4
 - Nemám Facebook ani Instagram, protože nevím na co by mi to bylo...
 - Nemám rád TikTok
 - Ananas na pizzu nepatří
