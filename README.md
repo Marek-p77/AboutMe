@@ -33,17 +33,17 @@ Obecné Dovednosti:
 - 📊 Amatérský ekonom (učím se ve škole)
 
 ### 🧰️ Nástroje, které používám:
-- Visual Studio Code -> Chytrý editor, který používám na všechno (HTML, CSS, PHP, Python a občas i JavaScript).
-- IntelliJ IDEA -> Velmi inteligentní IDE ve kterém píši základní Minecraft pluginy a Discord boty v Javě.
-- GIT a GitHub -> Version control, zálohy, přiležitostně i práce v týmu a pro přehled změn.
-- Laravel -> Velmi užitečný PHP MVC Framework, miluji v něm zejména Eloquent a Blade.
-- PhpMyAdmin -> Webové rozhraní pro správu MySQL Databází.
-- XAMPP -> MySQL server, Apache web server s PHP, mail server a FTP server v jednom. Super pro lokální development webů.
-- Virual Box -> Nástor pro vytváření VMs skrze magickou technologii virtualizace. Perfektní pro testování a učení. 
-- AnyDesk -> Aplikace pro vzdálené ovládání počítačů, super pro učení kamarádů :)
-- PuTTY -> SSH Client, používám ho pro správu VPS / VDS / DS a můj lokální server.
-- WinSCP -> Pohodlný FTP / SFTP Client pro vzdálenou manipulaci s větším objemem dat.
-- Canva.com -> Super pro lehkou a rychlou grafiku jako například loga, ikony a další.
+- 𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲 ➔ Chytrý editor, který používám na všechno (HTML, CSS, PHP, Python a občas i JavaScript).
+- 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗝 𝗜𝗗𝗘𝗔 ➔ Velmi inteligentní IDE ve kterém píši základní Minecraft pluginy a Discord boty v Javě.
+- 𝗚𝗜𝗧 𝗮 𝗚𝗶𝘁𝗛𝘂𝗯 ➔ Version control, zálohy, přiležitostně i práce v týmu a pro přehled změn.
+- 𝗟𝗮𝗿𝗮𝘃𝗲𝗹 ➔ Velmi užitečný PHP MVC Framework, miluji v něm zejména Eloquent a Blade.
+- 𝗣𝗵𝗽𝗠𝘆𝗔𝗱𝗺𝗶𝗻 ➔ Webové rozhraní pro správu MySQL Databází.
+- 𝗫𝗔𝗠𝗣𝗣 ➔ MySQL server, Apache web server s PHP, mail server a FTP server v jednom. Super pro lokální development webů.
+- 𝗩𝗶𝗿𝘁𝘂𝗮𝗹 𝗕𝗼𝘅 ➔ Nástor pro vytváření VMs skrze magickou technologii virtualizace. Perfektní pro testování a učení. 
+- 𝗔𝗻𝘆𝗗𝗲𝘀𝗸 ➔ Aplikace pro vzdálené ovládání počítačů, super pro učení kamarádů :)
+- 𝗣𝘂𝗧𝗧𝗬 ➔ SSH Client, používám ho pro správu VPS / VDS / DS a můj lokální server.
+- 𝗪𝗶𝗻𝗦𝗖𝗣 ➔ Pohodlný FTP / SFTP Client pro vzdálenou manipulaci s větším objemem dat.
+- 𝗖𝗮𝗻𝘃𝗮 ➔ Super pro lehkou a rychlou grafiku jako například loga, ikony a další.
 
 A mnoho dalších malých věcí pro ulehčení života...
 <br>
