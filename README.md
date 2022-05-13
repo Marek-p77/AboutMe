@@ -32,7 +32,7 @@ Obecné Dovednosti:
 - 👑 Umím dobře pracovat s lidmi (team management -> učím se ve škole)
 - 📊 Amatérský ekonom (učím se ve škole)
 
-### 🧰️ Nástroje které používám
+### 🧰️ Nástroje, které používám:
 - Visual Studio Code -> Chytrý editor, který používám na všechno (HTML, CSS, PHP, Python a občas i JavaScript).
 - IntelliJ IDEA -> Velmi inteligentní IDE ve kterém píši základní Minecraft pluginy a Discord boty v Javě.
 - GIT a GitHub -> Version control, zálohy, přiležitostně i práce v týmu a pro přehled změn.
