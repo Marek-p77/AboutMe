@@ -2,7 +2,7 @@
 # 📜 Kdo že to jsem? 🤔
 
 ### 📄 Informace
-Ahoj. Jmenuji se Marek, je mi 17 let. Jsem začínající vývojář webových aplikací. Studuji na střední škole ekonomické.
+Ahoj. Jmenuji se Marek, je mi 17 let. Jsem začínající vývojář webových aplikací. Studuji na střední škole ekonomické. Programováním se zabývám již druhým rokem a určitě nemám v plánu přestat! :)
 
 ### ✉️ Kontakt
 - <img align="left" alt="Discord" width="20px" src="https://media.discordapp.net/attachments/865982224607871006/916381481725751356/discord.png"/> Discord: 🔥𝕄𝕒𝕣𝕖𝕜_𝕡🔥#4775
