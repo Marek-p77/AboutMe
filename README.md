@@ -33,16 +33,18 @@ Obecné Dovednosti:
 - 📊 Amatérský ekonom (učím se ve škole)
 
 ### 🧰️ Nástroje které používám
-<img align="left" alt="Visual Studio Code" width="40px" src="https://media.discordapp.net/attachments/865982224607871006/916373942267166780/visualstudiocode.png"/>
-<img align="left" alt="PhpStrom" width="40px" src="https://media.discordapp.net/attachments/865982224607871006/916373608278937650/phpstorm.png"/>
-<img align="left" alt="MySQL&PHPMyAdmin" width="40px" src="https://media.discordapp.net/attachments/865982224607871006/916376655637921862/OIP-removebg-preview_4.png"/>
-<img align="left" alt="Canva" width="40px" src="https://media.discordapp.net/attachments/865982224607871006/916378161455956029/canva-logo-transparent-8.png?width=485&height=485"/>
-<img align="left" alt="Pterodactyl Panel" width="28px" src="https://media.discordapp.net/attachments/865982224607871006/916379231301296228/pterodactyl_logo_transparent.png?width=296&height=484"/>
-<img align="left" alt="Putty" width="28px" src="https://media.discordapp.net/attachments/865982224607871006/916395388783689788/putty.png?width=485&height=485"/>
-<img align="left" alt="WinSCP" width="28px" src="https://media.discordapp.net/attachments/865982224607871006/916395387865165844/winscp.png"/>
-<img align="left" alt="XAMPP" width="28px" src="https://media.discordapp.net/attachments/865982224607871006/916395389085704202/xampp.jpg"/>
-<img align="left" alt="AnyDesk" width="28px" src="https://media.discordapp.net/attachments/865982224607871006/916395387626070046/anydesk.png?width=485&height=485"/>
-<img align="left" alt="GitHub" width="40px" src="https://media.discordapp.net/attachments/865982224607871006/916377633271459860/OIP-removebg-preview_5.png"/>
+- Visual Studio Code -> Chytrý editor, který používám na všechno (HTML, CSS, PHP, Python a občas i JavaScript).
+- IntelliJ IDEA -> Velmi inteligentní IDE ve kterém píši základní Minecraft pluginy a Discord boty v Javě.
+- GIT a GitHub -> Version control, zálohy, přiležitostně i práce v týmu a pro přehled změn.
+- Laravel -> Velmi užitečný PHP MVC Framework, miluji v něm zejména Eloquent a Blade.
+- PhpMyAdmin -> Webové rozhraní pro správu MySQL Databází.
+- XAMPP -> MySQL server, Apache web server s PHP, mail server a FTP server v jednom. Super pro lokální development webů.
+- Virual Box -> Nástor pro vytváření VMs skrze magickou technologii virtualizace. Perfektní pro testování a učení. 
+- AnyDesk -> Aplikace pro vzdálené ovládání počítačů, super pro učení kamarádů :)
+- PuTTY -> SSH Client, používám ho pro správu VPS / VDS / DS a můj lokální server.
+- WinSCP -> Pohodlný FTP / SFTP Client pro vzdálenou manipulaci s větším objemem dat.
+- Canva.com -> Super pro lehkou a rychlou grafiku jako například loga, ikony a další.
+A mnoho dalších malých věcí pro ulehčení života...
 <br>
 
 ### ⚒️ Projekty na kterých jsem působil / působím:
