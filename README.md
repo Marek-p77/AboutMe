@@ -44,6 +44,7 @@ Obecné Dovednosti:
 - PuTTY -> SSH Client, používám ho pro správu VPS / VDS / DS a můj lokální server.
 - WinSCP -> Pohodlný FTP / SFTP Client pro vzdálenou manipulaci s větším objemem dat.
 - Canva.com -> Super pro lehkou a rychlou grafiku jako například loga, ikony a další.
+
 A mnoho dalších malých věcí pro ulehčení života...
 <br>
 
