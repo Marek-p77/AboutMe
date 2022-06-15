@@ -23,6 +23,11 @@ Programování:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marek-p77)
 
+#### GitHub Statistiky
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marek-p77)
+
+
 Obecné Dovednosti:
 
 - 🎨 Základní grafika (převážně loga a ikony)
