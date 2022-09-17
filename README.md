@@ -21,11 +21,11 @@ Programování:
 
   └ Laravel Framework
   
-      └ Breeze
+     └ Breeze
     
-      └ JetStream
+     └ JetStream
     
-      └ Sanctum
+     └ Sanctum
     
     
 - Mírně pokročilá znalost 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁𝘂:
