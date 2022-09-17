@@ -12,30 +12,51 @@ Ahoj. Jmenuji se Marek, je mi 17 let. Jsem začínající vývojář webových a
 Programování: 
 
 - Velmi dobrá znalost 𝗛𝗧𝗠𝗟 a 𝗖𝗦𝗦:
+
   └ TailwindCSS
+  
   └ Bootstrap
   
 - Pokročilá znalost 𝗣𝗛𝗣:
+
   └ Laravel Framework
+  
     └ Breeze
+    
     └ JetStream
+    
     └ Sanctum
     
+    
 - Mírně pokročilá znalost 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁𝘂:
+
   └ Vue.js
+  
   └ Inertia.js
+  
   └ Chart.js
   
+  
 - Základní znalost 𝗝𝗮𝘃𝘆:
+
   └ Spigot API
+  
   └ Java Discord API
   
+  
+  
 - Dostačující znalost 𝗦𝗤𝗟:
+
   └ MySQL
   
+  
 - Základní znalost 𝗩𝗶𝗿𝘁𝘂𝗮𝗹𝗶𝘇𝗮𝗰𝗲:
+
   └ Docker
+  
   └ Proxmox
+  
+  
 
 #### Programovací jazyky, které nejvíce používám
 
