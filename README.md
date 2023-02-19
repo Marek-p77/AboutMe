@@ -119,7 +119,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 ### 💻 Můj PC Setup
 #### Hlavní Notebook
 - 𝗖𝗣𝗨 ➔ AMD Ryzen 5 5600H 6 Jader 3.3 až 4.2 Ghz
-- 𝗥𝗔𝗠 ➔ 16 GB DDR4 3200 MHz
+- 𝗥𝗔𝗠 ➔ 32 GB DDR4 3200 MHz (Upgrade z 16 GB v únoru 2023)
 - 𝗦𝗦𝗗 ➔ 512 GB Samsung MZALQ512HBLU-00BL2
 - 𝗚𝗣𝗨 0 ➔ NVIDIA GeForce GTX 1650 7 GB (dedikovaná)
 - 𝗚𝗣𝗨 1 ➔ AMD Radeon Graphics 5 GB (integrovaná)
@@ -128,21 +128,20 @@ A mnoho dalších malých věcí pro ulehčení života...
 - 𝗥𝗔𝗠 ➔ 16 GB DDR3 1600 MHz
 - 𝗦𝗦𝗗 ➔ 512 GB SSD (brzy doplním detaily)
 - 𝗚𝗣𝗨 ➔ NVIDIA Integrovaná 2 GB (brzy doplním detaily)
-#### Server PC
+#### Server #1
 - 𝗖𝗣𝗨 ➔ Intel Xeon W3690 6 Jader 3.46 až 3.73 GHz
 - 𝗥𝗔𝗠 ➔ 12 GB DDR3 1333 MHz
 - 𝗦𝗦𝗗 ➔ 600 GB HDD
 - 𝗚𝗣𝗨 ➔ NVIDIA Quadro K2000 8 GB
+#### Server #2
+- 𝗖𝗣𝗨 ➔ AMD Ryzen 7 5700G 6 Jader 3.8 až 4.6 GHz
+- 𝗥𝗔𝗠 ➔ 64 GB DDR4 3200 MHz Kingston Fury
+- 𝗦𝗦𝗗 ➔ 1 TB SSD M.2 NVMe WD Black SN770
+- 𝗚𝗣𝗨 ➔ Integrovaná v CPU (pro server není potřeba)
 #### Raspberry Pi 4 Model B (Mini PC)
 - 𝗖𝗣𝗨 ➔ ARM Cortex-A72 4 Jádra 1.5 Ghz
 - 𝗥𝗔𝗠 ➔ 4 GB LPDDR4
 - 𝗠𝗶𝗰𝗿𝗼 𝗦𝗗 𝗞𝗮𝗿𝘁𝗮 ➔ 32 GB (jako disk)
-#### Hlavní Myš
-- https://www.yenkee.eu/gaming-mouse-ambush/yms-3017
-#### Sluchátka
-- https://www.yenkee.eu/gaming-headphones-ambush/yhp-3020
-#### Klávesnice 2x
-- Microsoft All-in-One cordless Media Keyboard
 
 ### 📚 Ostatní Blbosti
 - Žiju na severu Moravy
@@ -277,12 +276,18 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Jako Command Terminal používám Git Bash, funguje skvělě zatím na vše co potřebuji na Windows 10
 - Jako operační systém pro servery používám Ubuntu 20.04, nějakou dobu jsem ho měl i jako desktop, ale moc mi jeho desktop verze nevyhovuje
 - Občas snídám v posteli, je to pohodlnější než u stolu
-- Občas najdu lentilky ve skříni. Asi máme doma nějakého skřítka hmmm
+- Občas najdu balení lentilek ve skříni. Asi máme doma nějakého hodného skřítka hmmm
 - Měl jsem možnost dělat web pro sbor dobrovolných hasičů, ale kvůli svému kamarádovi jsem tuto zakázku odmítl a předal jinému kamarádovi
 - Nevím proč mám v mých editorech discord rich presence když jsem fake offline už půl roku // tohle píšu v září 2022
-- Na Discordu jsem fake offline protože mi to tak vyhovuje, pravdou však je, že se na discord dívám i téměř přestávku ve škole a odepisuji relativně rychle když chci
-- Mám domácí server s vodním chlazením
+- Na Discordu jsem byl fake offline skoro rok protože mi to tak vyhovovalo. Ale stále jsem byl mezi živými i když to tak nevypadalo :)
+- Mám domácí server s vodním chlazením, občas zvláštně bulbá až je to děsivé.
 - V pokoji mám nábytek na zakázku
+- Když sedím u PC tak přímo v úrovni očí na mně bliká router. Ale je to příjemné blikání, skoro jako morseovka :D
+- Když si chci ozvláštnit práci na nějakém projektu, používám u něj GitFlow branching strategii, která mně nakonec spíše zpomaluje. Ale je cool, líbí se mi :D
+- Poté co jsem koupil ramky do mého serveru tak jsem si všiml, že úplně stejná varianta, ale s RGB je o 70 Kč levnější. Mohl jsem mít RGB server...
+- Místo toho abych si stáhl nějaký HUD mód tak si zobrazuji svůj ping přes /tpsbar, stále netuším proč
+- Od začátku roku 2023 používám Fabric. Už je únor a zatím se mi moc líbí
+- Jsou skoro 4 hodiny ráno a místo toho abych šel spát píšu random blbosti. EDIT: Další várku dopíšu zítra, dobrou noc
 - Rád se dívám z okna, hlavně z výšky. Je to takové uklidňující
 - V Minecraftu dělám hodně screenshotů. Třeba se na to za pár let podívám a zavzpomínám na ty časy. Některé mé screeny jsou i 7 let staré
 - Na YouTube mám někde kanál se spoustou videí, které jsem natáčel na foťák když mi bylo asi 9 let. Dokázal by ho někdo z vás najít? Pozor! Je to vážně cringe :D
