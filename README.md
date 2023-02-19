@@ -70,11 +70,11 @@ Programování:
 Obecné Dovednosti:
 
 - 🎨 Základní grafika (převážně loga a ikony)
-- 🎬 Editace videí (Camtasia Studio)
+- 🎬 Editace videí (Aktuálně DaVinci Resolve, před lety Camtasia Studio)
 - 💻 Správa Linux Serverů, zejména Ubuntu Server 20.04
 - 💠 Milovník Virtualizace (zejména Docker a Proxmox VE)
 - 👑 Umím dobře pracovat s lidmi (team management -> učím se ve škole)
-- 📊 Amatérský ekonom (učím se ve škole)
+- 📊 Amatérský ekonom a účetní (učím se ve škole)
 
 ### 🧰️ Nástroje, které používám:
 - 𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲 ➔ Chytrý editor, který používám na všechno (HTML, CSS, PHP, Python a občas i JavaScript).
@@ -96,12 +96,12 @@ A mnoho dalších malých věcí pro ulehčení života...
 <br>
 
 ### ⚒️ Projekty na kterých jsem působil / působím:
-- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 6 let (2015 - 2021)
+- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 𝗥𝗣𝗚】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 6 let (2015 - 2021)
+- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 𝗦𝗠𝗣】 ➔ Aktuálně 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 (od ledna 2023)
 - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗔𝗺𝗽𝗲𝗱𝗟𝗮𝗻𝗱】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 4 měsíce (únor - květen 2021)
 - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗜𝗿𝗶𝗱𝗶𝘂𝗺𝗖𝗿𝗮𝗳𝘁】 ➔ Aktuálně 𝙃𝙡.𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 & 𝙈𝙖𝙣𝙖𝙜𝙚𝙧 (od října 2021)
 - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗪𝗮𝘇𝗶𝗿𝗲.𝗲𝘂】 ➔ 𝙃𝙡.𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 10 měsíců (únor - listopad 2022)
 - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗙𝗮𝗹𝗹𝗲𝗻𝗞𝗶𝗻𝗴𝗱𝗼𝗺𝘀】 ➔ 𝙃𝙡.𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 7 měsíců (květen - listopadu 2021)
-- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗧𝗿𝗶𝗸𝗼𝗣𝗶𝗰𝗸】 ➔ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 2 týdny (říjen 2021)
 - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗔𝗹𝗮𝗿𝘄𝗮𝗡𝗶𝗹𝗱𝗼𝗿】 ➔ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 5 měsíců (září - leden 2020)
 - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗩𝗶𝗿𝘁𝘂𝘀 𝗨𝗻𝗶𝘁𝗮 𝗙𝗼𝗿𝘁𝗶𝗼𝗿】 ➔ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 2 měsíce (červen - červenec 2020)
 - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916399704235995226/website.png?width=485&height=485"/>Bytové družstvo Miroslav ➔ Aktuálně 𝙒𝙚𝙗 𝙈𝙖𝙣𝙖𝙜𝙚𝙧 (od srpna 2021)
