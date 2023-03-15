@@ -269,7 +269,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Až moc nad vším přemýšlím. Beru to sice jako svou silnou stránku, ale někdy je to až příliš a všeho moc škodí
 - Rád si vyslechnu kritiku, feedback je důležitý. Jaký máš názor na tento seznam? :D
 - V GitBooku mám napsanou starou znalostní bázi pro Minecraft pluginy. Věděli jste to? Asi ne, jelikož je to staré a neaktualizované :D
-- Nevím jak mé budoucí já, ale je 19.9.2022 a já jsem ještě nikdy nezapl Minecraft 1.17, 1.18 ani 1.19. Nemám tyto verze rád, je tam toho až moc
+- Nevím jak mé budoucí já, ale je 19.9.2022 a já jsem ještě nikdy nezapl Minecraft 1.17, 1.18 ani 1.19. Nemám tyto verze rád, je tam toho až moc. EDIT: Od ledna 2023 jsem se rozhodl změnit
 - Když mi bylo asi 12 tak jsem hrál WorldOfTanks, Dont Starve a Cities Skylines. Teď už ale dlouhé roky hraji jen a jen Minecraft.
 - Od doby co jsem se začal učit Laravel asi v březnu 2022 hraji hry méně a méně. Programování mě nepřestává fascinovat // tohle píšu v září 2022
 - Nemám rád brzké vztávání, ale když na to přijde tak s tím nemám zas takový problém
@@ -293,7 +293,6 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Na YouTube mám někde kanál se spoustou videí, které jsem natáčel na foťák když mi bylo asi 9 let. Dokázal by ho někdo z vás najít? Pozor! Je to vážně cringe :D
 - Jsem velmi tajnůstkářský. Možná to tak nevypadá, ale to je záměr! :D
 - Snažím se poučit nejen ze svých chyb, ale také z chyb ostatních
-- Snažím se na Discordu nepsat xd a myslím, že mi to jde celkem dobře xddd
 - Pokaždé když jsem na PC mám zaplý Discord
 - Na Discordu prostě nesmím mít ani jeden nepřečtený ping. Jinak to opravdu nejde.
 - Mám ve svém hlavním notebooku jen jeden disk a úplně v pohodě mi to stačí. Nestahuju blbosti a mám na něm pořádek
