@@ -108,44 +108,44 @@ A mnoho dalších malých věcí pro ulehčení života...
 ### ⚒️ Projekty na kterých jsem působil / působím:
 - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 𝗥𝗣𝗚】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 6 let (2015 - 2021)*
 
-ㅤ└ Survival Economy, většinu času Whitelisted. Rekord hráčů: 18
+ㅤㅤ└ Survival Economy, většinu času Whitelisted. Rekord hráčů: 18
 
 - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 𝗦𝗠𝗣】 ➔ Aktuálně 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 (od ledna 2023)
 
-ㅤ└ Whitelisted survival bez pluginů ovlivňujících hru, pro přátele. Rekord hráčů: 7
+ㅤㅤ└ Whitelisted survival bez pluginů ovlivňujících hru, pro přátele. Rekord hráčů: 7
 
 - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗔𝗺𝗽𝗲𝗱𝗟𝗮𝗻𝗱】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 4 měsíce (únor - květen 2021)
 
-ㅤ└ Minihry - Practice, KitPvP, KBFFA, Eventy atd. Rekord hráčů: 22
+ㅤㅤ└ Minihry - Practice, KitPvP, KBFFA, Eventy atd. Rekord hráčů: 22
 
 - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗪𝗮𝗿𝗱𝗲𝗻𝗠𝗖】 ➔ Aktuálně 𝙃𝙡.𝙏𝙚𝙘𝙝𝙣𝙞𝙠 (od února 2023)
 
-ㅤ└ Survival economy, GunGame, BoxFight. Rekord hráčů: 41
+ㅤㅤ└ Survival economy, GunGame, BoxFight. Rekord hráčů: 41
 
 - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗜𝗿𝗶𝗱𝗶𝘂𝗺𝗖𝗿𝗮𝗳𝘁】 ➔ Aktuálně 𝙃𝙡.𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 & 𝙈𝙖𝙣𝙖𝙜𝙚𝙧 (od října 2021)
 
-ㅤ└ Survival economy. Rekord hráčů: ? (odhadem 12)
+ㅤㅤ└ Survival economy. Rekord hráčů: ? (odhadem 12)
 
 - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗪𝗮𝘇𝗶𝗿𝗲.𝗲𝘂】 ➔ 𝙃𝙡.𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 10 měsíců (únor - listopad 2022)
 
-ㅤ└ Survival economy. Rekord hráčů: ? (odhadem pod 10)
+ㅤㅤ└ Survival economy. Rekord hráčů: ? (odhadem pod 10)
 
 - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗙𝗮𝗹𝗹𝗲𝗻𝗞𝗶𝗻𝗴𝗱𝗼𝗺𝘀】 ➔ 𝙃𝙡.𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 7 měsíců (květen - listopadu 2021)
 
-ㅤ└ Survival economy. Rekord hráčů: ? (odhadem pod 10)
+ㅤㅤ└ Survival economy. Rekord hráčů: ? (odhadem pod 10)
 
 - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗔𝗹𝗮𝗿𝘄𝗮𝗡𝗶𝗹𝗱𝗼𝗿】 ➔ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 5 měsíců (září - leden 2020)
 
-ㅤ└ Survival economy, Eventy, dočasně minihry. Rekord hráčů: ? (odhadem kolem 20)
+ㅤㅤ└ Survival economy, Eventy, dočasně minihry. Rekord hráčů: ? (odhadem kolem 20)
 
 - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗩𝗶𝗿𝘁𝘂𝘀 𝗨𝗻𝗶𝘁𝗮 𝗙𝗼𝗿𝘁𝗶𝗼𝗿】 ➔ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 2 měsíce (červen - červenec 2020)
 
-ㅤ└ Politický survival economy. Rekord hráčů: ? (odhadem 10 až 15)
+ㅤㅤ└ Politický survival economy. Rekord hráčů: ? (odhadem 10 až 15)
 
 - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916399704235995226/website.png?width=485&height=485"/>Bytové družstvo Miroslav ➔ Aktuálně 𝙒𝙚𝙗 𝙈𝙖𝙣𝙖𝙜𝙚𝙧 (od srpna 2021)
 - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916399704235995226/website.png?width=485&height=485"/>Kapela Lindens ➔ Aktuálně 𝙒𝙚𝙗 𝙈𝙖𝙣𝙖𝙜𝙚𝙧 (od července 2021)
 
-- *Poznámka: Mineverse RPG stále funguje, ale jako soukromý a neaktivní server udržovaný spíše z nostalgie.
+- *Poznámka: Mineverse RPG stále funguje, ale jako soukromý a neaktivní server udržovaný spíše z nostalgie. Můj první server.
 
 - 🔎 Kdo ví, třeba chystám něco velkého? 🤔
 
