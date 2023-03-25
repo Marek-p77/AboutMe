@@ -65,6 +65,8 @@ Programování:
 
 #### Programovací jazyky, které nejvíce používám
 
+Poznámka: Podle GitHubu.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marek-p77)
 
 #### GitHub Statistiky
