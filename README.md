@@ -124,12 +124,6 @@ A mnoho dalších malých věcí pro ulehčení života...
 
 ㅤㅤ└ Má práce: Nastavení většiny serveru společně se zbytkem týmu. Správa discord serveru.
 
-- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗠𝗶𝗻𝗲𝘅𝗠𝗖】 ➔ Aktuálně 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 (od května 2023)
-
-ㅤㅤ└ Economy Survival. Server ještě nebyl otevřen.
-
-ㅤㅤ└ Má práce: V dobu kdy tohle píšu jsem na serveru druhý den a ještě ani není koupený... Správa discord serveru.
-
 - <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗦𝘂𝗿𝘃𝗶𝘃𝗮𝗹𝗣𝗹𝗮𝘆】 ➔ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 2 týdny (květen 2023)
 
 ㅤㅤ└ Economy Survival, příprava Bungeecordu a Miniher. Rekord hráčů: ? (odhadem 5 až 10)
