@@ -174,7 +174,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 
    └ Má práce: Kompletní vývoj a správa webu a domény.
 
-- *Poznámka: Mineverse RPG stále funguje, ale jako soukromý a neaktivní server udržovaný spíše z nostalgie. Můj první server.
+- *Poznámka: Mineverse stále funguje, ale jako soukromý a neaktivní server udržovaný spíše z nostalgie. Můj první server.
 
 - 🔎 Kdo ví, třeba chystám něco velkého? 🤔
 
