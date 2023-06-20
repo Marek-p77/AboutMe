@@ -8,7 +8,7 @@ Ahoj. Jmenuji se Marek, je mi 18 let. Jsem vývojář webových aplikací. Studu
 Na GitHubu v tuto chvíli nemám žádné veřejné projekty. Proč? Nemám tolik času a ani motivaci pracovat na open-source projektech. Mám spoustu práce a své soukromé projekty. Mám ale v plánu tento rok začít hodně projektů zveřejňovat a udržovat je. Máte se na co těšit 😎
 
 ### ✉️ Kontakt
-- <img align="left" alt="Discord" width="20px" src="https://media.discordapp.net/attachments/865982224607871006/916381481725751356/discord.png"/> Discord: 🔥𝕄𝕒𝕣𝕖𝕜_𝕡🔥#4775
+- <img align="left" alt="Discord" width="20px" src="https://media.discordapp.net/attachments/865982224607871006/916381481725751356/discord.png"/> Discord: @marek_p / 🔥𝕄𝕒𝕣𝕖𝕜_𝕡🔥#4775
 - <img align="left" alt="Seznam" width="20px" src="https://media.discordapp.net/attachments/865982224607871006/916381390424137768/OIP-removebg-preview_7.png"/> Email: marek.mnp@seznam.cz
 
 ### 🎓 Dovednosti
