@@ -202,8 +202,9 @@ A mnoho dalších malých věcí pro ulehčení života...
 #### Server #1
 - 𝗖𝗣𝗨 ➔ Intel Xeon W3690 6 Jader 3.46 až 3.73 GHz
 - 𝗥𝗔𝗠 ➔ 12 GB DDR3 1333 MHz
-- 𝗦𝗦𝗗 ➔ 600 GB HDD
+- 𝗦𝗦𝗗 ➔ 600 GB HDD SAS (Seagate Exos Enterprise 10E2400)
 - 𝗚𝗣𝗨 ➔ NVIDIA Quadro K2000 8 GB
+- Rekordní Uptime cca 3 měsíce (2022)
 #### Server #2
 - 𝗖𝗣𝗨 ➔ AMD Ryzen 7 5700G 6 Jader 3.8 až 4.6 GHz
 - 𝗥𝗔𝗠 ➔ 128 GB DDR4 3200 MHz Kingston Fury Beast (4x32)
