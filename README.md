@@ -112,7 +112,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 
 ㅤㅤ└ Má práce: Kompletní nastavení, vedení atd. V roce 2023 vlastní plugin pro RPG itemy a schopnosti.
 
-- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 𝗦𝗠𝗣】 ➔ Aktuálně 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 & 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 / 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 (od ledna 2023)
+- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 𝗦𝗠𝗣】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 & 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 / 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 7 měsíců (leden - červenec 2023)
 
 ㅤㅤ└ Whitelisted survival bez pluginů ovlivňujících hru, pro přátele. Rekord hráčů: 7
 
