@@ -206,9 +206,10 @@ A mnoho dalších malých věcí pro ulehčení života...
 - 𝗚𝗣𝗨 ➔ NVIDIA Quadro K2000 8 GB
 #### Server #2
 - 𝗖𝗣𝗨 ➔ AMD Ryzen 7 5700G 6 Jader 3.8 až 4.6 GHz
-- 𝗥𝗔𝗠 ➔ 64 GB DDR4 3200 MHz Kingston Fury (Brzy upgrade na 128 GB?)
+- 𝗥𝗔𝗠 ➔ 128 GB DDR4 3200 MHz Kingston Fury Beast (4x32)
 - 𝗦𝗦𝗗 ➔ 1 TB SSD M.2 NVMe WD Black SN770
 - 𝗚𝗣𝗨 ➔ Integrovaná v CPU (pro server není potřeba)
+- Rekordní Uptime: 100d 1h 6m 45s (16.7.2023)
 #### Raspberry Pi 4 Model B (Mini PC)
 - 𝗖𝗣𝗨 ➔ ARM Cortex-A72 4 Jádra 1.5 Ghz
 - 𝗥𝗔𝗠 ➔ 4 GB LPDDR4
