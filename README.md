@@ -174,43 +174,50 @@ A mnoho dalších malých věcí pro ulehčení života...
 
    └ Má práce: Kompletní vývoj a správa webu a domény.
 
-- *Poznámka: Mineverse stále funguje, ale jako soukromý a neaktivní server udržovaný spíše z nostalgie. Můj první server.
+- *Poznámka: Mineverse stále funguje, ale jako soukromý a neaktivní server udržovaný spíše z nostalgie. Můj první server. Rekord hráčů v roce 2023: 4
 
 - 🔎 Kdo ví, třeba chystám něco velkého? 🤔
 
 ### ⭐ Co mně baví?
-- 💻 Zejména programování webových aplikací.
+- 💻 Zejména programování webových aplikací a Minecraft pluginů.
 - 🎨 Web design, grafika a základní animace.
 - ⚒️ Práce s lidmi v týmu.
 - ⚙️ Nastavování Minecraft serverů a Linux serverů.
 - 📊 Ekonomika, Administrativa provozu, Obchodní provoz (předměty ve škole).
-- 📺 Marvel filmy a seriály, fantasy filimy.
-- 🎮 Minecraft.
+- 📺 Marvel filmy a seriály, fantasy filmy.
+- 🎮 Minecraft BedWars, Survival a technické módy jako například Mekanism, AE2 atd.
 
 ### 💻 Můj PC Setup
+
 #### Hlavní Notebook
 - 𝗖𝗣𝗨 ➔ AMD Ryzen 5 5600H 6 Jader 3.3 až 4.2 Ghz
-- 𝗥𝗔𝗠 ➔ 32 GB DDR4 3200 MHz (Upgrade z 16 GB v únoru 2023)
+- 𝗥𝗔𝗠 ➔ 32 GB DDR4 3200 MHz (2x16, upgrade z 16 GB v únoru 2023)
 - 𝗦𝗦𝗗 ➔ 512 GB Samsung MZALQ512HBLU-00BL2
 - 𝗚𝗣𝗨 0 ➔ NVIDIA GeForce GTX 1650 7 GB (dedikovaná)
 - 𝗚𝗣𝗨 1 ➔ AMD Radeon Graphics 5 GB (integrovaná)
+  
 #### Starý Notebook
 - 𝗖𝗣𝗨 ➔ Intel Core i3-3220 2 Jádra 3.3 GHz
 - 𝗥𝗔𝗠 ➔ 16 GB DDR3 1600 MHz
 - 𝗦𝗦𝗗 ➔ 512 GB SSD (brzy doplním detaily)
 - 𝗚𝗣𝗨 ➔ NVIDIA Integrovaná 2 GB (brzy doplním detaily)
+  
 #### Server #1
 - 𝗖𝗣𝗨 ➔ Intel Xeon W3690 6 Jader 3.46 až 3.73 GHz
-- 𝗥𝗔𝗠 ➔ 12 GB DDR3 1333 MHz
+- 𝗥𝗔𝗠 ➔ 12 GB DDR3 1333 MHz (Brzy upgrade na 24 GB?)
 - 𝗦𝗦𝗗 ➔ 600 GB HDD SAS (Seagate Exos Enterprise 10E2400)
 - 𝗚𝗣𝗨 ➔ NVIDIA Quadro K2000 8 GB
-- Rekordní Uptime cca 3 měsíce (2022)
+- Rekordní Uptime: cca 3 měsíce (2022)
+- Účel: Hostování webů, databází, discord botů a obecné učení Linuxu a virtualizace (docker, proxmox)
+  
 #### Server #2
 - 𝗖𝗣𝗨 ➔ AMD Ryzen 7 5700G 6 Jader 3.8 až 4.6 GHz
-- 𝗥𝗔𝗠 ➔ 128 GB DDR4 3200 MHz Kingston Fury Beast (4x32)
+- 𝗥𝗔𝗠 ➔ 128 GB DDR4 3200 MHz Kingston Fury Beast (4x32, upgrade z 64 GB v červenci 2023)
 - 𝗦𝗦𝗗 ➔ 1 TB SSD M.2 NVMe WD Black SN770
 - 𝗚𝗣𝗨 ➔ Integrovaná v CPU (pro server není potřeba)
 - Rekordní Uptime: 100d 1h 6m 45s (16.7.2023)
+- Účel: Hostování Minecraft serverů - Zejména Mineverse, případně testovací a rodinné servery
+  
 #### Raspberry Pi 4 Model B (Mini PC)
 - 𝗖𝗣𝗨 ➔ ARM Cortex-A72 4 Jádra 1.5 Ghz
 - 𝗥𝗔𝗠 ➔ 4 GB LPDDR4
