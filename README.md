@@ -191,16 +191,18 @@ A mnoho dalších malých věcí pro ulehčení života...
 
 #### Hlavní Notebook
 - 𝗖𝗣𝗨 ➔ AMD Ryzen 5 5600H 6 Jader 3.3 až 4.2 Ghz
-- 𝗥𝗔𝗠 ➔ 32 GB DDR4 3200 MHz (2x16, upgrade z 16 GB v únoru 2023)
+- 𝗥𝗔𝗠 ➔ 32 GB DDR4 3200 MHz Kingston Fury (2x16, upgrade z 16 GB v únoru 2023)
 - 𝗦𝗦𝗗 ➔ 512 GB Samsung MZALQ512HBLU-00BL2
 - 𝗚𝗣𝗨 0 ➔ NVIDIA GeForce GTX 1650 7 GB (dedikovaná)
 - 𝗚𝗣𝗨 1 ➔ AMD Radeon Graphics 5 GB (integrovaná)
+- Přibližná cena: 20 000 Kč (2021 - Alza)
   
 #### Starý Notebook
 - 𝗖𝗣𝗨 ➔ Intel Core i3-3220 2 Jádra 3.3 GHz
 - 𝗥𝗔𝗠 ➔ 16 GB DDR3 1600 MHz
 - 𝗦𝗦𝗗 ➔ 512 GB SSD (brzy doplním detaily)
 - 𝗚𝗣𝗨 ➔ NVIDIA Integrovaná 2 GB (brzy doplním detaily)
+- Přibližná cena: dnes asi 5 000 Kč (Kupovaný v roce 2014 za asi 15 000 Kč, za tu dobu hodně vylepšený)
   
 #### Server #1
 - 𝗖𝗣𝗨 ➔ Intel Xeon W3690 6 Jader 3.46 až 3.73 GHz
@@ -209,6 +211,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 - 𝗚𝗣𝗨 ➔ NVIDIA Quadro K2000 8 GB
 - Rekordní Uptime: cca 3 měsíce (2022)
 - Účel: Hostování webů, databází, discord botů a obecné učení Linuxu a virtualizace (docker, proxmox)
+- Přibližná cena: 7 000 Kč (Repasovaný + vylepšení, koupen v roce 2020)
   
 #### Server #2
 - 𝗖𝗣𝗨 ➔ AMD Ryzen 7 5700G 6 Jader 3.8 až 4.6 GHz
@@ -217,11 +220,13 @@ A mnoho dalších malých věcí pro ulehčení života...
 - 𝗚𝗣𝗨 ➔ Integrovaná v CPU (pro server není potřeba)
 - Rekordní Uptime: 100d 1h 6m 45s (16.7.2023)
 - Účel: Hostování Minecraft serverů - Zejména Mineverse, případně testovací a rodinné servery
+- Přibližná cena: 25 000 Kč (Leden 2023 - Alza)
   
 #### Raspberry Pi 4 Model B (Mini PC)
 - 𝗖𝗣𝗨 ➔ ARM Cortex-A72 4 Jádra 1.5 Ghz
 - 𝗥𝗔𝗠 ➔ 4 GB LPDDR4
 - 𝗠𝗶𝗰𝗿𝗼 𝗦𝗗 𝗞𝗮𝗿𝘁𝗮 ➔ 32 GB (jako disk)
+- Přibližná cena: 3 000 Kč (2020 - Alza)
 
 ### 📚 Ostatní Blbosti
 - Žiju na severu Moravy.
