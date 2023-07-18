@@ -18,18 +18,9 @@ Programování:
 
   └ TailwindCSS
   
-  └ Bootstrap
-  
 - Pokročilá znalost 𝗣𝗛𝗣:
 
-  └ Laravel Framework
-  
-     └ Breeze
-    
-     └ JetStream
-    
-     └ Sanctum
-    
+  └ Laravel Framework (Breeze, Jetstream, Sanctum)
     
 - Mírně pokročilá znalost 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁𝘂:
 
@@ -39,16 +30,15 @@ Programování:
   
   └ Chart.js
   
-  
-- Základní znalost 𝗝𝗮𝘃𝘆:
+- Pokročilá znalost 𝗝𝗮𝘃𝘆:
 
   └ Spigot API
   
   └ BungeeCord API
   
   └ Java Discord API (JDA)
-  
-  
+
+  └ Redis (Jedis)
   
 - Dostačující znalost 𝗦𝗤𝗟:
 
@@ -62,7 +52,6 @@ Programování:
   └ Proxmox
   
   
-
 #### Programovací jazyky, které nejvíce používám
 
 Poznámka: Podle GitHubu.
