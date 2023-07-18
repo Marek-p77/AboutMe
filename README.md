@@ -101,7 +101,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 <br>
 
 ### ⚒️ Projekty na kterých jsem působil / působím:
-- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 & 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 / 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 6 let (2015 - 2021)*
+- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 & 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 / 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 6 let (2015 - 2021)*
 
 ㅤㅤ└ RPG Survival Economy, většinu času Whitelisted. Rekord hráčů: 18
 
@@ -190,6 +190,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 - 𝗦𝗦𝗗 ➔ 512 GB Samsung MZALQ512HBLU-00BL2
 - 𝗚𝗣𝗨 0 ➔ NVIDIA GeForce GTX 1650 7 GB (dedikovaná)
 - 𝗚𝗣𝗨 1 ➔ AMD Radeon Graphics 5 GB (integrovaná)
+- Účel: Programování, hraní a celkově každodenní používání
 - Přibližná cena: 20 000 Kč (2021 - Alza)
   
 #### Starý Notebook
@@ -197,6 +198,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 - 𝗥𝗔𝗠 ➔ 16 GB DDR3 1600 MHz
 - 𝗦𝗦𝗗 ➔ 512 GB SSD (brzy doplním detaily)
 - 𝗚𝗣𝗨 ➔ NVIDIA Integrovaná 2 GB (brzy doplním detaily)
+- Účel: Památka na staré časy, případně na půjčení blízkým či návštěvě
 - Přibližná cena: dnes asi 5 000 Kč (Kupovaný v roce 2014 za asi 15 000 Kč, za tu dobu hodně vylepšený)
   
 #### Server #1
@@ -221,6 +223,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 - 𝗖𝗣𝗨 ➔ ARM Cortex-A72 4 Jádra 1.5 Ghz
 - 𝗥𝗔𝗠 ➔ 4 GB LPDDR4
 - 𝗠𝗶𝗰𝗿𝗼 𝗦𝗗 𝗞𝗮𝗿𝘁𝗮 ➔ 32 GB (jako disk)
+- Účel: Experimentování s Linuxem a další náladové věci
 - Přibližná cena: 3 000 Kč (2020 - Alza)
 
 ### 📚 Ostatní Blbosti
