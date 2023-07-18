@@ -76,8 +76,9 @@ Obecné Dovednosti:
 - 📊 Amatérský ekonom a účetní (učím se ve škole)
 
 ### 🧰️ Nástroje, které používám:
-- 𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲 ➔ Chytrý editor, který používám na všechno (HTML, CSS, PHP, Python a občas i JavaScript).
-- 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗝 𝗜𝗗𝗘𝗔 ➔ Velmi inteligentní IDE ve kterém píši základní Minecraft pluginy a Discord boty v Javě.
+- 𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲 ➔ Chytrý editor, který používám hlavně na editování konfiguračních souborů.
+- 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗝 𝗜𝗗𝗘𝗔 ➔ Velmi inteligentní IDE ve kterém vytvářím Minecraft pluginy a Discord boty v Javě.
+- 𝗣𝗵𝗽𝗦𝘁𝗼𝗿𝗺 ➔ Podobný jako IntelliJ, ale pro PHP a JavaScript. Vytvářím v něm zejména webové stránky.
 - 𝗚𝗶𝘁 & 𝗚𝗶𝘁𝗛𝘂𝗯 & 𝗚𝗶𝘁𝗞𝗿𝗮𝗸𝗲𝗻 ➔ Version control, zálohy, přiležitostně i práce v týmu a pro přehled změn.
 - 𝗟𝗮𝗿𝗮𝘃𝗲𝗹 ➔ Velmi užitečný PHP MVC Framework, miluji v něm zejména Eloquent a Blade.
 - 𝗩𝘂𝗲 ➔ Skvělý JavaScript framework pro tvorbu reaktivních webů.
@@ -86,10 +87,15 @@ Obecné Dovednosti:
 - 𝗩𝗶𝗿𝘁𝘂𝗮𝗹 𝗕𝗼𝘅 ➔ Nástor pro vytváření VMs skrze magickou technologii virtualizace. Perfektní pro testování a učení. 
 - 𝗣𝗿𝗼𝘅𝗺𝗼𝘅 𝗩𝗘 ➔ Open-source, enterprise level virtualizační nástroj.
 - 𝗔𝗻𝘆𝗗𝗲𝘀𝗸 ➔ Aplikace pro vzdálené ovládání počítačů, super pro učení kamarádů :)
-- 𝗣𝘂𝗧𝗧𝗬 ➔ SSH Client, používám ho pro správu VPS / VDS / DS a můj lokální server.
+- 𝗣𝘂𝗧𝗧𝗬 ➔ SSH Client, používám ho pro správu VPS / VDS / DS a mých lokálních serverů.
 - 𝗪𝗶𝗻𝗦𝗖𝗣 ➔ Pohodlný FTP / SFTP Client pro vzdálenou manipulaci s větším objemem dat.
 - 𝗖𝗮𝗻𝘃𝗮 ➔ Super pro lehkou a rychlou grafiku jako například loga, ikony a další.
 - 𝗣𝗼𝘀𝘁𝗺𝗮𝗻 ➔ Aplikace velmi užitečná pro vývoj API.
+- 𝗗𝗮𝗩𝗶𝗻𝗰𝗶 𝗥𝗲𝘀𝗼𝗹𝘃𝗲 ➔ Program na editaci videí.
+- 𝗢𝗕𝗦 𝗦𝘁𝘂𝗱𝗶𝗼 ➔ Program na nahrávání videí.
+- 𝗖𝗵𝗮𝘁𝗚𝗣𝗧 ➔ Velmi užitečná umělá inteligence. Hodí se na vymýšlení nápadů a dávání rad. Občas pomůže i při programování.
+- 𝗢𝗯𝘀𝗶𝗱𝗶𝗮𝗻 ➔ Užitečný nástroj pro tvorbu myšlenkových map, poznámek, to-do listů atd.
+- 𝗙𝗶𝗴𝗺𝗮 ➔ Webové rozhraní kde si navrhuji rozložení webových stránek a spoustu dalších věcí.
 
 A mnoho dalších malých věcí pro ulehčení života...
 <br>
