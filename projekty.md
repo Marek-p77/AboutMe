@@ -4,7 +4,7 @@
 
 1. 𝗠𝗩-𝗟𝗶𝗯
 - 2 550 Řádků kódu, 41 souborů (20.8.2023)
-- Knihovna pro Mineverse Network. (Ekonomika, Custom systém příkazů a GUI, oboustranná komunikace mezi servery v bungee síti) (Použito v MV-Essentials, MV-Lobby, MV-Survival a MV-Bungee)
+- Knihovna pro [@MineverseNetwork](https://github.com/MineverseNetwork). (Ekonomika, Custom systém příkazů a GUI, oboustranná komunikace mezi servery v bungee síti) (Použito v MV-Essentials, MV-Lobby, MV-Survival a MV-Bungee)
 <br>
 
 2. 𝗕𝗲𝗱𝗪𝗮𝗿𝘀
@@ -29,7 +29,7 @@
 
 6. 𝗠𝗩-𝗘𝘀𝘀𝗲𝗻𝘁𝗶𝗮𝗹𝘀
 - 1 200 Řádků kódu, 17 souborů (13.7.2023)
-- Multifunkční plugin pro Mineverse Network s Bungeecord podporou. (Lepší verze pluginu Iridium, zatím bez Discord integrace)
+- Multifunkční plugin pro [@MineverseNetwork](https://github.com/MineverseNetwork) s Bungeecord podporou. (Lepší verze pluginu Iridium, zatím bez Discord integrace)
 <br>
 
 7. 𝗦𝗽𝗹𝗲𝗲𝗳
@@ -39,12 +39,12 @@
 
 8. 𝗠𝗩-𝗦𝘂𝗿𝘃𝗶𝘃𝗮𝗹
 - 700 Řádků kódu, 16 souborů (5.6.2023)
-- Speciální itemy a schopnosti pro Mineverse Network, brzy rewrite.
+- Speciální itemy a schopnosti pro [@MineverseNetwork](https://github.com/MineverseNetwork), brzy rewrite.
 <br>
 
 9. 𝗠𝗩-𝗕𝘂𝗻𝗴𝗲𝗲
 - 450 Řádků kódu, 9 souborů (5.6.2023)
-- Lobby load balancing, StaffChat s Discord integrací, MOTD.
+- Lobby load balancing, StaffChat s Discord integrací, MOTD pro [@MineverseNetwork](https://github.com/MineverseNetwork).
 <br>
 
 10. 𝗟𝗼𝗯𝗯𝘆𝗖𝗼𝗿𝗲
@@ -64,7 +64,7 @@
 
 13. 𝗠𝗩-𝗟𝗼𝗯𝗯𝘆
 - 300 Řádků kódu, 6 souborů (20.8.2023)
-- Ochrana Lobby, Hologramy, Armor standy, základní příkazy. (Lepší verze pluginu LobbyCore pro Mineverse Network)
+- Ochrana Lobby, Hologramy, Armor standy, základní příkazy. (Lepší verze pluginu LobbyCore pro [@MineverseNetwork](https://github.com/MineverseNetwork))
 <br>
 
 14. 𝗔𝗿𝗴𝗼𝗻
@@ -76,12 +76,12 @@
 
 1. 𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 𝗔𝗱𝗺𝗶𝗻 𝗣𝗮𝗻𝗲𝗹
 - 2 300 Řádků kódu, 48 souborů (Počítám pouze kód, který jsem psal já - ne kód vygenerovaný Laravelem, Bez CSS souborů, jelikož používám Tailwind) (20.8.2023)
-- Laravel Admin Panel s Vue.js pro Mineverse Network se správou hráčů, týmu, úkolů a několik statistik.
+- Laravel Admin Panel s Vue.js pro [@MineverseNetwork](https://github.com/MineverseNetwork) se správou hráčů, týmu, úkolů a několik statistik.
 <br>
 
 2. 𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 𝗥𝗲𝘀𝘁 𝗔𝗣𝗜
 - 650 Řádků kódu, 12 souborů (Počítám pouze kód, který jsem psal já - ne kód vygenerovaný Laravelem) (20.8.2023)
-- Laravel API pro Mineverse Network, wrapper v pluginu MV-Lib, použito v Admin Panelu výše.
+- Laravel API pro [@MineverseNetwork](https://github.com/MineverseNetwork), wrapper v pluginu MV-Lib, použito v Admin Panelu výše.
 <br>
 
 Dále několik menších starých projektů, které jsem dělal jen tak pro učení, nebo pro přátele.
@@ -90,4 +90,4 @@ Dále několik menších starých projektů, které jsem dělal jen tak pro uče
 
 1. 𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 𝗗𝗶𝘀𝗰𝗼𝗿𝗱 𝗕𝗼𝘁
 - 400 Řádků kódu, 8 souborů (20.8.2023)
-- Nedokončený Discord bot napsaný v Javě pro Mineverse Network se základními příkazy pro každý Discord server. Synchronizace StaffChatu skrze Redis pub/sub a zprávy o tom, kdo se připojil/odpojil na Minecraft serveru. Dále příkazy jako /status, /verify, /profile atd. (Používá Mineverse Rest API)
+- Nedokončený Discord bot napsaný v Javě pro [@MineverseNetwork](https://github.com/MineverseNetwork) se základními příkazy pro každý Discord server. Synchronizace StaffChatu skrze Redis pub/sub a zprávy o tom, kdo se připojil/odpojil na Minecraft serveru. Dále příkazy jako /status, /verify, /profile atd. (Používá Mineverse Rest API)
