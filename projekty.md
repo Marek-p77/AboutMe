@@ -17,7 +17,7 @@
 - Multifunkční plugin s Discord integrací, ukončeno. (Lepší verze pluginu MV-Core)
 <br>
 
-4. 𝗠𝗩-𝗖𝗼𝗿𝗲
+4. 𝗠𝗩-𝗖𝗼𝗿𝗲 [(kód)](https://github.com/Marek-p77/MV-Core)
 - 1 600 Řádků kódu, 25 souborů (20.8.2023)
 - Multifunkční plugin podobný EssentialsX, ukončeno. (Nejstarší plugin na tomto seznamu)
 <br>
@@ -105,7 +105,7 @@
 - Základní web, který jsem dělal pro Minecraft server IridiumCraft v roce 2022. Základní informace, stránka s Admin Týmem atd.
 <br>
 
-7. 𝗚𝗮𝗹𝗮𝘅𝘆𝗖𝗼𝗱𝗲
+7. 𝗚𝗮𝗹𝗮𝘅𝘆𝗖𝗼𝗱𝗲 [(kód)](https://github.com/Marek-p77/GalaxyWebsite)
 - HTML, CSS, JS
 - Malý web, který jsem dělal pro programátorskou komunitu GalaxyCode v roce 2021 / 2022. Contributor: [@TKDEV](https://github.com/tomasKubicek)
 <br>
