@@ -134,7 +134,7 @@ Dále několik menších starých projektů, které jsem dělal jen tak pro uče
 - 400 Řádků kódu, 8 souborů (20.8.2023)
 - Nedokončený Discord bot napsaný v Javě pro [@MineverseNetwork](https://github.com/MineverseNetwork) se základními příkazy pro každý Discord server. Synchronizace StaffChatu skrze Redis pub/sub a zprávy o tom, kdo se připojil/odpojil na Minecraft serveru. Dále příkazy jako /status, /verify, /profile atd. (Používá Mineverse Rest API)
 
-2. 𝗚𝗮𝗹𝗮𝘅𝘆𝗖𝗼𝗱𝗲 𝗕𝗼𝘁
+2. 𝗚𝗮𝗹𝗮𝘅𝘆𝗖𝗼𝗱𝗲 𝗕𝗼𝘁 [(kód)](https://github.com/Marek-p77/GalaxyCode-Discord-Bot-OLD)
 - JS (Discord.js)
 - Můj první Discord bot. Pro programátorskou komunitu GalaxyCode. Základní příkazy jako .embed, .purge a .status pro Minecraft servery skrze [Minecraft Server Status](https://mcsrvstat.us/) API. Contributor: [@TKDEV](https://github.com/tomasKubicek)
 
