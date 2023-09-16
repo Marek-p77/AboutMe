@@ -4,7 +4,8 @@
 
 1. 𝗠𝗩-𝗟𝗶𝗯
 - 2 550 Řádků kódu, 41 souborů (20.8.2023)
-- Knihovna pro [@MineverseNetwork](https://github.com/MineverseNetwork). (Ekonomika, Custom systém příkazů a GUI, oboustranná komunikace mezi servery v bungee síti) (Použito v MV-Essentials, MV-Lobby, MV-Survival a MV-Bungee)
+- Soukromá knihovna pro [@MineverseNetwork](https://github.com/MineverseNetwork). (Ekonomika, Custom systém příkazů a GUI, oboustranná komunikace mezi servery v bungee síti) (Použito v MV-Essentials, MV-Lobby, MV-Survival a MV-Bungee)
+- Dokumentace [zde](https://devdocs.mineverse.cz/)
 <br>
 
 2. 𝗕𝗲𝗱𝗪𝗮𝗿𝘀
@@ -70,6 +71,7 @@
 14. 𝗔𝗿𝗴𝗼𝗻
 - 300 Řádků kódu, 6 souborů (22.5.2023)
 - Knihovna s vlastním systémem pro Příkazy a GUI, ukončeno. (Použito v pluginu SkyBlock)
+- Dokumentace [zde](https://marek-p.gitbook.io/argon/)
 <br>
 
  ## Weby
