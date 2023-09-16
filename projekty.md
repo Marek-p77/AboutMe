@@ -75,13 +75,54 @@
  ## Weby
 
 1. 𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 𝗔𝗱𝗺𝗶𝗻 𝗣𝗮𝗻𝗲𝗹
+- HTML, CSS (Tailwind), JS (Vue.js), PHP (Laravel), MySQL
 - 2 300 Řádků kódu, 48 souborů (Počítám pouze kód, který jsem psal já - ne kód vygenerovaný Laravelem, Bez CSS souborů, jelikož používám Tailwind) (20.8.2023)
 - Laravel Admin Panel s Vue.js pro [@MineverseNetwork](https://github.com/MineverseNetwork) se správou hráčů, týmu, úkolů a několik statistik.
 <br>
 
 2. 𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 𝗥𝗲𝘀𝘁 𝗔𝗣𝗜
+- PHP (Laravel), MySQL
 - 650 Řádků kódu, 12 souborů (Počítám pouze kód, který jsem psal já - ne kód vygenerovaný Laravelem) (20.8.2023)
 - Laravel API pro [@MineverseNetwork](https://github.com/MineverseNetwork), wrapper v pluginu MV-Lib, použito v Admin Panelu výše.
+<br>
+
+3. 𝗕𝘆𝘁𝗼𝘃𝗲 𝗱𝗿𝘂𝘇𝘀𝘁𝘃𝗼 𝗠𝗶𝗿𝗼𝘀𝗹𝗮𝘃
+- HTML, CSS
+- Velmi základní a malý web, který jsem dělal pro bytové družstvo. Jedna z mých prvních zakázek. Rok 2021.
+<br>
+
+4. 𝗞𝗮𝗽𝗲𝗹𝗮 𝗟𝗶𝗻𝗱𝗲𝗻𝘀
+- Ze začátku klasické HTML a CSS. Později Talinwind, Vue.js a Laravel, MySQL
+- Web, který jsem dělal pro kapelu Lindens. Jedna z mých prvních zakázek. Rok 2021 (pozdější rewrite 2023).
+
+5. 𝗖𝗮𝗿𝗯𝗼𝗻 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱
+- HTML, CSS, PHP, MySQL
+- Můj první větší PHP projekt. Login / Register systém, úkoly, role a permise, blog, historie. Konec roku 2021 + začátek roku 2022.
+<br>
+
+6. 𝗜𝗿𝗶𝗱𝗶𝘂𝗺𝗖𝗿𝗮𝗳𝘁
+- HTML, CSS, JS
+- Základní web, který jsem dělal pro Minecraft server IridiumCraft v roce 2022. Základní informace, stránka s Admin Týmem atd.
+<br>
+
+7. 𝗚𝗮𝗹𝗮𝘅𝘆𝗖𝗼𝗱𝗲
+- HTML, CSS, JS
+- Malý web, který jsem dělal pro programátorskou komunitu GalaxyCode v roce 2021 / 2022. Contributor: [@TKDEV](https://github.com/tomasKubicek)
+<br>
+
+8. 𝗪𝗮𝘇𝗶𝗿𝗲
+- HTML, CSS, PHP, MySQL
+- Web pro Minecraft server Wazire. Propojený s Carbon Dashboardem. Rok 2022.
+<br>
+
+9. 𝗦𝗹𝗮𝘀𝗵𝗖𝗿𝗮𝗳𝘁
+- HTML, CSS (Tailwind), PHP (Laravel), MySQL
+- Web pro Minecraft server SlashCraft na kterém jsem spolupracoval s [@Vortex77](https://github.com/Vortex77Dev)
+<br>
+
+10. 𝗦𝘂𝗿𝘃𝗶𝘃𝗮𝗹𝗣𝗹𝗮𝘆
+- HTML, CSS (Tailwind), PHP (Laravel), MySQL
+- Pouze malý web s odpočtem pro Minecraft server SurvivalPlay. Rok 2023.
 <br>
 
 Dále několik menších starých projektů, které jsem dělal jen tak pro učení, nebo pro přátele.
@@ -89,5 +130,17 @@ Dále několik menších starých projektů, které jsem dělal jen tak pro uče
 ## Discord boti
 
 1. 𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 𝗗𝗶𝘀𝗰𝗼𝗿𝗱 𝗕𝗼𝘁
+- Java (JDA), Redis (Jedis)
 - 400 Řádků kódu, 8 souborů (20.8.2023)
 - Nedokončený Discord bot napsaný v Javě pro [@MineverseNetwork](https://github.com/MineverseNetwork) se základními příkazy pro každý Discord server. Synchronizace StaffChatu skrze Redis pub/sub a zprávy o tom, kdo se připojil/odpojil na Minecraft serveru. Dále příkazy jako /status, /verify, /profile atd. (Používá Mineverse Rest API)
+
+2. 𝗚𝗮𝗹𝗮𝘅𝘆𝗖𝗼𝗱𝗲 𝗕𝗼𝘁
+- JS (Discord.js)
+- Můj první Discord bot. Pro programátorskou komunitu GalaxyCode. Základní příkazy jako .embed, .purge a .status pro Minecraft servery skrze [Minecraft Server Status](https://mcsrvstat.us/) API. Contributor: [@TKDEV](https://github.com/tomasKubicek)
+
+3. 𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 𝗦𝗠𝗣 𝗕𝗼𝘁
+- Java (JDA)
+- Jednoduchý Discord bot pro soukromý Minecraft server pro kamarády. Oboustrané propojení Minecraft a Discord chatu, status serveru. 
+
+
+
