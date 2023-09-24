@@ -98,6 +98,9 @@ Obecné Dovednosti:
 - 𝗖𝗵𝗮𝘁𝗚𝗣𝗧 ➔ Velmi užitečná umělá inteligence. Hodí se na vymýšlení nápadů a dávání rad. Občas pomůže i při programování.
 - 𝗢𝗯𝘀𝗶𝗱𝗶𝗮𝗻 ➔ Užitečný nástroj pro tvorbu myšlenkových map, poznámek, to-do listů atd.
 - 𝗙𝗶𝗴𝗺𝗮 ➔ Webové rozhraní kde si navrhuji rozložení webových stránek a spoustu dalších věcí.
+- 𝗗𝗼𝗰𝗸𝗲𝗿 𝗗𝗲𝘀𝗸𝘁𝗼𝗽 ➔ Program, který používám pro správu Docker containerů na svém PC.
+- 𝗣𝗼𝗿𝘁𝗮𝗶𝗻𝗲𝗿 ➔ Webové rozhraní, které používám pro správu Docker containerů a Kubernetes clusterů.
+- 𝗦𝗽𝗮𝗰𝗲 ➔ Aplikace pro správu programátorských týmů a projektů s GitHub integrací, kterou používám zejména pro větší projekty, kde nejsem sám.
 
 A mnoho dalších malých věcí pro ulehčení života...
 <br>
@@ -234,7 +237,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Origo Minecraft účet od roku 2016.
 - Optifine Cape od roku 2020.
 - Oblíbený Minecraft modpack -> Project Ozone 2.
-- Oblíbený Minecraft server -> Hypixel.
+- Oblíbené Minecraft servery -> Hypixel a MCC Island.
 - Kašlu na Lunárek a jiné clienty, používám ofiko launcher s OF a to mi stačí. EDIT: Od začátku roku 2023 Fabric a Sodium.
 - Mám stále stejný Minecraft skin od kámošky už asi 6 let.
 - Na Discordu mám stále stejnou profilovku jako když jsem si ho založil (to stejné platí i pro GitHub účet).
@@ -244,10 +247,10 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Nemám rád TikTok.
 - Ananas na pizzu nepatří.
 - Mám rád kočky.
-- Gaming on AMD Ryzen 5.
-- Oblíbená barva asi světle zelená .
+- Gaming on AMD Ryzen 5 5600H (G pro notebooky).
+- Oblíbená barva asi světle zelená.
 - Dark mode je best, všude ho musím mít.
-- Používám Windows 10, nechci 11 ani Linux, ale Linux mám rád. Jsem zkrátka zvyklý na Windows 10...
+- Používám Windows 10, nechci 11 ani Linux, ale Linux mám rád. Jsem zkrátka zvyklý na Windows 10... EDIT: Windows mi začíná lézt na nervy, už asi půl roku si říkám, že brzo přejdu na Linux...
 - Nemám vůbec rád amatérské, malé hostingy v ČR bez IČA.
 - Nemám rád děcka co neumí použít Google a musí otravovat ostatní.
 - Dobrých developerů by jste si měli vážit a ne na ně koukat jak kdyby spadli z Marsu...
@@ -360,6 +363,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Když mi bylo asi 12 tak jsem hrál WorldOfTanks, Dont Starve a Cities Skylines. Teď už ale dlouhé roky hraji jen a jen Minecraft.
 - Od doby co jsem se začal učit Laravel asi v březnu 2022 hraji hry méně a méně. Programování mě nepřestává fascinovat // tohle píšu v září 2022.
 - Nemám rád brzké vztávání, ale když na to přijde tak s tím nemám zas takový problém.
+- Dream je můj oblíbený youtuber.
 - Většina mých online kamarádů je na kluky. A možná je to i lepší? Nevím, neřeším.
 - Jako Command Terminal používám Git Bash, funguje skvělě zatím na vše co potřebuji na Windows 10.
 - Jako operační systém pro servery používám Ubuntu 20.04, nějakou dobu jsem ho měl i jako desktop, ale moc mi jeho desktop verze nevyhovuje.
@@ -373,13 +377,14 @@ A mnoho dalších malých věcí pro ulehčení života...
 - V pokoji mám nábytek na zakázku.
 - Rozhodl jsem se, že budu hezky v klidu a osaměle pracovat na svém novém serveru. Už to jsou 3 měsíce a baví mě to víc a víc. Je to super.
 - Dělat dynamický Scoreboard ve SpigotAPI je strašná bolest. Naštěstí na vše existuje řešení :D
-- Když sedím u PC tak přímo v úrovni očí na mně bliká router. Ale je to příjemné blikání, skoro jako morseovka :D
+- Když sedím u PC tak přímo v úrovni očí na mně bliká router. Ale je to příjemné blikání, skoro jako morseovka :D EDIT: Už je o 2 metry vpravo, takže dobrý :D
 - Když si chci ozvláštnit práci na nějakém projektu, používám u něj GitFlow branching strategii, která mně nakonec spíše zpomaluje. Ale je cool, líbí se mi :D
 - Poté co jsem koupil ramky do mého serveru tak jsem si všiml, že úplně stejná varianta, ale s RGB je o 70 Kč levnější. Mohl jsem mít RGB server... EDIT: Už je RGB :)
 - Místo toho abych si stáhl nějaký HUD mód tak si zobrazuji svůj ping přes /tpsbar, stále netuším proč.
 - Od začátku roku 2023 používám Fabric. Už je únor a zatím se mi moc líbí.
 - Jsou skoro 4 hodiny ráno a místo toho abych šel spát píšu random blbosti. EDIT: Další várku dopíšu zítra, dobrou noc.
 - Rád se dívám z okna, hlavně z výšky. Je to takové uklidňující.
+- Technoblade never dies! o7
 - V Minecraftu dělám hodně screenshotů. Třeba se na to za pár let podívám a zavzpomínám na ty časy. Některé mé screeny jsou i 8 let staré.
 - Na YouTube mám někde kanál se spoustou videí, které jsem natáčel na foťák když mi bylo asi 9 let. Dokázal by ho někdo z vás najít? Pozor! Je to vážně cringe :D
 - Jsem velmi tajnůstkářský. Možná to tak nevypadá, ale to je záměr! :D
@@ -403,7 +408,7 @@ Předem říkám, že mi nejde o to někoho poškodit, nebo urazit. Moc to nepro
 
 𝗔𝗱𝗮𝗺𝗕𝗰𝘇 - Super kámoš, nikdy mě nezradil, vždy pomohl. Cením si na něm zájem o programování. Poznali jsme se na Mineverse. Jeden z top 3 mých nejlepších kamarádů, díky :)
 
-𝗠𝗮𝗿𝗲𝗸𝗶𝗼 - Super kámoš, vždy byl ke mně ohleduplný a na mé straně, toho si moc vážím. Hodně mi pomohl s mým největším projektem, díky :)
+𝗠𝗮𝗿𝗲𝗸𝗶𝗼 - Super kámoš, vždy byl ke mně ohleduplný a na mé straně, toho si moc vážím. Hodně mi pomáhá s mým největším projektem, díky moc Máro :)
 
 𝗧𝗼𝗺𝗶𝗻𝗼𝗞𝘂𝗯𝗶𝗻𝗼 - Velmi dobrý developer, na MV-Hostingu jsi byl můj vzor co se týče programování, hodně jsi nám tam pomohl. Je mi líto, že to nebylo vždycky mezi námi v pohodě...
 
@@ -413,9 +418,9 @@ Předem říkám, že mi nejde o to někoho poškodit, nebo urazit. Moc to nepro
 
 𝗗𝗲𝗮𝗱𝗲𝗿𝗶𝗸 - I když jsme se nikdy moc nebavili a náš vztah byl jen profesionální, jsi můj vzor a bez tebe by nikdy nemohl vzniknout můj největší projekt :)
 
-𝗭𝘂𝘇𝗸𝗮𝗖𝘇 - Spoluzakladatelka Mineverse, známe se od dětství, vždy jsme spolu vycházeli perfektně, natáčeli jsme spolu na YT, má nejlepší kamarádka, ačkoliv se spolu už moc nebavíme, tak tebe si z nich všech nejvíce vážím :)
+𝗭𝘂𝘇𝗸𝗮𝗖𝘇 - Spoluzakladatelka Mineverse, známe se od dětství, vždy jsme spolu vycházeli perfektně, natáčeli jsme spolu na YT, má nejlepší kamarádka, ačkoliv se spolu už moc nebavíme, tak tebe si z nich všech nejvíce vážím <3 :)
 
-𝗥𝗶𝘃𝗲𝗿𝗛𝗼𝗿𝗻𝗲𝘁 - Nejslušnější člověk co znám, má originální nápady, které stojí za to realizovat a proto mu pomáhám. Škoda, že nemáš moc času...
+𝗥𝗶𝘃𝗲𝗿𝗛𝗼𝗿𝗻𝗲𝘁 - Nejslušnější člověk co znám, má originální nápady, které stojí za to realizovat a proto mu pomáhám. Škoda, že nemáš moc času... Je mi líto jak to mezi námi dopadlo, snad se ty časy zase vrátí :)
 
 𝗠𝗮𝗷𝗸𝗲𝗹 - Machr přes PHP, super týpek i když ho moc neznám. Děkuji moc za ochotu učit mně :)
 
