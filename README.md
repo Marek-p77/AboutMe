@@ -231,6 +231,18 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Účel: Experimentování s Linuxem a další náladové věci
 - Přibližná cena: 3 000 Kč (2020 - Alza)
 
+#### Myš: Logitech G502 Hero
+- Drátová, Optická, Podsvícená (RGB)
+- 25 600 DPI
+- 11 Programovatelných Tlačítek
+- Přibližná cena: 1 700 Kč (2022 - Alza)
+
+#### Sluchátka: Yenkee Ambush YHP 3020
+- Drátová, Podsvícená s mikrofonem
+- Pozlacené konektory
+- Citlivost reproduktoru: 98 ±3 dB
+- Citlivost mikrofonu: -42 ±3 dB
+
 ### 📚 Ostatní Blbosti
 - Žiju na severu Moravy.
 - Discord účet od roku 2018.
