@@ -242,6 +242,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Pozlacené konektory
 - Citlivost reproduktoru: 98 ±3 dB
 - Citlivost mikrofonu: -42 ±3 dB
+- Přibližná cena: 750 Kč (2021 - Alza)
 
 ### 📚 Ostatní Blbosti
 - Žiju na severu Moravy.
