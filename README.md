@@ -355,7 +355,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Mám moc rád angličtinu, občas dokonce v hlavě přemýšlím anglicky. Jsem divnej? :D
 - Učitelka říká, že umím dobře Němčinu, ale já si to moc nemyslím.
 - Na střední škole už nemáme Fyziku, Chemii, Přírodopis, Hudebku, Výtvarku ani Zeměpis, jej!
-- V hodnách Účetnictví stále jen píšeme do sešitu. Spolužákům se to nelíbí, ale já jsem rád, že se toho hodně dozvíme a nevadí mi to.
+- V hodinách Účetnictví stále jen píšeme do sešitu. Spolužákům se to nelíbí, ale já jsem rád, že se toho hodně dozvíme a nevadí mi to.
 - Už to bude pár let co jsem naposledy jel na kole. A už ani to kolo nemám.
 - S kamarádem máme Discord server, který používáme místo PM. Dodnes jsem nepochopil proč. V červenci 2023 tam mám 35 000 zpráv.
 - Když s někým pracuji na programátorském projektu, tak dělám stále dokola refactoring práce jiných. Jsem prostě až moc pečlivý na detaily a vzhled kódu.
@@ -386,7 +386,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Nevím proč mám v mých editorech discord rich presence když jsem fake offline už půl roku // tohle píšu v září 2022.
 - Na Discordu jsem byl fake offline skoro rok protože mi to tak vyhovovalo. Ale stále jsem byl mezi živými i když to tak nevypadalo :)
 - Byl jsem na dvou svatbách a na ani jednom pohřbu. Jen tak dál!
-- Mám domácí server s vodním chlazením, občas zvláštně bulbá až je to děsivé.
+- Mám domácí server s vodním chlazením, občas zvláštně bublá až je to děsivé.
 - V pokoji mám nábytek na zakázku.
 - Rozhodl jsem se, že budu hezky v klidu a osaměle pracovat na svém novém serveru. Už to jsou 3 měsíce a baví mě to víc a víc. Je to super.
 - Dělat dynamický Scoreboard ve SpigotAPI je strašná bolest. Naštěstí na vše existuje řešení :D
