@@ -3,7 +3,7 @@
 ## Minecraft pluginy
 
 1. 𝗠𝗩-𝗟𝗶𝗯
-- 2 550 Řádků kódu, 41 souborů (20.8.2023)
+- 2 850 Řádků kódu, 44 souborů (5.10.2023)
 - Soukromá knihovna pro [@MineverseNetwork](https://github.com/MineverseNetwork). (Ekonomika, Custom systém příkazů a GUI, oboustranná komunikace mezi servery v bungee síti) (Použito v MV-Essentials, MV-Lobby, MV-Survival a MV-Bungee)
 - Dokumentace [zde](https://devdocs.mineverse.cz/)
 <br>
@@ -29,7 +29,7 @@
 <br>
 
 6. 𝗠𝗩-𝗘𝘀𝘀𝗲𝗻𝘁𝗶𝗮𝗹𝘀
-- 1 200 Řádků kódu, 17 souborů (13.7.2023)
+- 1 800 Řádků kódu, 28 souborů (5.10.2023)
 - Multifunkční plugin pro [@MineverseNetwork](https://github.com/MineverseNetwork) s Bungeecord podporou. (Lepší verze pluginu Iridium, zatím bez Discord integrace)
 <br>
 
@@ -39,12 +39,12 @@
 <br>
 
 8. 𝗠𝗩-𝗦𝘂𝗿𝘃𝗶𝘃𝗮𝗹
-- 700 Řádků kódu, 16 souborů (5.6.2023)
+- 700 Řádků kódu, 16 souborů (5.10.2023)
 - Speciální itemy a schopnosti pro [@MineverseNetwork](https://github.com/MineverseNetwork), brzy rewrite.
 <br>
 
 9. 𝗠𝗩-𝗕𝘂𝗻𝗴𝗲𝗲
-- 450 Řádků kódu, 9 souborů (5.6.2023)
+- 600 Řádků kódu, 11 souborů (5.10.2023)
 - Lobby load balancing, StaffChat s Discord integrací, MOTD pro [@MineverseNetwork](https://github.com/MineverseNetwork).
 <br>
 
@@ -64,7 +64,7 @@
 <br>
 
 13. 𝗠𝗩-𝗟𝗼𝗯𝗯𝘆
-- 300 Řádků kódu, 6 souborů (20.8.2023)
+- 300 Řádků kódu, 6 souborů (5.10.2023)
 - Ochrana Lobby, Hologramy, Armor standy, základní příkazy. (Lepší verze pluginu LobbyCore pro [@MineverseNetwork](https://github.com/MineverseNetwork))
 <br>
 
@@ -133,7 +133,7 @@ Dále několik menších starých projektů, které jsem dělal jen tak pro uče
 
 1. 𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 𝗗𝗶𝘀𝗰𝗼𝗿𝗱 𝗕𝗼𝘁
 - Java (JDA), Redis (Jedis)
-- 400 Řádků kódu, 8 souborů (20.8.2023)
+- 450 Řádků kódu, 8 souborů (5.10.2023)
 - Nedokončený Discord bot napsaný v Javě pro [@MineverseNetwork](https://github.com/MineverseNetwork) se základními příkazy pro každý Discord server. Synchronizace StaffChatu skrze Redis pub/sub a zprávy o tom, kdo se připojil/odpojil na Minecraft serveru. Dále příkazy jako /status, /verify, /profile atd. (Používá Mineverse Rest API)
 
 2. 𝗚𝗮𝗹𝗮𝘅𝘆𝗖𝗼𝗱𝗲 𝗕𝗼𝘁 [(kód)](https://github.com/Marek-p77/GalaxyCode-Discord-Bot-OLD)
