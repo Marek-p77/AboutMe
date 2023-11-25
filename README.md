@@ -200,7 +200,7 @@ A mnoho dalších malých věcí pro ulehčení života...
   
 #### Starý Notebook
 - 𝗖𝗣𝗨 ➔ Intel Core i3-3220 2 Jádra 3.3 GHz
-- 𝗥𝗔𝗠 ➔ 16 GB DDR3 1600 MHz
+- 𝗥𝗔𝗠 ➔ 16 GB DDR3 1600 MHz (2x8)
 - 𝗦𝗦𝗗 ➔ 512 GB SSD (brzy doplním detaily)
 - 𝗚𝗣𝗨 ➔ NVIDIA Integrovaná 2 GB (brzy doplním detaily)
 - Účel: Památka na staré časy, případně na půjčení blízkým či návštěvě
@@ -208,7 +208,7 @@ A mnoho dalších malých věcí pro ulehčení života...
   
 #### Server #1
 - 𝗖𝗣𝗨 ➔ Intel Xeon W3690 6 Jader 3.46 až 3.73 GHz
-- 𝗥𝗔𝗠 ➔ 12 GB DDR3 1333 MHz (Brzy upgrade na 24 GB?)
+- 𝗥𝗔𝗠 ➔ 12 GB DDR3 1333 MHz (3x4, brzy upgrade na 24 GB?)
 - 𝗛𝗗𝗗 ➔ 600 GB HDD SAS (Seagate Exos Enterprise 10E2400)
 - 𝗚𝗣𝗨 ➔ NVIDIA Quadro K2000 8 GB
 - Rekordní Uptime: cca 3 měsíce (2022)
@@ -216,7 +216,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Přibližná cena: 7 000 Kč (Repasovaný + vylepšení, koupen v roce 2020)
   
 #### Server #2
-- 𝗖𝗣𝗨 ➔ AMD Ryzen 7 5700G 6 Jader 3.8 až 4.6 GHz
+- 𝗖𝗣𝗨 ➔ AMD Ryzen 7 5700G 8 Jader 3.8 až 4.6 GHz
 - 𝗥𝗔𝗠 ➔ 128 GB DDR4 3200 MHz Kingston Fury Beast (4x32, upgrade z 64 GB v červenci 2023)
 - 𝗦𝗦𝗗 ➔ 1 TB SSD M.2 NVMe WD Black SN770
 - 𝗚𝗣𝗨 ➔ Integrovaná v CPU (pro server není potřeba)
