@@ -178,6 +178,10 @@ A mnoho dalších malých věcí pro ulehčení života...
 
    └ Má práce: Kompletní vývoj a správa webu a domény.
 
+- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/929171373635534928/1187463106096545802/icon.png?ex=6596fa32&is=65848532&hm=9c5c9a6ef772ec71d4dc0f20ef380b791eb9d059f9601088c485aff1d4cde698&=&format=webp&quality=lossless&width=620&height=628"/>Studentská Firma ➔ Aktuálně 𝙈𝙖𝙧𝙠𝙚𝙩𝙚𝙧 & 𝙂𝙧𝙖𝙛𝙞𝙠 (od listopadu 2023)
+
+   └ Má práce: Propagace školních akcí na sociálních sítích. Tvorba propagačního materiálu. (Plakáty, vizitky, ceníky, pozvánky) Obecně pomoc s organizací. Jedná se o studentskou firmu, kterou vede naše třída.
+
 - *Poznámka: Mineverse stále funguje, ale jako soukromý a neaktivní server udržovaný spíše z nostalgie. Můj první server. Rekord hráčů v roce 2023: 4
 
 - 🔎 Kdo ví, třeba chystám něco velkého? 🤔
