@@ -73,8 +73,8 @@ Obecné Dovednosti:
 
 - 🌐 Programování Webových stránek (statické & dynamické)
 - ⛺ Programování Minecraft pluginů (+ nastavování)
-- 🤖 Programování Discord botů (v Javě)
-- 🎨 Základní grafika (převážně loga a ikony)
+- 🤖 Programování Discord botů (v Javě / Kotlinu)
+- 🎨 Základní grafika (Převážně Loga, Ikony, Plakáty hlavně pro školu a pro Mineverse)
 - 🎬 Editace videí (Aktuálně DaVinci Resolve, před lety Camtasia Studio)
 - 💻 Správa Linux Serverů (zejména Ubuntu 20.04)
 - 💠 Milovník Virtualizace (zejména Docker a Proxmox VE)
@@ -83,7 +83,7 @@ Obecné Dovednosti:
 
 ### 🧰️ Nástroje, které používám:
 - 𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲 ➔ Chytrý editor, který používám hlavně na editování konfiguračních souborů.
-- 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗝 𝗜𝗗𝗘𝗔 ➔ Velmi inteligentní IDE ve kterém vytvářím Minecraft pluginy a Discord boty v Javě.
+- 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗝 𝗜𝗗𝗘𝗔 ➔ Velmi inteligentní IDE ve kterém vytvářím Minecraft pluginy a Discord boty v Javě / Kotlinu.
 - 𝗣𝗵𝗽𝗦𝘁𝗼𝗿𝗺 ➔ Podobný jako IntelliJ, ale pro PHP a JavaScript. Vytvářím v něm zejména webové stránky.
 - 𝗚𝗶𝘁 & 𝗚𝗶𝘁𝗛𝘂𝗯 & 𝗚𝗶𝘁𝗞𝗿𝗮𝗸𝗲𝗻 ➔ Version control, zálohy, přiležitostně i práce v týmu a pro přehled změn.
 - 𝗟𝗮𝗿𝗮𝘃𝗲𝗹 ➔ Velmi užitečný PHP MVC Framework, miluji v něm zejména Eloquent a Blade.
@@ -188,7 +188,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 - ⚒️ Práce s lidmi v týmu.
 - ⚙️ Nastavování Minecraft serverů a Linux serverů.
 - 📊 Ekonomika, Administrativa provozu, Obchodní provoz (předměty ve škole).
-- 📺 Marvel filmy a seriály, fantasy filmy.
+- 📺 Marvel a StarWars filmy a seriály, fantasy filmy.
 - 🎮 Minecraft BedWars, Survival a technické módy jako například Mekanism, AE2 atd.
 
 ### 💻 Můj PC Setup
@@ -255,7 +255,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Optifine Cape od roku 2020.
 - Oblíbený Minecraft modpack -> Project Ozone 2.
 - Oblíbené Minecraft servery -> Hypixel a MCC Island.
-- Kašlu na Lunárek a jiné clienty, používám ofiko launcher s OF a to mi stačí. EDIT: Od začátku roku 2023 Fabric a Sodium.
+- Kašlu na Lunárek a jiné clienty, používám ofiko launcher s OF a to mi stačí. EDIT: Od začátku roku 2023 Fabric a Sodium
 - Mám stále stejný Minecraft skin od kámošky už asi 6 let.
 - Na Discordu mám stále stejnou profilovku jako když jsem si ho založil (to stejné platí i pro GitHub účet).
 - Někdo mi v roce 2020 daroval Nitro a já o tom 2 týdny nevěděl...
