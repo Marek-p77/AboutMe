@@ -34,13 +34,17 @@ Programování:
   
 - Pokročilá znalost 𝗝𝗮𝘃𝘆:
 
-  └ Spigot API
+  └ Bukkit / Spigot / Paper API
   
-  └ BungeeCord API
+  └ BungeeCord / Waterfall API + Velocity API
   
   └ Java Discord API (JDA)
 
   └ Redis (Jedis)
+
+- Mírně pokročilá znalost 𝗞𝗼𝘁𝗹𝗶𝗻𝘂:
+
+  └ Vše co v Javě výše
   
 - Dostačující znalost 𝗦𝗤𝗟:
 
