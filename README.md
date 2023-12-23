@@ -42,6 +42,8 @@ Programování:
 
   └ Redis (Jedis)
 
+  └ HikariCP
+
 - Mírně pokročilá znalost 𝗞𝗼𝘁𝗹𝗶𝗻𝘂:
 
   └ Vše co v Javě výše
