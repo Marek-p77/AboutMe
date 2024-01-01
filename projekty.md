@@ -124,7 +124,7 @@
 
 9. 𝗦𝗹𝗮𝘀𝗵𝗖𝗿𝗮𝗳𝘁
 - HTML, CSS (Tailwind), PHP (Laravel), MySQL
-- Web pro Minecraft server SlashCraft na kterém jsem spolupracoval s [@Vortex77](https://github.com/Vortex77Dev)
+- Web pro Minecraft server SlashCraft na kterém jsem spolupracoval s [@Vortex77](https://github.com/Vortex77Dev). Rok 2023.
 <br>
 
 10. 𝗦𝘂𝗿𝘃𝗶𝘃𝗮𝗹𝗣𝗹𝗮𝘆
@@ -142,12 +142,12 @@ Dále několik menších starých projektů, které jsem dělal jen tak pro uče
 - Nedokončený Discord bot napsaný v Javě pro [@MineverseNetwork](https://github.com/MineverseNetwork) se základními příkazy pro každý Discord server. Synchronizace StaffChatu skrze Redis pub/sub a zprávy o tom, kdo se připojil/odpojil na Minecraft serveru. Dále příkazy jako /status, /verify, /profile atd. (Používá Mineverse Rest API)
 
 2. 𝗚𝗮𝗹𝗮𝘅𝘆𝗖𝗼𝗱𝗲 𝗕𝗼𝘁 [(kód)](https://github.com/Marek-p77/GalaxyCode-Discord-Bot-OLD)
-- JS (Discord.js)
-- Můj první Discord bot. Pro programátorskou komunitu GalaxyCode. Základní příkazy jako .embed, .purge a .status pro Minecraft servery skrze [Minecraft Server Status](https://mcsrvstat.us/) API. Contributor: [@TKDEV](https://github.com/tomasKubicek)
+- Node.js (Discord.js)
+- Můj první Discord bot. Pro programátorskou komunitu GalaxyCode. Základní příkazy jako .embed, .purge a .status pro Minecraft servery skrze [Minecraft Server Status](https://mcsrvstat.us/) API. Contributor: [@TKDEV](https://github.com/tomasKubicek). Rok 2021, ukončeno.
 
 3. 𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 𝗦𝗠𝗣 𝗕𝗼𝘁
 - Java (JDA)
-- Jednoduchý Discord bot pro soukromý Minecraft server pro kamarády. Oboustrané propojení Minecraft a Discord chatu, status serveru. 
+- Jednoduchý Discord bot pro soukromý Minecraft server pro kamarády. Oboustrané propojení Minecraft a Discord chatu, status serveru. Začátek roku 2023, ukončeno.
 
 
 
