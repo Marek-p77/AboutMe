@@ -112,78 +112,82 @@ A mnoho dalších malých věcí pro ulehčení života...
 <br>
 
 ### ⚒️ Projekty na kterých jsem působil / působím:
-- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 & 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 / 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 6 let (2015 - 2021)*
+- <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 & 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 / 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 6 let (2015 - 2021)*
 
 ㅤㅤ└ RPG Survival Economy, většinu času Whitelisted. Rekord hráčů: 18
 
 ㅤㅤ└ Má práce: Kompletní nastavení, vedení atd. V roce 2023 vlastní plugin pro RPG itemy a schopnosti.
 
-- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 𝗦𝗠𝗣】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 & 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 / 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 7 měsíců (leden - červenec 2023)
+- <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 𝗦𝗠𝗣】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 & 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 / 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 7 měsíců (leden - červenec 2023)
 
 ㅤㅤ└ Whitelisted survival bez pluginů ovlivňujících hru, pro přátele. Rekord hráčů: 7
 
 ㅤㅤ└ Má práce: Zajištění správného chodu serveru. Správce komunity. Vlastní Discord bot se statusem serveru, mc chat.
 
-- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗔𝗺𝗽𝗲𝗱𝗟𝗮𝗻𝗱】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 & 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 4 měsíce (únor - květen 2021)
+- <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗔𝗺𝗽𝗲𝗱𝗟𝗮𝗻𝗱】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 & 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 4 měsíce (únor - květen 2021)
 
 ㅤㅤ└ Minihry - Practice, KitPvP, KBFFA, Eventy atd. Rekord hráčů: 22
 
 ㅤㅤ└ Má práce: Nastavení většiny serveru společně se zbytkem týmu. Správa discord serveru.
 
-- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗦𝘂𝗿𝘃𝗶𝘃𝗮𝗹𝗣𝗹𝗮𝘆】 ➔ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 2 týdny (květen 2023)
+- <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗦𝘂𝗿𝘃𝗶𝘃𝗮𝗹𝗣𝗹𝗮𝘆】 ➔ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 2 týdny (květen 2023)
 
 ㅤㅤ└ Economy Survival, příprava Bungeecordu a Miniher. Rekord hráčů: ? (odhadem 5 až 10)
 
 ㅤㅤ└ Má práce: Vlastní pluginy pro základní funkce Lobby. Vlastní Discord bot a StaffChat plugin pro Bungeecord propojený s Discordem. Vlastní Report plugin.
 
-- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗪𝗮𝗿𝗱𝗲𝗻𝗠𝗖】 ➔ 𝙃𝙡.𝙏𝙚𝙘𝙝𝙣𝙞𝙠 2 měsíce (únor - duben 2023)
+- <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗪𝗮𝗿𝗱𝗲𝗻𝗠𝗖】 ➔ 𝙃𝙡.𝙏𝙚𝙘𝙝𝙣𝙞𝙠 2 měsíce (únor - duben 2023)
 
 ㅤㅤ└ Survival Economy, GunGame, BoxFight. Rekord hráčů: 41
 
 ㅤㅤ└ Má práce: Doly, custom mobové, crates, itemy, armory (Oraxen). Vedení týmu Techniků.
 
-- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗜𝗿𝗶𝗱𝗶𝘂𝗺𝗖𝗿𝗮𝗳𝘁】 ➔ 𝙃𝙡.𝙏𝙚𝙘𝙝𝙣𝙞𝙠 & 𝙈𝙖𝙣𝙖𝙜𝙚𝙧 cca 2 roky (říjen 2021 - duben 2023)
+- <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗜𝗿𝗶𝗱𝗶𝘂𝗺𝗖𝗿𝗮𝗳𝘁】 ➔ 𝙃𝙡.𝙏𝙚𝙘𝙝𝙣𝙞𝙠 & 𝙈𝙖𝙣𝙖𝙜𝙚𝙧 cca 2 roky (říjen 2021 - duben 2023)
 
 ㅤㅤ└ Survival Economy. Rekord hráčů: ? (odhadem 12)
 
 ㅤㅤ└ Má práce: Kompletní nastavení serveru, velký podíl na vedení serveru a týmu. Vývoj webu.
 
-- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗪𝗮𝘇𝗶𝗿𝗲.𝗲𝘂】 ➔ 𝙃𝙡.𝙏𝙚𝙘𝙝𝙣𝙞𝙠 10 měsíců (únor - listopad 2022)
+- <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗪𝗮𝘇𝗶𝗿𝗲.𝗲𝘂】 ➔ 𝙃𝙡.𝙏𝙚𝙘𝙝𝙣𝙞𝙠 10 měsíců (únor - listopad 2022)
 
 ㅤㅤ└ Survival Economy. Rekord hráčů: ? (odhadem pod 10)
 
 ㅤㅤ└ Má práce: Nastavení lobby a pár detailů na survivalu, příprava Bungeecordu. Vedení týmu techniků. Vývoj webu a správa discord serveru.
 
-- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗙𝗮𝗹𝗹𝗲𝗻𝗞𝗶𝗻𝗴𝗱𝗼𝗺𝘀】 ➔ 𝙃𝙡.𝙏𝙚𝙘𝙝𝙣𝙞𝙠 7 měsíců (květen - listopadu 2021)
+- <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗙𝗮𝗹𝗹𝗲𝗻𝗞𝗶𝗻𝗴𝗱𝗼𝗺𝘀】 ➔ 𝙃𝙡.𝙏𝙚𝙘𝙝𝙣𝙞𝙠 7 měsíců (květen - listopadu 2021)
 
 ㅤㅤ└ Survival Economy. Rekord hráčů: ? (odhadem pod 10)
 
 ㅤㅤ└ Má práce: Základní nastavení serveru ve spolupráci se zbytkem týmu. Vedení týmu techniků.
 
-- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗔𝗹𝗮𝗿𝘄𝗮𝗡𝗶𝗹𝗱𝗼𝗿】 ➔ 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 5 měsíců (září - leden 2020)
+- <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗔𝗹𝗮𝗿𝘄𝗮𝗡𝗶𝗹𝗱𝗼𝗿】 ➔ 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 5 měsíců (září - leden 2020)
 
 ㅤㅤ└ Survival Economy, Eventy, dočasně minihry. Rekord hráčů: ? (odhadem kolem 20)
 
 ㅤㅤ└ Má práce: Kompletní nastavení serveru (v týmu nebyl nikdo jiný, kdo uměl server nastavit. Server se úspěšně spustil)
 
-- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗩𝗶𝗿𝘁𝘂𝘀 𝗨𝗻𝗶𝘁𝗮 𝗙𝗼𝗿𝘁𝗶𝗼𝗿】 ➔ 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 2 měsíce (červen - červenec 2020)
+- <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗩𝗶𝗿𝘁𝘂𝘀 𝗨𝗻𝗶𝘁𝗮 𝗙𝗼𝗿𝘁𝗶𝗼𝗿】 ➔ 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 2 měsíce (červen - červenec 2020)
 
 ㅤㅤ└ Politický Survival Economy. Rekord hráčů: ? (odhadem 10 až 15)
 
 ㅤㅤ└ Má práce: Menší úpravy, překlady atd.
 
-- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916399704235995226/website.png?width=485&height=485"/>Bytové družstvo Miroslav ➔ Aktuálně 𝙒𝙚𝙗 𝙈𝙖𝙣𝙖𝙜𝙚𝙧 & 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 (od srpna 2021)
+- <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916399704235995226/website.png?width=485&height=485"/>Bytové družstvo Miroslav ➔ Aktuálně 𝙒𝙚𝙗 𝙈𝙖𝙣𝙖𝙜𝙚𝙧 & 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 (od srpna 2021)
 
    └ Má práce: Kompletní vývoj a správa webu a domény.
 
-- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916399704235995226/website.png?width=485&height=485"/>Kapela Lindens ➔ Aktuálně 𝙒𝙚𝙗 𝙈𝙖𝙣𝙖𝙜𝙚𝙧 & 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 (od července 2021)
+- <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916399704235995226/website.png?width=485&height=485"/>Kapela Lindens ➔ Aktuálně 𝙒𝙚𝙗 𝙈𝙖𝙣𝙖𝙜𝙚𝙧 & 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 (od července 2021)
 
    └ Má práce: Kompletní vývoj a správa webu a domény.
 
-- <img align="left" alt="JavaScript" width="25px" src="https://media.discordapp.net/attachments/929171373635534928/1187463106096545802/icon.png?ex=6596fa32&is=65848532&hm=9c5c9a6ef772ec71d4dc0f20ef380b791eb9d059f9601088c485aff1d4cde698&=&format=webp&quality=lossless&width=620&height=628"/>Studentská Firma ➔ Aktuálně 𝙈𝙖𝙧𝙠𝙚𝙩𝙚𝙧 & 𝙂𝙧𝙖𝙛𝙞𝙠 (od listopadu 2023)
+- <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/929171373635534928/1187463106096545802/icon.png?ex=6596fa32&is=65848532&hm=9c5c9a6ef772ec71d4dc0f20ef380b791eb9d059f9601088c485aff1d4cde698&=&format=webp&quality=lossless&width=620&height=628"/>Studentská Firma ➔ Aktuálně 𝙈𝙖𝙧𝙠𝙚𝙩𝙚𝙧 & 𝙂𝙧𝙖𝙛𝙞𝙠 (od listopadu 2023)
 
    └ Má práce: Propagace školních akcí na sociálních sítích. Tvorba propagačního materiálu. (Plakáty, vizitky, ceníky, pozvánky) Obecně pomoc s organizací. Jedná se o studentskou firmu, kterou vede naše třída.
+  
+- <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916381481725751356/discord.png"/>GalaxyCode ➔ 𝘼𝙙𝙢𝙞𝙣 7 měsíců (září 2021 - březen 2022)
 
+   └ Má práce: Vedení a moderace Discord komunity. Správa GitHub organizace, tvorba vlastního Discord bota a Webu. Jedná se o komunitu programátorů.
+  
 - *Poznámka: Mineverse stále funguje, ale jako soukromý a neaktivní server udržovaný spíše z nostalgie. Můj první server. Rekord hráčů v roce 2023: 4
 
 - 🔎 Kdo ví, třeba chystám něco velkého? 🤔
