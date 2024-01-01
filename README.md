@@ -112,7 +112,14 @@ A mnoho dalších malých věcí pro ulehčení života...
 <br>
 
 ### ⚒️ Projekty na kterých jsem působil / působím:
-- <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 & 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 / 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 6 let (2015 - 2021)*
+
+- <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 𝗡𝗲𝘁𝘄𝗼𝗿𝗸】 ➔ Aktuálně 𝙑𝙚𝙙𝙚𝙣𝙞 & 𝙃𝙡.𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 (od června 2023)
+
+ㅤㅤ└ Unikátní RPG Economy Survival a SkyBlock s prvkami Factions + Eventy
+
+ㅤㅤ└ Má práce: Kompletní správa Technické části a Vedení Technického týmu. Téměř vše 100% vlastní (pluginy, weby, boti, mapy, grafika atd.) Server ještě není ani z daleka dokončen a už je to můj největší a nejdražší projekt. Více [zde](https://github.com/MineverseNetwork).
+
+- <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 𝗥𝗣𝗚】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 & 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 / 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 6 let (2015 - 2021)*
 
 ㅤㅤ└ RPG Survival Economy, většinu času Whitelisted. Rekord hráčů: 18
 
@@ -187,6 +194,12 @@ A mnoho dalších malých věcí pro ulehčení života...
 - <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916381481725751356/discord.png"/>GalaxyCode ➔ 𝘼𝙙𝙢𝙞𝙣 7 měsíců (září 2021 - březen 2022)
 
    └ Má práce: Vedení a moderace Discord komunity. Správa GitHub organizace, tvorba vlastního Discord bota a Webu. Jedná se o komunitu programátorů.
+
+- <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/929171373635534928/1191430099707383959/server.png?ex=65a568bf&is=6592f3bf&hm=15c5688d0552fff22fe464db8c4e76337ebab1a2aaf8611f99b80d6900b5c218&=&format=webp&quality=lossless&width=670&height=670"/>MV-Hosting ➔ 𝘼𝙙𝙢𝙞𝙣 7 měsíců (leden 2021 - červenec 2021)
+
+   └ Ze začátku soukromý, později veřejný hosting Minecraft serverů, Discord botů a později VPS. Rekord hostovaných služeb: 42
+
+   └ Má práce: Správa webových stránek, panelu, discord serveru, sítě, financí a komunity společně se zbytkem týmu. Získal jsem zde spoustu bohatých zkušeností všeho druhu.
   
 - *Poznámka: Mineverse stále funguje, ale jako soukromý a neaktivní server udržovaný spíše z nostalgie. Můj první server. Rekord hráčů v roce 2023: 4
 
