@@ -18,57 +18,62 @@
 - Multifunkční plugin s Discord integrací, ukončeno. (Lepší verze pluginu MV-Core)
 <br>
 
-4. 𝗠𝗩-𝗖𝗼𝗿𝗲 [(kód)](https://github.com/Marek-p77/MV-Core)
+4. 𝗠𝗮𝗴𝗻𝗼𝗘𝘃𝗲𝗻𝘁𝘀
+- 1 800 Řádků kódu, 24 souborů (1.1.2024)
+- Paper + Bungeecord plugin pro eventy KOTH, QuakeCraft a BlockParty. Použití Redisu. Zatím nedokončeno. Pro server, kde jsem byl Externí Developer.
+<br>
+
+5. 𝗠𝗩-𝗖𝗼𝗿𝗲 [(kód)](https://github.com/Marek-p77/MV-Core)
 - 1 600 Řádků kódu, 25 souborů (20.8.2023)
 - Multifunkční plugin podobný EssentialsX, ukončeno. (Nejstarší plugin na tomto seznamu)
 <br>
 
-5. 𝗦𝗸𝘆𝗕𝗹𝗼𝗰𝗸
+6. 𝗦𝗸𝘆𝗕𝗹𝗼𝗰𝗸
 - 1 350 Řádků kódu, 17 souborů (20.8.2023)
 - Nedokončený SkyBlock plugin s MySQL podporou, upgrady ostrovů, shop atd.
 <br>
 
-6. 𝗠𝗩-𝗘𝘀𝘀𝗲𝗻𝘁𝗶𝗮𝗹𝘀
+7. 𝗠𝗩-𝗘𝘀𝘀𝗲𝗻𝘁𝗶𝗮𝗹𝘀
 - 1 800 Řádků kódu, 28 souborů (5.10.2023)
 - Multifunkční plugin pro [@MineverseNetwork](https://github.com/MineverseNetwork) s Bungeecord podporou. (Lepší verze pluginu Iridium, zatím bez Discord integrace)
 <br>
 
-7. 𝗦𝗽𝗹𝗲𝗲𝗳
+8. 𝗦𝗽𝗹𝗲𝗲𝗳
 - 750 Řádků kódu, 11 souborů (20.8.2023)
 - Malý Spleef plugin, víkendový projekt, ukončeno.
 <br>
 
-8. 𝗠𝗩-𝗦𝘂𝗿𝘃𝗶𝘃𝗮𝗹
+9. 𝗠𝗩-𝗦𝘂𝗿𝘃𝗶𝘃𝗮𝗹
 - 700 Řádků kódu, 16 souborů (5.10.2023)
 - Speciální itemy a schopnosti pro [@MineverseNetwork](https://github.com/MineverseNetwork), brzy rewrite.
 <br>
 
-9. 𝗠𝗩-𝗕𝘂𝗻𝗴𝗲𝗲
+10. 𝗠𝗩-𝗕𝘂𝗻𝗴𝗲𝗲
 - 600 Řádků kódu, 11 souborů (5.10.2023)
 - Lobby load balancing, StaffChat s Discord integrací, MOTD pro [@MineverseNetwork](https://github.com/MineverseNetwork).
 <br>
 
-10. 𝗟𝗼𝗯𝗯𝘆𝗖𝗼𝗿𝗲
+11. 𝗟𝗼𝗯𝗯𝘆𝗖𝗼𝗿𝗲
 - 350 Řádků kódu, 7 souborů (20.8.2023)
 - Ochrana Lobby a další malé vychytávky pro každý Lobby server, ukončeno.
 <br>
 
-11. 𝗥𝗮𝗻𝗸𝘀
+12. 𝗥𝗮𝗻𝗸𝘀
 - 350 Řádků kódu, 7 souborů (20.8.2023)
 - Vlastní systém Ranků, Permisí, Prefixů a Chat formátu s MySQL podporou.
 <br>
 
-12. 𝗘𝗰𝗼𝗻𝗼𝗺𝘆
+13. 𝗘𝗰𝗼𝗻𝗼𝗺𝘆
 - 350 Řádků kódu, 6 souborů (20.8.2023)
 - Vlastní Economy systém s MySQL podporou.
 <br>
 
-13. 𝗠𝗩-𝗟𝗼𝗯𝗯𝘆
+14. 𝗠𝗩-𝗟𝗼𝗯𝗯𝘆
 - 300 Řádků kódu, 6 souborů (5.10.2023)
 - Ochrana Lobby, Hologramy, Armor standy, základní příkazy. (Lepší verze pluginu LobbyCore pro [@MineverseNetwork](https://github.com/MineverseNetwork))
 <br>
 
-14. 𝗔𝗿𝗴𝗼𝗻
+15. 𝗔𝗿𝗴𝗼𝗻
 - 300 Řádků kódu, 6 souborů (22.5.2023)
 - Knihovna s vlastním systémem pro Příkazy a GUI, ukončeno. (Použito v pluginu SkyBlock)
 - Dokumentace [zde](https://marek-p.gitbook.io/argon/)
