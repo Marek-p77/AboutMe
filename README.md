@@ -201,7 +201,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 
    └ Má práce: Správa webových stránek, panelu, discord serveru, sítě, financí a komunity společně se zbytkem týmu. Získal jsem zde spoustu bohatých zkušeností všeho druhu.
   
-- *Poznámka: Mineverse stále funguje, ale jako soukromý a neaktivní server udržovaný spíše z nostalgie. Můj první server. Rekord hráčů v roce 2023: 4
+- *Poznámka: Mineverse RPG stále funguje, ale jako soukromý a neaktivní server udržovaný spíše z nostalgie. Můj první server. Rekord hráčů v roce 2023: 4
 
 - 🔎 Kdo ví, třeba chystám něco velkého? 🤔
 
