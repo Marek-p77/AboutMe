@@ -18,24 +18,24 @@
 - Multifunkční plugin s Discord integrací, ukončeno. (Lepší verze pluginu MV-Core)
 <br>
 
-4. 𝗠𝗮𝗴𝗻𝗼𝗘𝘃𝗲𝗻𝘁𝘀
+4. 𝗠𝗩-𝗘𝘀𝘀𝗲𝗻𝘁𝗶𝗮𝗹𝘀
+- 1 800 Řádků kódu, 28 souborů (5.10.2023)
+- Multifunkční plugin pro [@MineverseNetwork](https://github.com/MineverseNetwork) s Bungeecord podporou. (Lepší verze pluginu Iridium, zatím bez Discord integrace)
+<br>
+
+5. 𝗠𝗮𝗴𝗻𝗼𝗘𝘃𝗲𝗻𝘁𝘀
 - 1 800 Řádků kódu, 24 souborů (1.1.2024)
 - Paper + Bungeecord plugin pro eventy KOTH, QuakeCraft a BlockParty. Použití Redisu. Zatím nedokončeno. Pro server, kde jsem byl Externí Developer.
 <br>
 
-5. 𝗠𝗩-𝗖𝗼𝗿𝗲 [(kód)](https://github.com/Marek-p77/MV-Core)
+6. 𝗠𝗩-𝗖𝗼𝗿𝗲 [(kód)](https://github.com/Marek-p77/MV-Core)
 - 1 600 Řádků kódu, 25 souborů (20.8.2023)
 - Multifunkční plugin podobný EssentialsX, ukončeno. (Nejstarší plugin na tomto seznamu)
 <br>
 
-6. 𝗦𝗸𝘆𝗕𝗹𝗼𝗰𝗸
+7. 𝗦𝗸𝘆𝗕𝗹𝗼𝗰𝗸
 - 1 350 Řádků kódu, 17 souborů (20.8.2023)
 - Nedokončený SkyBlock plugin s MySQL podporou, upgrady ostrovů, shop atd.
-<br>
-
-7. 𝗠𝗩-𝗘𝘀𝘀𝗲𝗻𝘁𝗶𝗮𝗹𝘀
-- 1 800 Řádků kódu, 28 souborů (5.10.2023)
-- Multifunkční plugin pro [@MineverseNetwork](https://github.com/MineverseNetwork) s Bungeecord podporou. (Lepší verze pluginu Iridium, zatím bez Discord integrace)
 <br>
 
 8. 𝗦𝗽𝗹𝗲𝗲𝗳
