@@ -99,11 +99,12 @@
 <br>
 
 4. 𝗞𝗮𝗽𝗲𝗹𝗮 𝗟𝗶𝗻𝗱𝗲𝗻𝘀
-- Ze začátku klasické HTML a CSS. Později Talinwind, Vue.js a Laravel, MySQL
+- Ze začátku klasické HTML a CSS. Později Tailwind, Vue.js a Laravel, MySQL
 - Web, který jsem dělal pro kapelu Lindens. Jedna z mých prvních zakázek. Rok 2021 (pozdější rewrite 2023).
 
 5. 𝗖𝗮𝗿𝗯𝗼𝗻 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱
 - HTML, CSS, PHP, MySQL
+- 3 800 Řádků kódu, 50 souborů (3.1.2024)
 - Můj první větší PHP projekt. Login / Register systém, úkoly, role a permise, blog, historie. Konec roku 2021 + začátek roku 2022.
 <br>
 
