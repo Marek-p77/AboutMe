@@ -448,7 +448,7 @@ Předem říkám, že mi nejde o to někoho poškodit, nebo urazit. Moc to nepro
 
 𝗔𝗱𝗮𝗺𝗕𝗰𝘇 - Super kámoš, nikdy mě nezradil, vždy pomohl. Cením si na něm zájem o programování. Poznali jsme se na Mineverse. Jeden z top 3 mých nejlepších kamarádů, díky :)
 
-𝗠𝗮𝗿𝗲𝗸𝗶𝗼 - Super kámoš, vždy byl ke mně ohleduplný a na mé straně, toho si moc vážím. Hodně mi pomáhá s mým největším projektem, díky moc Máro :)
+𝗺𝗮𝗿𝗲𝗸𝗶𝗼 - Super kámoš, vždy byl ke mně ohleduplný a na mé straně, toho si moc vážím. Hodně mi pomáhá s mým největším projektem, díky moc Máro :)
 
 𝗧𝗼𝗺𝗶𝗻𝗼𝗞𝘂𝗯𝗶𝗻𝗼 - Velmi dobrý developer, na MV-Hostingu jsi byl můj vzor co se týče programování, hodně jsi nám tam pomohl. Je mi líto, že to nebylo vždycky mezi námi v pohodě...
 
