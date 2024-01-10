@@ -2,7 +2,7 @@
 # 📜 Kdo že to jsem? 🤔
 
 ### 📄 Informace
-Ahoj. Jmenuji se Marek, je mi 18 let. Jsem vývojář webových aplikací. Studuji na střední škole ekonomické. Programováním se zabývám již druhým rokem a určitě nemám v plánu přestat! :)
+Ahoj. Jmenuji se Marek, je mi 18 let. Jsem vývojář webových aplikací a minecraft pluginů. Studuji na střední škole ekonomické. Programováním se zabývám již druhým rokem a určitě nemám v plánu přestat! :)
 
 ### 📁 Projekty na GitHubu?
 Na GitHubu v tuto chvíli nemám žádné veřejné projekty. Proč? Nemám tolik času a ani motivaci pracovat na open-source projektech. Mám spoustu práce a své soukromé projekty. Mám ale v plánu tento rok začít hodně projektů zveřejňovat a udržovat je. Máte se na co těšit 😎
@@ -107,6 +107,7 @@ Obecné Dovednosti:
 - 𝗗𝗼𝗰𝗸𝗲𝗿 𝗗𝗲𝘀𝗸𝘁𝗼𝗽 ➔ Program, který používám pro správu Docker containerů na svém PC.
 - 𝗣𝗼𝗿𝘁𝗮𝗶𝗻𝗲𝗿 ➔ Webové rozhraní, které používám pro správu Docker containerů a Kubernetes clusterů.
 - 𝗦𝗽𝗮𝗰𝗲 ➔ Aplikace pro správu programátorských týmů a projektů s GitHub integrací, kterou používám zejména pro větší projekty, kde nejsem sám.
+- 𝗣𝘁𝗲𝗿𝗼𝗱𝗮𝗰𝘁𝘆𝗹 ➔ Webový panel pro snadnou správu herních serverů, discord botů a dalších služeb.
 
 A mnoho dalších malých věcí pro ulehčení života...
 <br>
@@ -169,7 +170,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 
 - <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗔𝗹𝗮𝗿𝘄𝗮𝗡𝗶𝗹𝗱𝗼𝗿】 ➔ 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 5 měsíců (září - leden 2020)
 
-ㅤㅤ└ Survival Economy, Eventy, dočasně minihry. Rekord hráčů: ? (odhadem kolem 20)
+ㅤㅤ└ Survival Economy, Eventy, dočasně minihry. Rekord hráčů: 22
 
 ㅤㅤ└ Má práce: Kompletní nastavení serveru (v týmu nebyl nikdo jiný, kdo uměl server nastavit. Server se úspěšně spustil)
 
