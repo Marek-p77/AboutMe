@@ -278,8 +278,9 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Origo Minecraft účet od roku 2016.
 - Optifine Cape od roku 2020.
 - Oblíbený Minecraft modpack -> Project Ozone 2.
+- Oblíbený Minecraft mód -> Mekanism v10
 - Oblíbené Minecraft servery -> Hypixel a MCC Island.
-- Kašlu na Lunárek a jiné clienty, používám ofiko launcher s OF a to mi stačí. EDIT: Od začátku roku 2023 Fabric a Sodium
+- Kašlu na Lunárek a jiné clienty, používám ofiko launcher s OF a to mi stačí. EDIT: Od začátku roku 2023 Fabric (rozšířený modpack Fabulously optimized, Modrinth launcher)
 - Mám stále stejný Minecraft skin od kámošky už asi 6 let.
 - Na Discordu mám stále stejnou profilovku jako když jsem si ho založil (to stejné platí i pro GitHub účet).
 - Někdo mi v roce 2020 daroval Nitro a já o tom 2 týdny nevěděl...
@@ -303,7 +304,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Raspberry Pi 4 je super hračka pro Linuxáky, doporučuji :)
 - V autě ani ve vlaku nebývám na mobilu, rád se koukám z okna i když jsem tama jel už asi 100x.
 - Mám mobil od Xiaomi, je supr.
-- Mám 4 GB dat měsíčně a úplně mi stačí na ten discord a google, jsem skromný.
+- Mám 6 GB dat měsíčně a úplně mi stačí na ten discord a google, jsem skromný.
 - Ve škole sedím v druhé lavici a mám brýle (šprt?).
 - Nějak moc často používám slovo "zajímavý".
 - WinSCP & PuTTY & XAMPP & Anydesk user.
@@ -312,51 +313,52 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Maty u Hostify je machr (v dobrém smyslu).
 - Mám zkušenosti s Fakahedou, Hicorií, Multiminem, Hostify, Contabem, Batcorem, Hetznerem, OVH a DigitalOceanem přesně v tomto pořadí.
 - Jsem fanda Elona Muska a SpaceX.
-- Mám internet od O2 a bohatě mi stačí.
+- Mám internet od O2 a Vodafonu a bohatě mi stačí. (O2 u táty, Vodafone u mámy)
 - Můj operátor je T-Mobile.
 - Oblíbené přísloví: "Kdyby si každý hleděl svého, na světě by bylo lépe" :)
-- Mám rozvedené rodiče.
+- Mám rozvedené rodiče, už od 7 let.
 - Mám 2 Notebooky, stolní PC a Raspberry Pi 4 Model B.
 - Mám 2 další monitory, projektor a 10m HDMI <3
-- O víkendu spím do oběda a jdu spát ve 3 ráno (jsem noční můra) :D
-- Do školy to mám 15 minut pěšky a přes 4 přechody.
+- O víkendu spím do oběda a jdu spát cca ve 3 ráno (jsem noční můra) :D
+- Do školy to mám 20 minut pěšky a přes 4 přechody.
 - Marek_p <- to P je první písmeno mého přijmení.
 - Mám 2 křestní jména, málokdo zná to druhé.
 - Byl jsem v Itálii, Řecku, Chorvatsku, Bulharku a v Irsku a to bez PC.
 - Doma máme 5 notebooků, 3 stolní PC a stále je to pro některé z nás málo...
 - Jsem napůl řek, rodina má kořeny v Řecku (z matčiny strany).
 - Mám tetu, strejdu a sestřenici v Řecku a další tetu a 2 bratrance v Irsku.
-- Táta je učitel a má psa.
+- Táta je učitel na střední škole a má psa.
 - Bydlím v hezkém domečku s velkou zahradou vedle hřbitova, máme klid :D
-- Byl jsem částečně osvobozen z tělocviku.
+- Byl jsem částečně osvobozen z tělocviku (7. a 8. třída)
 - Mám brýle od roku 2018.
 - Rád nosím černé oblečení.
 - Mám narozeniny v lednu.
-- Můj nejlepší kámoš utekl na jinou školu ._.
+- Můj tehdejší nejlepší kámoš utekl na jinou školu ._.
 - Mám rád filmy od Marvelu, DC, dále StarWars, Pána prstenů, Hobbita, Mission impossible.
 - Jedniný kroužek do kterého jsem kdy chodil byl programování lega Mindstrom :D
 - Mám rád šachy, ale nikdo je se mnou nechce hrát ._.
+- V šachách jsem porazil zástupce ředitele školy, kde táta učí. Dále také dědova kámoše který hraje šachy přes 50 let.
 - Udělal jsem si vlastní deskovou hru v roce 2018.
-- V pokoji mám bambus aby se neřeklo že jsem tam jak krysa v kanále // edit: stále žije :)
-- Jako jediný v domě mám v pokoji koberec přes celou místnost.
+- V pokoji mám bambus aby se neřeklo že jsem tam jak krysa v kanále // EDIT: Stále žije a dokonce má i potomka! :)
+- Jako jediný v domě mám v pokoji koberec přes celou místnost. EDIT: V novém pokoji už jen částečně.
 - Mám moc rád sýr, kofolu a lentilky.
 - Mám alergii na pyl a je to otravné.
 - Přátelé dosvědčí, že mně nikdy neslyšeli říct sprosté slovo :)
 - Moc rád si dělám věci podle sebe, ale nejsem moc tvrdohlavý. Nerad pracuji ve velkých týmech.
 - Jsem pečlivý na detaily (po mamce) viz můj GitHub účet :D
-- Ačkoliv nejsem fanoušek ani podporovatel LGBT, nikomu to neberu a plně respektuji jejich názory a životní styl.
+- Ačkoliv nejsem fanoušek ani podporovatel LGBT, nikomu to neberu a plně respektuji jejich názory a životní styl. Byl bych moc rád, kdyby si to nikdo nebral osobně, je to jen můj názor.
 - Nemám rád lidi, kteří flexí tím, že kouří, nebo pijí energiťáky...
-- Mám 6 fidget spinnerů na parapetu z doby kdy to byl trend :D
+- Mám 6 fidget spinnerů na parapetu z doby kdy to byl trend :D Můj oblíbený je Batman spinner z Itálie.
 - Když jsem byl malý, tak jsem sbíral Pokemon kartičky, které jsem pak dal kámošovi.
 - Když jsem byl malý, tak jsem si rád hrál s legem a mám toho tuny na půdě :D
 - Vždy jsem chtěl umět hrát na klavír, ale nemám čas ._.
 - Třídíme doma odpad i když je to asi zbytečný?
 - Můj první web byl na Webnode a stále tam někde je, kdo ho najde první a pošle mi odkaz na Discord dostane 100 Kč PayPalem :) 
 - Nejlepší free webhosting je podle mně HostNow.cz
-- Letěl jsem 2x letadlem (1x tam a 1x zpátky) :D
-- 5 minut jsem řídil asi 30 metrů dlouhou loď v roce 2016.
-- Jel jsem v pravém tanku asi v roce 2014.
-- Letěl jsem ve vojenské helikoptéře v roce 2022.
+- Letěl jsem 2x letadlem (1x tam a 1x zpátky) :D (Z Prahy do Dublinu v Irsku)
+- 5 minut jsem řídil asi 30 metrů dlouhou loď v roce 2016. (V Irsku)
+- Jel jsem v pravém tanku asi v roce 2014. (Vojenská akce / přehlídka v Ostravě)
+- Letěl jsem ve vojenské helikoptéře v roce 2022. (Taky v té Ostravě)
 - Letěl jsem ve větroni v roce 2022.
 - Nikdy jsem nejel metrem.
 - Používám Edge a je mi to jedno, ramek relativně dost.
@@ -364,9 +366,9 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Snad si moc lidí nepřečte informaci o řádek výš :D
 - Jsem VIP člen kapely Lindens, které spravuji web.
 - Na půdě mám tajnou základnu kam nechodím :D
-- Když se zpětně podívám na mou minulost tak si říkám, že s něčím by bylo lepší začít i dříve.
+- Když se zpětně podívám na mou minulost tak si říkám, že s něčím by bylo lepší začít i dříve. (Konkrétně s programováním minecraft pluginů...)
 - Mám rád klid a pohodu, rád dělám věci sám. Nechci aby mi někdo kecal do mé práce a nebo aby mi někdo určoval co mám kdy jak dělat.
-- Mám tři monitory, každý jiný :D
+- Mám tři monitory a malou telku, každý jiný :D
 - Ačkoliv se to zdá směšné, mám už déle než 4 roky starou podložku pod myš, kterou měl táta někdy v roce 2007 a používám ji vzhůru nohama. A úplně mi to vyhovuje! :O EDIT: Už ne
 - Od doby co jsem na střední mám ISIC a GitHub student pack. Je to strašně super a nevím co mám dělat se všemi těmi výhodami.
 - Ačkoliv moji programátorští přátelé říkají, že jsem hodně produktivní, myslím že bych měl přidat a více u toho používat GitHub.
@@ -381,17 +383,18 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Bojím se větších změn, ale většinou to dopadá dobře.
 - V roce 2023 jsem se na poslední měsíc školy vykašlal a i tak jsem měl vyznamenání lol
 - Mám moc rád angličtinu, občas dokonce v hlavě přemýšlím anglicky. Jsem divnej? :D
+- Když jsme u té angličtiny, tak v prvním pololetí třeťáku jsem měl nejlepší průměr ze třídy z angličtiny.
 - Učitelka říká, že umím dobře Němčinu, ale já si to moc nemyslím.
-- Na střední škole už nemáme Fyziku, Chemii, Přírodopis, Hudebku, Výtvarku ani Zeměpis, jej!
+- Na střední škole už nemáme Fyziku, Chemii, Přírodopis, Dějepis, Hudebku, Výtvarku ani Zeměpis, jej!
 - V hodinách Účetnictví stále jen píšeme do sešitu. Spolužákům se to nelíbí, ale já jsem rád, že se toho hodně dozvíme a nevadí mi to.
 - Už to bude pár let co jsem naposledy jel na kole. A už ani to kolo nemám.
-- S kamarádem máme Discord server, který používáme místo PM. Dodnes jsem nepochopil proč. V červenci 2023 tam mám 35 000 zpráv.
+- S kamarádem máme Discord server, který používáme místo PM. Dodnes jsem nepochopil proč. V červenci 2023 tam mám 35 000 zpráv. EDIT: Už tam nejsem. Kámoš až moc ignoroval, dlouhodobě i po varování. Třeba se někdy vrátím.
 - Když s někým pracuji na programátorském projektu, tak dělám stále dokola refactoring práce jiných. Jsem prostě až moc pečlivý na detaily a vzhled kódu.
 - Do GitHub Readme.md rvu všude samé emoji před nadpisy. Je to pro hezčí vizualizaci, ne proto, že se nudím a nechci pracovat na tom projektu jako takovém :D
 - Mám svého vlastního soukromého Discord bota pro všechny možné blbosti jako status minecraft serverů, výpočet ceny za elektřinu, ceny kryptoměn atd. (nebude public)
 - V roce 2023 jsem se poprvé setkal se svým online kamarádem. Byla to sranda. Nic proti němu, ale asi jsem nejraději sám :D
 - Rád si dělám vlastní Minecraft pluginy na různé survival výzvy s přáteli, baví mě upravovat herní zážitky.
-- Mám soukromý Discord server kde si přeposílám a archivuji různé odkazy, screenshoty atd.
+- Mám soukromý Discord server kde si přeposílám a archivuji různé odkazy, screenshoty atd. Používat Discord jako CDN není zas tak špatný jak se může zdát :D
 - Moc nedůvěřuji lidem, jsem opatrný a neřeším blbosti.
 - Rád se procházím v noci ve tmě když nikde nikdo není, nejlépe po dešti. Snad mě nepřepadne žádný vrah, nebo veverka.
 - V těžkých situacích jsem možná až moc klidný, přátelé dosvědčí.
@@ -399,12 +402,12 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Dávám přednost logickému myšlení před pocity a emocemi.
 - Až moc nad vším přemýšlím. Beru to sice jako svou silnou stránku, ale někdy je to až příliš a všeho moc škodí.
 - Rád si vyslechnu kritiku, feedback je důležitý. Jaký máš názor na tento seznam? :D
-- V GitBooku mám napsanou starou znalostní bázi pro Minecraft pluginy. Věděli jste to? Asi ne, jelikož je to staré a neaktualizované :D
+- V GitBooku mám napsanou starou znalostní bázi pro Minecraft pluginy, kterou jsem psal pro programátorskou komunitu GalaxyCode. Věděli jste to? Asi ne, jelikož je to staré a neaktualizované :D
 - Nevím jak mé budoucí já, ale je 19.9.2022 a já jsem ještě nikdy nezapl Minecraft 1.17, 1.18 ani 1.19. Nemám tyto verze rád, je tam toho až moc. EDIT: Od ledna 2023 jsem se rozhodl změnit.
-- Když mi bylo asi 12 tak jsem hrál WorldOfTanks, Dont Starve a Cities Skylines. Teď už ale dlouhé roky hraji jen a jen Minecraft.
+- Když mi bylo asi 12 tak jsem hrál WorldOfTanks, Rust, Dont Starve a Cities Skylines. Teď už ale dlouhé roky hraji jen a jen Minecraft.
 - Od doby co jsem se začal učit Laravel asi v březnu 2022 hraji hry méně a méně. Programování mě nepřestává fascinovat // tohle píšu v září 2022.
 - Nemám rád brzké vztávání, ale když na to přijde tak s tím nemám zas takový problém.
-- Dream je můj oblíbený youtuber.
+- Dream je můj oblíbený youtuber. Ale mám i oblíbenou youtuberku, téměř nikdo neví kdo to je :D
 - Většina mých online kamarádů je na kluky. A možná je to i lepší? Nevím, neřeším.
 - Jako Command Terminal používám Git Bash, funguje skvělě zatím na vše co potřebuji na Windows 10.
 - Jako operační systém pro servery používám Ubuntu 20.04, nějakou dobu jsem ho měl i jako desktop, ale moc mi jeho desktop verze nevyhovuje.
@@ -432,17 +435,18 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Snažím se poučit nejen ze svých chyb, ale také z chyb ostatních.
 - Pokaždé když jsem na PC mám zaplý Discord.
 - Moje první Bungeecord síť Minecraft serverů byla na Fakahedě, Hicorii a Multiminu v roce 2019. Moc kvalitní to nebylo a dodnes se za to trochu stydím :D
+- Od roku 2023 preferuji Velocity jako minecraft proxy.
 - Měl jsem chvíli SkyBlock server na žádost komunity, ale téměř nikdo tam nehrál tak jsem ho po třech měsících zrušil.
 - Mám moc rád BedWars na Hypixelu. Je to jedna z velmi mála miniher, které si opravdu umím užít.
 - NoxCrew je nejlepší tým Minecraft tvůrců, které jsem kdy viděl. (nemyslím YouTubery)
 - Velmi se těším na otevření MCC Isladnu, je dost možné, že ho budu mít raději než Hypixel. EDIT: MCC Island je super, jen já jsem noob a neumím pvp
 - V lednu 2023 jsem si udělal malý SMP server pro mé kamarády a rodinu, užili jsme si tam spoustu zábavy. Bohužel nějak umírá :D EDIT: Umřel :(
-- Po dlouhé době neaktivity v roce 2022 jsem se rozhodl zase zkusit někde nábor na minecraft Developera. A tak jsem se dostal na server WardenMC :)
+- Po dlouhé době neaktivity v roce 2022 jsem se rozhodl zase zkusit někde nábor na minecraft Developera. A tak jsem se dostal na server WardenMC, dokonce 2x :)
 - Na začátku roku 2023 jsem se hodně zlepšil v programování vlastních minecraft pluginů. Teď pracuji na vlastním BedWars a zatím to jde skvěle! Je to zábava.
 - Na Discordu prostě nesmím mít ani jeden nepřečtený ping. Jinak to opravdu nejde.
 - Mám ve svém hlavním notebooku jen jeden disk a úplně v pohodě mi to stačí. Nestahuju blbosti a mám na něm pořádek.
 - Ke dni 17.9.2022 jsem na 87 Discord serverech .
-- Většinou když si na Discordu někoho zablokuju, tak si ho po pár dnech zase odblokuju bez toho abych mu to oznámil.
+- Většinou když si na Discordu někoho zablokuju, tak si ho po pár dnech zase odblokuju bez toho abych mu to oznámil. Kromě dvou vyjímek, však oni vědí. S nima se už neuvidím.
 
 ### 👦 Významní lidé v mém životě (hlavně v tom virtuálním)
 Předem říkám, že mi nejde o to někoho poškodit, nebo urazit. Moc to neprožívejte prosím :D (pořadí je tak jak mě napadlo)
