@@ -144,7 +144,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 
 ㅤㅤ└ Má práce: Vlastní pluginy pro základní funkce Lobby. Vlastní Discord bot a StaffChat plugin pro Bungeecord propojený s Discordem. Vlastní Report plugin.
 
-- <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗪𝗮𝗿𝗱𝗲𝗻𝗠𝗖】 ➔ 𝙃𝙡.𝙏𝙚𝙘𝙝𝙣𝙞𝙠 2 měsíce (únor - duben 2023)
+- <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗪𝗮𝗿𝗱𝗲𝗻𝗠𝗖】 ➔ 𝙃𝙡.𝙏𝙚𝙘𝙝𝙣𝙞𝙠 3 měsíce (únor - duben 2023)
 
 ㅤㅤ└ Survival Economy, GunGame, BoxFight. Rekord hráčů: 41
 
