@@ -130,7 +130,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 
 ㅤㅤ└ Whitelisted survival bez pluginů ovlivňujících hru, pro přátele. Rekord hráčů: 7
 
-ㅤㅤ└ Má práce: Zajištění správného chodu serveru. Správce komunity. Vlastní Discord bot se statusem serveru, mc chat.
+ㅤㅤ└ Má práce: Zajištění správného chodu serveru a správa komunity. Vlastní Discord bot se statusem serveru, mc chat.
 
 - <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗔𝗺𝗽𝗲𝗱𝗟𝗮𝗻𝗱】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 & 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 4 měsíce (únor - květen 2021)
 
@@ -154,9 +154,9 @@ A mnoho dalších malých věcí pro ulehčení života...
 
 ㅤㅤ└ Survival Economy. Rekord hráčů: ? (odhadem 12)
 
-ㅤㅤ└ Má práce: Kompletní nastavení serveru, velký podíl na vedení serveru a týmu. Vývoj webu.
+ㅤㅤ└ Má práce: Kompletní nastavení serveru, velký podíl na vedení serveru a týmu. Vývoj webu a vlastního Discord bota.
 
-- <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗪𝗮𝘇𝗶𝗿𝗲.𝗲𝘂】 ➔ 𝙃𝙡.𝙏𝙚𝙘𝙝𝙣𝙞𝙠 10 měsíců (únor - listopad 2022)
+- <img align="left" alt="..." width="25px" src="https://media.discordapp.net/attachments/865982224607871006/916397505627971584/mnecraft.png"/>Minecraft server 【𝗪𝗮𝘇𝗶𝗿𝗲】 ➔ 𝙃𝙡.𝙏𝙚𝙘𝙝𝙣𝙞𝙠 10 měsíců (únor - listopad 2022)
 
 ㅤㅤ└ Survival Economy. Rekord hráčů: ? (odhadem pod 10)
 
