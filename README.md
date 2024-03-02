@@ -75,12 +75,13 @@ Obecné Dovednosti:
 
 - 🌐 Programování Webových stránek od roku 2021 (statické & dynamické)
 - ⛺ Programování Minecraft pluginů od března roku 2022 (+ nastavování od roku 2019)
-- 🤖 Programování Discord botů od roku 2022 (v Javě / Kotlinu, dřívě v Node.js v druhé polovině roku 2021)
+- 🤖 Programování Discord botů od roku 2021 (v Javě / Kotlinu, dřívě v Node.js)
 - 🎨 Základní grafika od roku 2018 (Převážně Loga, Ikony, Plakáty hlavně pro školu a pro Mineverse)
-- 🎬 Editace videí (Aktuálně DaVinci Resolve, před 4 lety Camtasia Studio)
+- 🎬 Editace videí (Aktuálně DaVinci Resolve, před 6 lety Camtasia Studio)
 - 💻 Správa Linux Serverů od roku 2020 (zejména Ubuntu 20.04)
 - 💠 Milovník Virtualizace od roku 2020 (zejména Docker a Proxmox VE)
-- 👑 Umím dobře pracovat s lidmi (team management -> učím se ve škole)
+- 📃 World, Excel, Powerpoint od roku 2014 (Později solidní prezentace pro PKD na střední škole)
+- 👑 Umím dobře pracovat s lidmi (team management a psychologie -> učím se ve škole)
 - 📊 Amatérský ekonom a účetní (učím se ve škole)
 
 ### 🧰️ Nástroje, které používám:
