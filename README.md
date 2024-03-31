@@ -2,7 +2,7 @@
 # 📜 Kdo že to jsem? 🤔
 
 ### 📄 Informace
-Ahoj. Jmenuji se Marek, je mi 19 let. Jsem vývojář webových aplikací a minecraft pluginů. Studuji na střední škole ekonomické. Programováním se zabývám již druhým rokem a určitě nemám v plánu přestat! :)
+Ahoj. Jmenuji se Marek, je mi 19 let. Jsem vývojář webových aplikací a minecraft pluginů. Studuji na střední škole ekonomické. Programováním se zabývám již čtvrtým rokem a určitě nemám v plánu přestat! :)
 
 ### 📁 Projekty na GitHubu?
 Na GitHubu v tuto chvíli nemám žádné veřejné projekty. Proč? Nemám tolik času a ani motivaci pracovat na open-source projektech. Mám spoustu práce a své soukromé projekty. Mám ale v plánu tento rok začít hodně projektů zveřejňovat a udržovat je. Máte se na co těšit 😎
