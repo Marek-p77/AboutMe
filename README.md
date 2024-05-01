@@ -115,93 +115,24 @@ A mnoho dalších malých věcí pro ulehčení života...
 
 ### ⚒️ Projekty na kterých jsem působil / působím:
 
-- Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 𝗡𝗲𝘁𝘄𝗼𝗿𝗸】 ➔ Aktuálně 𝙑𝙚𝙙𝙚𝙣𝙞 & 𝙃𝙡.𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 (od června 2023)
-
-ㅤㅤ└ Unikátní RPG Economy Survival a SkyBlock s prvkami Factions + Eventy
-
-ㅤㅤ└ Má práce: Kompletní správa Technické části a Vedení Technického týmu. Téměř vše 100% vlastní (pluginy, weby, boti, mapy, grafika atd.) Server ještě není ani z daleka dokončen a už je to můj největší a nejdražší projekt. Více [zde](https://github.com/MineverseNetwork).
-
-- Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 𝗥𝗣𝗚】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 & 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 / 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 6 let (2015 - 2021)*
-
-ㅤㅤ└ RPG Survival Economy, většinu času Whitelisted. Rekord hráčů: 18
-
-ㅤㅤ└ Má práce: Kompletní nastavení, vedení atd. V roce 2023 vlastní plugin pro RPG itemy a schopnosti.
-
-- Minecraft server 【𝗠𝗶𝗻𝗲𝘃𝗲𝗿𝘀𝗲 𝗦𝗠𝗣】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 & 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 / 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 7 měsíců (leden - červenec 2023)
-
-ㅤㅤ└ Whitelisted survival bez pluginů ovlivňujících hru, pro přátele. Rekord hráčů: 7
-
-ㅤㅤ└ Má práce: Zajištění správného chodu serveru a správa komunity. Vlastní Discord bot se statusem serveru, mc chat.
-
-- Minecraft server 【𝗔𝗺𝗽𝗲𝗱𝗟𝗮𝗻𝗱】 ➔ 𝙈𝙖𝙟𝙞𝙩𝙚𝙡 & 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 4 měsíce (únor - květen 2021)
-
-ㅤㅤ└ Minihry - Practice, KitPvP, KBFFA, Eventy atd. Rekord hráčů: 22
-
-ㅤㅤ└ Má práce: Nastavení většiny serveru společně se zbytkem týmu. Správa discord serveru.
-
-- Minecraft server 【𝗦𝘂𝗿𝘃𝗶𝘃𝗮𝗹𝗣𝗹𝗮𝘆】 ➔ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 2 týdny (květen 2023)
-
-ㅤㅤ└ Economy Survival, příprava Bungeecordu a Miniher. Rekord hráčů: ? (odhadem 5 až 10)
-
-ㅤㅤ└ Má práce: Vlastní pluginy pro základní funkce Lobby. Vlastní Discord bot a StaffChat plugin pro Bungeecord propojený s Discordem. Vlastní Report plugin.
-
-- Minecraft server 【𝗪𝗮𝗿𝗱𝗲𝗻𝗠𝗖】 ➔ 𝙃𝙡.𝙏𝙚𝙘𝙝𝙣𝙞𝙠 3 měsíce (únor - duben 2023)
-
-ㅤㅤ└ Survival Economy, GunGame, BoxFight. Rekord hráčů: 41
-
-ㅤㅤ└ Má práce: Doly, custom mobové, crates, itemy, armory (Oraxen). Vedení týmu Techniků.
-
-- Minecraft server 【𝗜𝗿𝗶𝗱𝗶𝘂𝗺𝗖𝗿𝗮𝗳𝘁】 ➔ 𝙃𝙡.𝙏𝙚𝙘𝙝𝙣𝙞𝙠 & 𝙈𝙖𝙣𝙖𝙜𝙚𝙧 cca 2 roky (říjen 2021 - duben 2023)
-
-ㅤㅤ└ Survival Economy. Rekord hráčů: ? (odhadem 12)
-
-ㅤㅤ└ Má práce: Kompletní nastavení serveru, velký podíl na vedení serveru a týmu. Vývoj webu a vlastního Discord bota.
-
-- Minecraft server 【𝗪𝗮𝘇𝗶𝗿𝗲】 ➔ 𝙃𝙡.𝙏𝙚𝙘𝙝𝙣𝙞𝙠 10 měsíců (únor - listopad 2022)
-
-ㅤㅤ└ Survival Economy. Rekord hráčů: ? (odhadem pod 10)
-
-ㅤㅤ└ Má práce: Nastavení lobby a pár detailů na survivalu, příprava Bungeecordu. Vedení týmu techniků. Vývoj webu a správa discord serveru.
-
-- Minecraft server 【𝗙𝗮𝗹𝗹𝗲𝗻𝗞𝗶𝗻𝗴𝗱𝗼𝗺𝘀】 ➔ 𝙃𝙡.𝙏𝙚𝙘𝙝𝙣𝙞𝙠 7 měsíců (květen - listopadu 2021)
-
-ㅤㅤ└ Survival Economy. Rekord hráčů: ? (odhadem pod 10)
-
-ㅤㅤ└ Má práce: Základní nastavení serveru ve spolupráci se zbytkem týmu. Vedení týmu techniků.
-
-- Minecraft server 【𝗔𝗹𝗮𝗿𝘄𝗮𝗡𝗶𝗹𝗱𝗼𝗿】 ➔ 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 5 měsíců (září - leden 2020)
-
-ㅤㅤ└ Survival Economy, Eventy, dočasně minihry. Rekord hráčů: 22
-
-ㅤㅤ└ Má práce: Kompletní nastavení serveru (v týmu nebyl nikdo jiný, kdo uměl server nastavit. Server se úspěšně spustil)
-
-- Minecraft server 【𝗩𝗶𝗿𝘁𝘂𝘀 𝗨𝗻𝗶𝘁𝗮 𝗙𝗼𝗿𝘁𝗶𝗼𝗿】 ➔ 𝙏𝙚𝙘𝙝𝙣𝙞𝙠 2 měsíce (červen - červenec 2020)
-
-ㅤㅤ└ Politický Survival Economy. Rekord hráčů: ? (odhadem 10 až 15)
-
-ㅤㅤ└ Má práce: Menší úpravy, překlady atd.
-
-- Bytové družstvo Miroslav ➔ Aktuálně 𝙒𝙚𝙗 𝙈𝙖𝙣𝙖𝙜𝙚𝙧 & 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 (od srpna 2021)
-
-   └ Má práce: Kompletní vývoj a správa webu a domény.
-
-- Kapela Lindens ➔ Aktuálně 𝙒𝙚𝙗 𝙈𝙖𝙣𝙖𝙜𝙚𝙧 & 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 (od července 2021)
-
-   └ Má práce: Kompletní vývoj a správa webu a domény.
-
-- Studentská Firma ➔ Aktuálně 𝙈𝙖𝙧𝙠𝙚𝙩𝙚𝙧 & 𝙂𝙧𝙖𝙛𝙞𝙠 (od listopadu 2023)
-
-   └ Má práce: Propagace školních akcí na sociálních sítích. Tvorba propagačního materiálu. (Plakáty, vizitky, ceníky, pozvánky) Obecně pomoc s organizací. Jedná se o studentskou firmu, kterou vede naše třída.
-  
-- GalaxyCode ➔ 𝘼𝙙𝙢𝙞𝙣 7 měsíců (září 2021 - březen 2022)
-
-   └ Má práce: Vedení a moderace Discord komunity. Správa GitHub organizace, tvorba vlastního Discord bota a Webu. Jedná se o komunitu programátorů.
-
-- MV-Hosting ➔ 𝘼𝙙𝙢𝙞𝙣 7 měsíců (leden 2021 - červenec 2021)
-
-   └ Ze začátku soukromý, později veřejný hosting Minecraft serverů, Discord botů a později VPS. Rekord hostovaných služeb: 42
-
-   └ Má práce: Správa webových stránek, panelu, discord serveru, sítě, financí a komunity společně se zbytkem týmu. Získal jsem zde spoustu bohatých zkušeností všeho druhu.
+| Typ Projektu | Název Projektu | Má Pozice | Má Doba Působení | Info o Projektu | Má Práce |
+| -- | -- | -- | -- | -- | -- |
+| Minecraft Server | Mineverse Network | Vedení & Hl.Developer | od června 2023 | Unikátní RPG Economy Survival a SkyBlock s prvkami Factions + Eventy | Kompletní správa Technické části a Vedení Technického týmu. |
+| Minecraft Server | Mineverse RPG | Majitel & Technik / Developer | 6 let (2015 - 2021)* | RPG Survival Economy, většinu času Whitelisted. Rekord hráčů: 18 | Kompletní nastavení, vedení atd. Vlastní plugin pro RPG itemy a schopnosti. |
+| Minecraft Server | Mineverse SMP | Majitel & Technik / Developer | 7 měsíců (leden - červenec 2023) | Whitelisted survival bez pluginů ovlivňujících hru. Rekord hráčů: 7 | Zajištění správného chodu serveru a správa komunity. Vlastní Discord bot se statusem serveru, mc chat. |
+| Minecraft Server | AmpedLand | Majitel & Technik | 4 měsíce (únor - květen 2021) | Minihry - Practice, KitPvP, KBFFA, Eventy atd. Rekord hráčů: 22 | Má práce: Nastavení většiny serveru společně se zbytkem týmu. Správa discord serveru a VPS |
+| Minecraft Server | SurvivalPlay | Developer | 2 týdny (květen 2023) | Economy Survival, příprava Bungeecordu a Miniher. Rekord hráčů: ? (odhadem 5 až 10) | Vlastní pluginy pro základní funkce Lobby. Vlastní Discord bot a StaffChat plugin pro Bungeecord propojený s Discordem. Vlastní Report plugin. |
+| Minecraft Server | WardenMC | Hl.Technik | 3 měsíce (únor - duben 2023) | Survival Economy, GunGame, BoxFight. Rekord hráčů: 41 | Doly, custom mobové, crates, itemy, armory (Oraxen). Vedení týmu Techniků. |
+| Minecraft Server | IridiumCraft | Manager & Hl.Technik | cca 2 roky (říjen 2021 - duben 2023) | Survival Economy, Eventy. Rekord hráčů: ? (odhadem 12) | Kompletní nastavení serveru, velký podíl na vedení serveru a týmu. Vývoj webu a vlastního Discord bota.
+| Minecraft Server | Wazire | Hl.Technik | 10 měsíců (únor - listopad 2022) | Survival Economy. Rekord hráčů: ? (odhadem pod 10) | Má práce: Nastavení lobby a pár detailů na survivalu, příprava Bungeecordu. Vedení týmu techniků. Vývoj webu a správa discord serveru. |
+| Minecraft Server | FallenKingdoms | Hl.Technik | 7 měsíců (květen - listopadu 2021) | Survival Economy. Rekord hráčů: ? (odhadem pod 10) | Základní nastavení serveru ve spolupráci se zbytkem týmu. Vedení týmu techniků. |
+| Minecraft Server | AlarwaNildor | Technik | 5 měsíců (září - leden 2020) | Survival Economy, Eventy, dočasně minihry. Rekord hráčů: 22? | Kompletní nastavení serveru (v týmu nebyl nikdo jiný, kdo uměl server nastavit. Server se úspěšně spustil) |
+| Minecraft Server | Virtus Unita Fortior | Technik | 2 měsíce (červen - červenec 2020) | Politický Survival Economy. Rekord hráčů: ? (odhadem 10 až 15) | Menší úpravy, překlady atd. |
+| Web | Bytové družstvo Miroslav | Web Manager / Web Developer | od srpna 2021 | Informativní web pro bytové družstvo | Kompletní vývoj a správa webu a domény. |
+| Web | Kapela Lindens | Web Manager / Web Developer | od července 2021 | Informativní web pro kapelu |  Kompletní vývoj a správa webu a domény. |
+| Studentská Firma | MIBY | Marketér & Grafik | od listopadu 2023 | Studentská firma, kterou vede naše třída. | Propagace školních akcí na sociálních sítích. Tvorba propagačního materiálu. (Plakáty, vizitky, ceníky, pozvánky) Obecně pomoc s organizací. |
+| Komunita | GalaxyCode | Admin & Moderátor & Podpora | 7 měsíců (září 2021 - březen 2022) | Komunita začínajících programátorů | Vedení a moderace Discord komunity. Správa GitHub organizace, tvorba vlastního Discord bota a Webu. |
+| Hosting | MV-Hosting | Admin & Developer & Podpora | 7 měsíců (leden 2021 - červenec 2021) | Ze začátku soukromý, později veřejný hosting Minecraft serverů, Discord botů a později VPS. Rekord hostovaných služeb: 42 | Správa webových stránek, panelu, discord serveru, sítě, financí a komunity společně se zbytkem týmu. |
   
 - *Poznámka: Mineverse RPG stále funguje, ale jako soukromý a neaktivní server udržovaný spíše z nostalgie. Můj první server. Rekord hráčů v roce 2023: 4
 
