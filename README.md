@@ -18,31 +18,33 @@ Programování:
 
 - Velmi dobrá znalost 𝗛𝗧𝗠𝗟 a 𝗖𝗦𝗦:
 
-  └ TailwindCSS
+  └ [Tailwind CSS](https://tailwindcss.com/)
   
 - Pokročilá znalost 𝗣𝗛𝗣:
 
-  └ Laravel Framework (Breeze, Jetstream, Sanctum)
+  └ [Laravel Framework](https://laravel.com/) (Breeze, Jetstream, Sanctum)
     
 - Mírně pokročilá znalost 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁𝘂:
 
-  └ Vue.js
+  └ [Vue.js](https://vuejs.org/)
   
-  └ Inertia.js
+  └ [Inertia.js](https://inertiajs.com/)
   
-  └ Chart.js
+  └ [Chart.js](https://www.chartjs.org/)
   
 - Pokročilá znalost 𝗝𝗮𝘃𝘆:
 
-  └ Bukkit / Spigot / Paper API
+  └ Minecraft: [Spigot](https://www.spigotmc.org/) / [Paper](https://papermc.io/) API
   
-  └ BungeeCord / Waterfall API + Velocity API
+  └ Minecraft: [BungeeCord](https://www.spigotmc.org/wiki/bungeecord/) / [Waterfall](https://papermc.io/software/waterfall) API + [Velocity](https://papermc.io/software/velocity) API
+
+  └ Minecraft: [Minestom](https://minestom.net/)
   
-  └ Java Discord API (JDA)
+  └ [Java Discord API](https://github.com/discord-jda/JDA) (JDA)
 
-  └ Redis (Jedis)
+  └ [Redis](https://github.com/redis/jedis) (Jedis)
 
-  └ HikariCP
+  └ [HikariCP](https://github.com/brettwooldridge/HikariCP)
 
 - Mírně pokročilá znalost 𝗞𝗼𝘁𝗹𝗶𝗻𝘂:
 
@@ -50,14 +52,14 @@ Programování:
   
 - Dostačující znalost 𝗦𝗤𝗟:
 
-  └ MySQL (PhpMyAdmin & Adminer)
+  └ [MySQL](https://www.mysql.com/) (PhpMyAdmin & Adminer)
   
   
 - Základní znalost 𝗩𝗶𝗿𝘁𝘂𝗮𝗹𝗶𝘇𝗮𝗰𝗲:
 
-  └ Docker (Docker Compose & Kubernetes)
+  └ [Docker](https://www.docker.com/) (Docker Compose & Kubernetes)
   
-  └ Proxmox
+  └ [Proxmox VE](https://www.proxmox.com/en/proxmox-virtual-environment/overview)
   
   
 #### Programovací jazyky, které nejvíce používám
