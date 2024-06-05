@@ -42,7 +42,7 @@ Programování:
   
   └ [Java Discord API](https://github.com/discord-jda/JDA) (JDA)
 
-  └ [Redis](https://github.com/redis/jedis) (Jedis)
+  └ [Jedis](https://github.com/redis/jedis) (Redis)
 
   └ [HikariCP](https://github.com/brettwooldridge/HikariCP)
 
