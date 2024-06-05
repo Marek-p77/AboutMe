@@ -10,8 +10,8 @@ Na GitHubu v tuto chvíli nemám žádné veřejné projekty. Proč? Nemám toli
 Seznam mých hlavních soukromých projektů můžete najít v souboru [projekty.md](https://github.com/Marek-p77/AboutMe/blob/main/projekty.md) zde v tomto repozitáři.
 
 ### ✉️ Kontakt
-- Discord: @marek_p / 🔥𝕄𝕒𝕣𝕖𝕜_𝕡🔥#4775
-- Email: marek.mnp@seznam.cz
+- Discord: `@marek_p` / `🔥𝕄𝕒𝕣𝕖𝕜_𝕡🔥#4775`
+- Email: `marek.mnp@seznam.cz`
 
 ### 🎓 Dovednosti
 Programování: 
