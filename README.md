@@ -185,13 +185,26 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Rekordní Uptime: 100d 1h 6m 45s (16.7.2023)
 - Účel: Hostování Minecraft serverů - Zejména [@MineverseNetwork](https://github.com/MineverseNetwork), případně testovací a rodinné servery
 - Přibližná cena: 25 000 Kč (Leden 2023 - Alza)
+
+#### Server #3
+- 𝗖𝗣𝗨 ➔ `2x` Intel Xeon L5640
+- 𝗥𝗔𝗠 ➔ 128 GB DDR3 ECC Registered 1600 MHz (8x16)
+- 𝗛𝗗𝗗 ➔ `4x` 2 TB SAS 7.2k RPM Dell Constellation
+- Účel: Hostování webových a ostatních služeb, zálohy - Zejména [@MineverseNetwork](https://github.com/MineverseNetwork)
+
+#### Raspberry Pi 5 (Mini PC)
+- 𝗖𝗣𝗨 ➔ ARM Cortex-A76 4 Jádra 2.4 GHz
+- 𝗥𝗔𝗠 ➔ 8 GB LPDDR4
+- 𝗠𝗶𝗰𝗿𝗼 𝗦𝗗 𝗞𝗮𝗿𝘁𝗮 ➔ 64 GB (jako disk)
+- Účel: Experimentování s Linuxem a další náladové věci
+- Přibližná cena: 3 100 Kč (2020 - RPishop, cena zahrnuje i chlazení, kabely, redukce atd.)
   
 #### Raspberry Pi 4 Model B (Mini PC)
 - 𝗖𝗣𝗨 ➔ ARM Cortex-A72 4 Jádra 1.5 Ghz
 - 𝗥𝗔𝗠 ➔ 4 GB LPDDR4
 - 𝗠𝗶𝗰𝗿𝗼 𝗦𝗗 𝗞𝗮𝗿𝘁𝗮 ➔ 32 GB (jako disk)
 - Účel: Experimentování s Linuxem a další náladové věci
-- Přibližná cena: 3 000 Kč (2020 - Alza)
+- Přibližná cena: 3 000 Kč (2020 - Alza, cena zahrnuje i chlazení, kabely, redukce atd.)
 
 #### Myš: Logitech G502 Hero
 - Drátová, Optická, Podsvícená (RGB)
