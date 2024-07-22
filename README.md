@@ -197,7 +197,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 - 𝗥𝗔𝗠 ➔ 8 GB LPDDR4
 - 𝗠𝗶𝗰𝗿𝗼 𝗦𝗗 𝗞𝗮𝗿𝘁𝗮 ➔ 64 GB (jako disk)
 - Účel: Experimentování s Linuxem a další náladové věci
-- Přibližná cena: 3 100 Kč (2020 - RPishop, cena zahrnuje i chlazení, kabely, redukce atd.)
+- Přibližná cena: 3 100 Kč (2024 - RPishop, cena zahrnuje i chlazení, kabely, redukce atd.)
   
 #### Raspberry Pi 4 Model B (Mini PC)
 - 𝗖𝗣𝗨 ➔ ARM Cortex-A72 4 Jádra 1.5 Ghz
