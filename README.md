@@ -172,7 +172,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 - 𝗖𝗣𝗨 ➔ Intel Xeon W3690 6 Jader 3.46 až 3.73 GHz
 - 𝗥𝗔𝗠 ➔ 12 GB DDR3 1333 MHz (3x4, brzy upgrade na 24 GB?)
 - 𝗛𝗗𝗗 ➔ 600 GB HDD SAS 10k RPM (Seagate Exos Enterprise 10E2400)
-- 𝗚𝗣𝗨 ➔ NVIDIA Quadro K2000 8 GB
+- 𝗚𝗣𝗨 ➔ NVIDIA Quadro K2000 2 GB
 - Rekordní Uptime: cca 3 měsíce (2022)
 - Účel: Hostování webů, databází, discord botů a obecné učení Linuxu a virtualizace (docker, proxmox, kubernetes)
 - Přibližná cena: 7 000 Kč (Repasovaný + nový disk, koupen v roce 2020)
