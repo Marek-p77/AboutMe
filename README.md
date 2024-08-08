@@ -169,7 +169,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Přibližná cena: dnes asi 5 000 Kč (Kupovaný v roce 2014 za asi 15 000 Kč, za tu dobu hodně vylepšený)
   
 #### Server #1
-- 𝗖𝗣𝗨 ➔ Intel Xeon W3690 6 Jader 3.46 až 3.73 GHz
+- 𝗖𝗣𝗨 ➔ Intel Xeon W3690 6 Jader 3.46 až 3.73 GHz 130W TDP
 - 𝗥𝗔𝗠 ➔ 12 GB DDR3 1333 MHz (3x4, brzy upgrade na 24 GB?)
 - 𝗛𝗗𝗗 ➔ 600 GB HDD SAS 10k RPM (Seagate Exos Enterprise 10E2400)
 - 𝗚𝗣𝗨 ➔ NVIDIA Quadro K2000 2 GB
@@ -178,7 +178,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Přibližná cena: 7 000 Kč (Repasovaný + nový disk, koupen v roce 2020)
   
 #### Server #2
-- 𝗖𝗣𝗨 ➔ AMD Ryzen 7 5700G 8 Jader 3.8 až 4.6 GHz
+- 𝗖𝗣𝗨 ➔ AMD Ryzen 7 5700G 8 Jader 3.8 až 4.6 GHz 65W TDP
 - 𝗥𝗔𝗠 ➔ 128 GB DDR4 3200 MHz Kingston Fury Beast (4x32, upgrade z 64 GB v červenci 2023)
 - 𝗦𝗦𝗗 ➔ 1 TB SSD M.2 NVMe WD Black SN770
 - 𝗚𝗣𝗨 ➔ Integrovaná v CPU (pro server není potřeba)
@@ -187,7 +187,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 - Přibližná cena: 25 000 Kč (Leden 2023 - Alza)
 
 #### Server #3
-- 𝗖𝗣𝗨 ➔ `2x` Intel Xeon L5640
+- 𝗖𝗣𝗨 ➔ `2x` Intel Xeon L5640 6 Jader 2.26 až 2.8 GHz 60W TDP
 - 𝗥𝗔𝗠 ➔ 128 GB DDR3 ECC Registered 1600 MHz (8x16)
 - 𝗛𝗗𝗗 ➔ `4x` 2 TB SAS 7.2k RPM Dell Constellation
 - Účel: Hostování webových a ostatních služeb, zálohy - Zejména [@MineverseNetwork](https://github.com/MineverseNetwork)
