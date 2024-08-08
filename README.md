@@ -189,7 +189,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 #### Server #3
 - 𝗖𝗣𝗨 ➔ `2x` Intel Xeon L5640 6 Jader 2.26 až 2.8 GHz 60W TDP
 - 𝗥𝗔𝗠 ➔ 128 GB DDR3 ECC Registered 1600 MHz (8x16)
-- 𝗛𝗗𝗗 ➔ `4x` 2 TB SAS 7.2k RPM Dell Constellation
+- 𝗛𝗗𝗗 ➔ `4x` 2 TB SAS 7.2k RPM Dell Constellation (RAID 6)
 - Účel: Hostování webových a ostatních služeb, zálohy - Zejména [@MineverseNetwork](https://github.com/MineverseNetwork)
 
 #### Raspberry Pi 5 (Mini PC)
