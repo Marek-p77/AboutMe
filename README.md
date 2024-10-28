@@ -119,7 +119,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 
 | Typ Projektu | Název Projektu | Má Pozice | Má Doba Působení | Info o Projektu | Má Práce |
 | -- | -- | -- | -- | -- | -- |
-| Minecraft Server | Mineverse Network | Vedení & Hl.Developer | od června 2023 | Unikátní RPG Economy Survival a SkyBlock s prvkami Factions + Eventy | Kompletní správa Technické části a Vedení Technického týmu. |
+| Minecraft Server | [Mineverse Network](https://github.com/MineverseNetwork) | Vedení & Hl.Developer | od června 2023 | Unikátní RPG Economy Survival a SkyBlock s prvkami Factions + Eventy | Kompletní správa Technické části serveru a Vedení Technického týmu. |
 | Minecraft Server | Mineverse RPG | Majitel & Technik / Developer | 6 let (2015 - 2021)* | RPG Survival Economy, většinu času Whitelisted. Rekord hráčů: 18 | Kompletní nastavení, vedení atd. Vlastní plugin pro RPG itemy a schopnosti. |
 | Minecraft Server | Mineverse SMP | Majitel & Technik / Developer | 7 měsíců (leden - červenec 2023) | Whitelisted survival bez pluginů ovlivňujících hru. Rekord hráčů: 7 | Zajištění správného chodu serveru a správa komunity. Vlastní Discord bot se statusem serveru, mc chat. |
 | Minecraft Server | Mineverse Modded | Majitel & Technik | od června 2024 | Whitelisted Forge server s vlastním modpackem pro přátele a rodinu | Zajištění správného chodu serveru, tvorba modpacku |
