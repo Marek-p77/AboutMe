@@ -158,8 +158,8 @@ A mnoho dalších malých věcí pro ulehčení života...
 - 𝗖𝗣𝗨 ➔ AMD Ryzen 5 5600H 6 Jader 3.3 až 4.2 Ghz
 - 𝗥𝗔𝗠 ➔ 32 GB DDR4 3200 MHz Kingston Fury (2x16, upgrade z 16 GB v únoru 2023)
 - 𝗦𝗦𝗗 ➔ 512 GB Samsung MZALQ512HBLU-00BL2
-- 𝗚𝗣𝗨 0 ➔ NVIDIA GeForce GTX 1650 7 GB (dedikovaná)
-- 𝗚𝗣𝗨 1 ➔ AMD Radeon Graphics 5 GB (integrovaná)
+- 𝗚𝗣𝗨 0 ➔ NVIDIA GeForce GTX 1650 4 GB (dedikovaná)
+- 𝗚𝗣𝗨 1 ➔ AMD Radeon Graphics 4 GB (integrovaná)
 - Účel: Programování, hraní a celkově každodenní používání
 - Přibližná cena: 20 000 Kč (2021 - Alza)
   
