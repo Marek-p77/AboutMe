@@ -182,11 +182,11 @@ A mnoho dalších malých věcí pro ulehčení života...
   
 #### Server #2
 - 𝗖𝗣𝗨 ➔ AMD Ryzen 7 5700G 8 Jader 3.8 až 4.6 GHz 65W TDP
+- 𝗚𝗣𝗨 ➔ Nvidia RTX 4060 Ti 16 GB (pro AI)
 - 𝗥𝗔𝗠 ➔ 128 GB DDR4 3200 MHz Kingston Fury Beast (4x32, upgrade z 64 GB v červenci 2023)
 - 𝗦𝗦𝗗 ➔ 1 TB SSD M.2 NVMe WD Black SN770
-- 𝗚𝗣𝗨 ➔ Integrovaná v CPU (pro server není potřeba)
 - Rekordní Uptime: 100d 1h 6m 45s (16.7.2023)
-- Účel: Hostování Minecraft serverů - Zejména [@MineverseNetwork](https://github.com/MineverseNetwork), případně testovací a rodinné servery
+- Účel: Hostování Minecraft serverů a AI - Zejména [@MineverseNetwork](https://github.com/MineverseNetwork), případně testovací a rodinné servery
 - Přibližná cena: 25 000 Kč (Leden 2023 - Alza)
 
 #### Server #3
