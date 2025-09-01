@@ -2,7 +2,7 @@
 # 📜 Kdo že to jsem? 🤔
 
 ### 📄 Informace
-Ahoj. Jmenuji se Marek, je mi 20 let. Jsem vývojář webových aplikací a minecraft pluginů. Studuji na střední škole ekonomické. Programováním se zabývám již pátým rokem a určitě nemám v plánu přestat! :)
+Ahoj. Jmenuji se Marek, je mi 20 let. Jsem vývojář webových aplikací a minecraft pluginů. Vystudoval jsem ekonomickou střední školu a teď studuji vysokou školu ekonomie a managementu. Programováním se zabývám již pátým rokem a určitě nemám v plánu přestat! :)
 
 ### 📁 Projekty na GitHubu?
 Na GitHubu v tuto chvíli nemám žádné veřejné projekty. Proč? Nemám tolik času a ani motivaci pracovat na open-source projektech. Mám spoustu práce a své soukromé projekty. Mám ale v plánu tento rok začít hodně projektů zveřejňovat a udržovat je. Máte se na co těšit 😎
@@ -50,16 +50,29 @@ Programování:
 
   └ Vše co v Javě výše
   
-- Dostačující znalost 𝗦𝗤𝗟:
+- Základní znalost 𝗚𝗼:
 
-  └ [MySQL](https://www.mysql.com/) (PhpMyAdmin & Adminer)
+  └ [Gin](https://gin-gonic.com/) (Web backend)
+
+  └ [Gorm](https://gorm.io/) (ORM pro databáze)
+
+  └ [Gate](https://gate.minekube.com/) (Minecraft proxy)
+
+- Dostačující znalost 𝗦𝗤𝗟/no𝗦𝗤𝗟 Databází:
+
+  └ [MySQL](https://www.mysql.com/)
+
+  └ [PostgreSQL](https://www.postgresql.org/)
+
+  └ [MongoDB](https://www.mongodb.com/)
   
-  
-- Základní znalost 𝗩𝗶𝗿𝘁𝘂𝗮𝗹𝗶𝘇𝗮𝗰𝗲:
+- Mírně pokročilá znalost 𝗩𝗶𝗿𝘁𝘂𝗮𝗹𝗶𝘇𝗮𝗰𝗲:
 
   └ [Docker](https://www.docker.com/) (Docker Compose & Kubernetes)
   
   └ [Proxmox VE](https://www.proxmox.com/en/proxmox-virtual-environment/overview)
+
+  └ [Harvester](https://harvesterhci.io/)
   
   
 #### Programovací jazyky, které nejvíce používám
@@ -134,7 +147,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 | Minecraft Server | Virtus Unita Fortior | Technik | 2 měsíce (červen - červenec 2020) | Politický Survival Economy. Rekord hráčů: ? (odhadem 10 až 15) | Menší úpravy, překlady atd. |
 | Web | Bytové družstvo Miroslav | Web Manager / Web Developer | od srpna 2021 | Informativní web pro bytové družstvo | Kompletní vývoj a správa webu a domény. |
 | Web | Kapela Lindens | Web Manager / Web Developer | od července 2021 | Informativní web pro kapelu |  Kompletní vývoj a správa webu a domény. |
-| Studentská Firma | MIBY | Marketér & Grafik | od listopadu 2023 | Studentská firma, kterou vede naše třída. | Propagace školních akcí na sociálních sítích. Tvorba propagačního materiálu. (Plakáty, vizitky, ceníky, pozvánky) Obecně pomoc s organizací. |
+| Studentská Firma | MIBY | Marketér & Grafik | rok a půl (listopad 2023 - květen 2025) | Studentská firma, kterou vede naše třída. | Propagace školních akcí na sociálních sítích. Tvorba propagačního materiálu. (Plakáty, vizitky, ceníky, pozvánky) Obecně pomoc s organizací. |
 | Komunita | GalaxyCode | Admin & Moderátor & Podpora | 7 měsíců (září 2021 - březen 2022) | Komunita začínajících programátorů | Vedení a moderace Discord komunity. Správa GitHub organizace, tvorba vlastního Discord bota a Webu. |
 | Komunita | IridiumCraft 2.0 | Správce & Moderátor | od ledna 2024 | Komunita hráčů z IridiumCraftu a jejich přátel | Správa a nastavení Discord serveru, moderace komunity, pomoc s vedením |
 | Hosting | MV-Hosting | Admin & Developer & Podpora | 7 měsíců (leden 2021 - červenec 2021) | Ze začátku soukromý, později veřejný hosting Minecraft serverů, Discord botů a později VPS. Rekord hostovaných služeb: 42 | Správa webových stránek, panelu, discord serveru, sítě, financí a komunity společně se zbytkem týmu. |
