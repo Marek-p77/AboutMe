@@ -147,6 +147,7 @@ A mnoho dalších malých věcí pro ulehčení života...
 | Minecraft Server | Virtus Unita Fortior | Technik | 2 měsíce (červen - červenec 2020) | Politický Survival Economy. Rekord hráčů: ? (odhadem 10 až 15) | Menší úpravy, překlady atd. |
 | Web | Bytové družstvo Miroslav | Web Manager / Web Developer | od srpna 2021 | Informativní web pro bytové družstvo | Kompletní vývoj a správa webu a domény. |
 | Web | Kapela Lindens | Web Manager / Web Developer | od července 2021 | Informativní web pro kapelu |  Kompletní vývoj a správa webu a domény. |
+| Web | BT.3D | Web Manager / Web Developer | od února 2025 | Informativní web pro podnikatele |  Kompletní vývoj a správa webu a domény. |
 | Studentská Firma | MIBY | Marketér & Grafik | rok a půl (listopad 2023 - květen 2025) | Studentská firma, kterou vede naše třída. | Propagace školních akcí na sociálních sítích. Tvorba propagačního materiálu. (Plakáty, vizitky, ceníky, pozvánky) Obecně pomoc s organizací. |
 | Komunita | GalaxyCode | Admin & Moderátor & Podpora | 7 měsíců (září 2021 - březen 2022) | Komunita začínajících programátorů | Vedení a moderace Discord komunity. Správa GitHub organizace, tvorba vlastního Discord bota a Webu. |
 | Komunita | IridiumCraft 2.0 | Správce & Moderátor | od ledna 2024 | Komunita hráčů z IridiumCraftu a jejich přátel | Správa a nastavení Discord serveru, moderace komunity, pomoc s vedením |
